@@ -1,0 +1,324 @@
+{
+  "main": {
+    "id": "6d3ab47227ff34b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1cbe4b9be19068d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99231280fc874df0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product and Engineering/Dual Track/Double Diamond.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4f246b44ab714e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product and Engineering/Dual Track/John Schrag - Dual Track Agile.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3bbb3508af850c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agility/Agile Principles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0c2d4f2aad5a928",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "71fd0e5aa727b9ca",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          },
+          {
+            "id": "0f061df18008b572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Building Training/When Building.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3317158389e410ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Important Knowledge/Weber's Law.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "302d43e6a5970e2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product and Engineering/Dual Track/John Schrag - Dual Track Agile.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7800dd74f7d9e0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product and Engineering/Architectural Design/Diagram Models/Process Flow Diagram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19248276b57665e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product and Engineering/Architectural Design/Diagram Models/Entity Relationship Diagram (ERD).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "407c7abbc414f6d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product and Engineering/Architectural Design/Diagram Models/Sequence Diagram.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "7614f56e03e40c6a"
+          },
+          {
+            "id": "7213cd42ea2fc565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product and Engineering/Architectural Design/Diagram Models/Class Diagram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 10
+      },
+      {
+        "id": "c41cf341a3f7a7fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ce2ae61a351cc94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product and Engineering/Architectural Design/Diagram Models/Sequence Diagram.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "7614f56e03e40c6a"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78a38622bc5b4340",
+    "type": "split",
+    "children": [
+      {
+        "id": "306d763a238bc0f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7e435e344094b85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product and Engineering/Architectural Design/Diagram Models/Sequence Diagram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c30b58b732ca64e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e49f2e2c8ea4295",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "474ac7620f9db64b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 389.5
+  },
+  "right": {
+    "id": "9348ad63bb8f78f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1df4dbd5acc11ba6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf8e65acc1e094f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Product and Engineering/Architectural Design/Diagram Models/Sequence Diagram.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "479ed58ee8ea1fc2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Product and Engineering/Architectural Design/Diagram Models/Sequence Diagram.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffa3075aac506a43",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "75f540bb22817992",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Product and Engineering/Architectural Design/Diagram Models/Sequence Diagram.md"
+              }
+            }
+          },
+          {
+            "id": "b01aa9f5a762a266",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product and Engineering/Architectural Design/Diagram Models/Sequence Diagram.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3c30b58b732ca64e",
+  "lastOpenFiles": [
+    "Product and Engineering/Architectural Design/Diagram Models/Sequence Diagram.md",
+    "Product and Engineering/Architectural Design/Diagram Models/Class Diagram.md",
+    "Important Knowledge/Weber's Law.md",
+    "Resources.md",
+    "Product and Engineering/Architectural Design/Diagram Models/Entity Relationship Diagram (ERD).md",
+    "Product and Engineering/Architectural Design/Diagram Models/C4  Diagram.md",
+    "Product and Engineering/Architectural Design/Diagram Models/Process Flow Diagram.md",
+    "Product and Engineering/Dual Track/John Schrag - Dual Track Agile.md",
+    "Product and Engineering/Dual Track/Dual Track Agility.md",
+    "Product and Engineering/Dual Track/Double Diamond.md"
+  ]
+}

@@ -1,0 +1,3 @@
+- Don't just give information, find exercises and activities for people to do during to try and reinforce some of the learning
+- Define a narrative and clear objectives you want completed throughout
+- 

@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "6d3ab47227ff34b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "99231280fc874df0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Management Frameworks/SFIA.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78a38622bc5b4340",
+    "type": "split",
+    "children": [
+      {
+        "id": "306d763a238bc0f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c30b58b732ca64e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e49f2e2c8ea4295",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "474ac7620f9db64b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 389.5
+  },
+  "right": {
+    "id": "9348ad63bb8f78f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1df4dbd5acc11ba6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf8e65acc1e094f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Management Frameworks/SFIA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "479ed58ee8ea1fc2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Management Frameworks/SFIA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffa3075aac506a43",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "75f540bb22817992",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Management Frameworks/SFIA.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "99231280fc874df0",
+  "lastOpenFiles": [
+    "Delivery Frameworks/Jira Setup/Jira - Issue Types.md",
+    "Delivery Frameworks/Jira Setup/Jira - Multiple Teams to one Product Owner.md",
+    "Discovery/Untitled.md",
+    "Building Training/When Building.md",
+    "Delivery Frameworks/Jira Setup/Images/Product Teams to Projects.png",
+    "Tools for Teams/Team Building/Images/Explanation of Fingers for High Five Tool.png",
+    "Tools for Teams/Team Building/Two Truths and a Lie.md",
+    "Tools for Teams/Team Building/Onboarding High Five Me Tool.md",
+    "Important Knowledge/Conway's Law.md",
+    "Types of Team/Product Team.md"
+  ]
+}

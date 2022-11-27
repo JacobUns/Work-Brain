@@ -1,0 +1,2 @@
+![[Double Diamond Image.png]]
+

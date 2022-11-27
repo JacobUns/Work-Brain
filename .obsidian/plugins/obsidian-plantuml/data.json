@@ -1,0 +1,8 @@
+{
+  "server_url": "https://www.plantuml.com/plantuml",
+  "header": "",
+  "debounce": 3,
+  "localJar": "C:\\Users\\jacob\\AppData\\Local\\Obsidian\\Plugin Required Files\\plantuml.jar",
+  "javaPath": "java",
+  "defaultProcessor": "png"
+}

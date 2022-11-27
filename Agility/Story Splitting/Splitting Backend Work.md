@@ -1,0 +1,20 @@
+Spend time understanding what the problem space is first. Do some discovery and understand what we're trying to achieve if the split of work isn't obvious.
+
+Although a lot of people look at Agility and splitting out architectural design as an antipattern, when a team has very little expertise using these types of pattern it doesn't happen organically as part of delivery.
+
+Perfect vertical story splitting works when a mature team is picking up the work, or has individuals with enough experience using atypical design practices naturally. It starts to fall down when expecting teams that don't have experience using design practices like architectural diagramming, and those teams tend to start with code first, and eventually leads to tech debt.
+
+## Examples
+### Insendi, Authorisation
+Identified there were too many horizontal splits of work
+Identified we could define some architecture up front ([[Discovery]])
+Decided to focus on replacing a single permission
+
+Split by Permission
+
+### Insendi, Dark Launching
+Implementing code without planning.
+Picked out through a stand-up, being able to identify what was left
+Spent time on architectural conversation and created sequence diagrams
+
+Split by Flow in Sequence Diagramming
