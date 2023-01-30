@@ -1,0 +1,5 @@
+- Who's costing the most money as a customer?
+	- Are there any customers on very favourable rates?
+	- What's the plan for transitioning them off that rate?
+- How much does it cost to run the platform?
+- 

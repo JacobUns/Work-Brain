@@ -57,7 +57,7 @@ Three Revelations
 	- Scrum Masters own the heart of the process
 	- Choose people who really really care about making it work
 
-Usability Testing
+[[Usability Testing]]
 - Used to wait until you have something to test, create a prototype, plan a test, your protocol, recruit users, bring them in, run the test, write report about what went wrong
 	- Not timeboxed
 	- Don't know how long its going to take

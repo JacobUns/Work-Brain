@@ -16,7 +16,7 @@ The Lean Startup - Eric Ries #TheLeanStartup
 Delivery & UX - https://www.nngroup.com/search/?q=UX%20SCRUM
 Product & Delivery -  https://www.jpattonassociates.com/category/resources/quick-references/
 Product - https://www.svpg.com/articles/
-Architecture - https://www.martinfowler.com
+Architecture - https://www.martinfowler.com #MartinFowler 
 
 ## Podcasts
 Coaching for Leaders
@@ -24,3 +24,4 @@ Scrum Master Toolbox
 
 ## Videos
 John Schrag - Dual Track Agile (From the UXDX Conference 2019) https://www.youtube.com/watch?v=q2dRk3hokEw #JohnSchragDualTrackAgile
+CodeOpinion - YouTube Channel https://www.youtube.com/@CodeOpinion
