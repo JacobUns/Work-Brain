@@ -4,3 +4,4 @@
 - Stick to best practice of Product Backlogs storing all information about the product
 
 ![[Product Teams to Projects.png]]
+

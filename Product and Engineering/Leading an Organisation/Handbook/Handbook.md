@@ -1,0 +1,26 @@
+### Things to include
+- Onboarding Guide for new starters
+- Onboarding guide for managers
+- Tooling and how it's used
+- Standards and Guidelines
+	- Process for creating a new service
+	- Code Quality Standards
+	- Release on Demand and Feature Flagging Guidelines
+- Soft Skills
+	- Time Management
+	- Meeting Facilitation
+	- Coaching
+- Career Competencies
+- Product Processes
+- Engineering processes
+	- Delivery Process
+	- Frameworks used
+	- Discovery Process
+	- Metrics and how we measure them
+- Models and Frameworks
+	- Tuckman's
+	- Test Driven Development
+- Paradigms & Principles
+	- OOP
+	- SOLID
+- Resources

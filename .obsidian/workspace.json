@@ -4,137 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e1cbe4b9be19068d",
+        "id": "68264b4b91a17cd8",
         "type": "tabs",
         "children": [
           {
-            "id": "b2262cdd8668d44e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Product and Engineering/Delivery Frameworks/Jira Setup/Jira - Multiple Teams to one Product Owner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a622f66ba76cb9d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Product and Engineering/Leading an Organisation/Redundancy/Redundancy Process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7907fc60e9e80348",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f5f12593732da6fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Product and Engineering/Engineering/OOP Principles/Inheritance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10e40970d130a47d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Product and Engineering/Engineering/SOLID Principles/SOLID Principles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "183b17bfd0664b83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Product and Engineering/UX/Fitt's Law.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39044acb08b07596",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b60f8a18e9b79ee5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Product and Engineering/Glossary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18e78e713d600ed3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
-          },
-          {
-            "id": "7516dc72e34dd3de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Product and Engineering/Leading an Organisation/Questions when leading an organisation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3bd78840f5c5aaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Support/Support Needs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8f46aedffc97abc",
+            "id": "0cbbf5bb92939a52",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,31 +20,89 @@
             }
           },
           {
-            "id": "f105d25e515ffc4c",
+            "id": "f6fb39ec7bfbb22f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product and Engineering/Engineering/Repository Types/Monorepo.md",
+                "file": "Interview Questions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "430b6399c0103145",
+            "id": "04cf26d21f145a9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product and Engineering/Glossary.md",
+                "file": "Product and Engineering/Delivery Frameworks/Models/Managed Services Delivery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a87927c765bffe88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product and Engineering/Delivery Frameworks/Models/Software as a Service.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f1a37594c042766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product and Engineering/Delivery Frameworks/Models/Infrastructure as a Service.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f43e1ac6d5456a5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Product and Engineering/Delivery Frameworks/Jira Setup/Images/Product Teams to Projects.png"
+              }
+            }
+          },
+          {
+            "id": "dee1cbbe8a375da3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3872c73c7cb29f67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quotes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -233,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 200
   },
   "right": {
     "id": "9348ad63bb8f78f0",
@@ -249,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product and Engineering/Leading an Organisation/Redundancy/Redundancy Process.md",
+                "file": "Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product and Engineering/Leading an Organisation/Redundancy/Redundancy Process.md",
+                "file": "Quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product and Engineering/Leading an Organisation/Redundancy/Redundancy Process.md"
+                "file": "Quotes.md"
               }
             }
           },
@@ -323,17 +255,21 @@
       "publish:Publish changes": false
     }
   },
-  "active": "a622f66ba76cb9d7",
+  "active": "3872c73c7cb29f67",
   "lastOpenFiles": [
-    "Product and Engineering/Risks/ROAMing Risks.md",
+    "Interview Questions.md",
+    "Quotes.md",
+    "QUotes",
+    "Product and Engineering/Leading an Organisation/Things to Measure.md",
+    "Operations/Culture.md",
+    "Operations/Kotter's Model - 8 Steps to Change.md",
+    "Operations/Tuckman's Model - Forming, Storming, Norming, Performing.md",
+    "Operations/Lencioni - 5 Dysfunctions of a Team.md",
+    "Product and Engineering/Delivery Frameworks/Jira Setup/Images/Product Teams to Projects.png",
     "Product and Engineering/Delivery Frameworks/Jira Setup/Jira - Multiple Teams to one Product Owner.md",
     "Product and Engineering/Delivery Frameworks/Jira Setup/Jira - Issue Types.md",
-    "Product and Engineering/Engineering/OOP Principles/Encapsulation.md",
-    "Product and Engineering/Dual Track/Dual Track Agility.md",
-    "Product and Engineering/Dual Track/John Schrag - Dual Track Agile.md",
-    "Product and Engineering/Dual Track/Double Diamond.md",
-    "Product and Engineering/Leading an Organisation/Redundancy/Scoring Mechanism.md",
-    "Product and Engineering/Leading an Organisation/Redundancy/Redundancy Process.md",
-    "Product and Engineering/Glossary.md"
+    "Product and Engineering/Leading an Organisation/Handbook/Handbook.md",
+    "Product and Engineering/Delivery Frameworks/Models/Platform as a Service.md",
+    "Product and Engineering/Delivery Frameworks/Models/Managed Services Delivery.md"
   ]
 }

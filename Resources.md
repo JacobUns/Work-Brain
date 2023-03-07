@@ -11,6 +11,7 @@ Start with Why - Simon Sinek
 7 Habits of Highly Effective People - Stephen Covey
 DevOps Handbook - Gene Kim, Patrick Debois, Jez Humble, John Willis
 The Lean Startup - Eric Ries #TheLeanStartup
+Continuous Discovery Habits - Teresa Torres
 
 ## Blogs
 Delivery & UX - https://www.nngroup.com/search/?q=UX%20SCRUM
