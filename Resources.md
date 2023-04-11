@@ -12,6 +12,8 @@ Start with Why - Simon Sinek
 DevOps Handbook - Gene Kim, Patrick Debois, Jez Humble, John Willis
 The Lean Startup - Eric Ries #TheLeanStartup
 Continuous Discovery Habits - Teresa Torres
+Outcomes Over Outputs - Josh Seidan
+Running Lean - Ash Maurya
 
 ## Blogs
 Delivery & UX - https://www.nngroup.com/search/?q=UX%20SCRUM
