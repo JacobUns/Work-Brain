@@ -1,7 +1,7 @@
 ## Useful Models
 ### Build, Learn, Measure
 ![[Build Learn Measure Model.png]]
-See [[Build-Measure-Learn & Learning & Test Cycles |Build-Measure-Learn]] for more.
+See [[Build-Measure-Learn & Learning Test Cycles|Build-Measure-Learn]] for more.
 ### Dual Track Agile
 ![[Dual Track Delivery and Discovery.png]]
 

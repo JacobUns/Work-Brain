@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product and Engineering/Product/Product Vision Statement.md",
+                "file": "Product and Engineering/Discovery/Build-Measure-Learn & Learning Test Cycles.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product and Engineering/Product/Product Vision Statement.md",
+                "file": "Product and Engineering/Discovery/Build-Measure-Learn & Learning Test Cycles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product and Engineering/Product/Product Vision Statement.md",
+                "file": "Product and Engineering/Discovery/Build-Measure-Learn & Learning Test Cycles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product and Engineering/Product/Product Vision Statement.md"
+                "file": "Product and Engineering/Discovery/Build-Measure-Learn & Learning Test Cycles.md"
               }
             }
           },
@@ -203,8 +203,8 @@
   },
   "active": "529fa19d019f0959",
   "lastOpenFiles": [
-    "Product and Engineering/Product/Story Mapping.md",
     "Product and Engineering/Product/Product Vision Statement.md",
+    "Product and Engineering/Product/Story Mapping.md",
     "Product and Engineering/Product/Images/ICS IoT Agent Scalability and Robustness Story Map.png",
     "Product and Engineering/Product/Images/Story Mapping Workshop Example.png",
     "Product and Engineering/Product/Images/ICS IoT Agent Scalability and Robustness Story Map Original.png",
@@ -216,7 +216,7 @@
     "Discovery.md",
     "Product and Engineering/Discovery/Types of Discovery/Solution Discovery.md",
     "Product and Engineering/Discovery/Types of Discovery/Opportunity Discovery.md",
-    "Product and Engineering/Discovery/Build-Measure-Learn & Learning & Test Cycles.md",
+    "Product and Engineering/Discovery/Build-Measure-Learn & Learning Test Cycles.md",
     "Product and Engineering/Discovery/Types of Discovery",
     "Product and Engineering/Discovery/Types of Discovery.md",
     "Product and Engineering/Dual Track/John Schrag - Dual Track Agile.md",
