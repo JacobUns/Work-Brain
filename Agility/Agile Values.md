@@ -1,8 +1,8 @@
 ## Values
-- Individuals and Interactions over Processes and Tools
-- Working Software over Comprehensive Documentation
-- Customer Collaboration over Contract Negotiation
-- Adapting to Change over Following a Plan
+- **Individuals and Interactions** over Processes and Tools
+- **Working Software** over Comprehensive Documentation
+- **Customer Collaboration** over Contract Negotiation
+- **Adapting to Change** over Following a Plan
 
 ## Detail
 The agile values provide an insight into what the priority should be when delivering projects. The items on the left are the priority, and when crunch time comes they are the things that matter. We prioritise those, over the things on the right, but we still do a lot of those things on the right.

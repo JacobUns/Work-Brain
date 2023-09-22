@@ -7,7 +7,7 @@ Perfect vertical story splitting works when a mature team is picking up the work
 ## Examples
 ### Insendi, Authorisation
 Identified there were too many horizontal splits of work
-Identified we could define some architecture up front ([[Discovery]])
+Identified we could define some architecture up front ([[Solution Discovery]])
 Decided to focus on replacing a single permission
 
 Split by Resource Permission

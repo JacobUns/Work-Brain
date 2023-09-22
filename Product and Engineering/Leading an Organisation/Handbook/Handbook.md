@@ -21,6 +21,7 @@
 	- Tuckman's
 	- Test Driven Development
 - Paradigms & Principles
+	- Agile
 	- OOP
 	- SOLID
 - Resources

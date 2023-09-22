@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "fc452719f31d2369",
+        "id": "411cd649a95f823e",
         "type": "tabs",
         "children": [
           {
-            "id": "a8cd30648da498a9",
+            "id": "52217c058bd3eb99",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Product and Engineering/Product/Images/ICS IoT Agent Scalability and Robustness Story Map Original.png"
+              }
+            }
+          },
+          {
+            "id": "00c205a8aaafe74c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Product and Engineering/Product/Images/ICS IoT Agent Scalability and Robustness Story Map.png"
+              }
+            }
+          },
+          {
+            "id": "529fa19d019f0959",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product and Engineering/Automation Testing/Testing Shapes.md",
+                "file": "Product and Engineering/Product/Product Vision Statement.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 337.5
   },
   "right": {
     "id": "9348ad63bb8f78f0",
@@ -106,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product and Engineering/Automation Testing/Testing Shapes.md",
+                "file": "Product and Engineering/Product/Product Vision Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product and Engineering/Automation Testing/Testing Shapes.md",
+                "file": "Product and Engineering/Product/Product Vision Statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product and Engineering/Automation Testing/Testing Shapes.md"
+                "file": "Product and Engineering/Product/Product Vision Statement.md"
               }
             }
           },
@@ -180,26 +201,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8cd30648da498a9",
+  "active": "529fa19d019f0959",
   "lastOpenFiles": [
-    "Product and Engineering/Automation Testing/Types of Testing/Unit Testing.md",
-    "Product and Engineering/Automation Testing/Types of Testing/End-to-End Testing.md",
-    "Product and Engineering/Delivery Frameworks/Scrum/End of Sprint Opportunites.md",
-    "Interview Questions.md",
-    "Product and Engineering/Delivery Frameworks/Models/Managed Services Delivery.md",
-    "Product and Engineering/Delivery Frameworks/Models/Software as a Service.md",
-    "Product and Engineering/Delivery Frameworks/Models/Infrastructure as a Service.md",
-    "Product and Engineering/Delivery Frameworks/Jira Setup/Images/Product Teams to Projects.png",
-    "Quotes.md",
-    "QUotes",
-    "Product and Engineering/Leading an Organisation/Things to Measure.md",
-    "Operations/Culture.md",
-    "Operations/Kotter's Model - 8 Steps to Change.md",
-    "Operations/Tuckman's Model - Forming, Storming, Norming, Performing.md",
-    "Operations/Lencioni - 5 Dysfunctions of a Team.md",
-    "Product and Engineering/Delivery Frameworks/Jira Setup/Jira - Multiple Teams to one Product Owner.md",
-    "Product and Engineering/Delivery Frameworks/Jira Setup/Jira - Issue Types.md",
+    "Product and Engineering/Product/Story Mapping.md",
+    "Product and Engineering/Product/Product Vision Statement.md",
+    "Product and Engineering/Product/Images/ICS IoT Agent Scalability and Robustness Story Map.png",
+    "Product and Engineering/Product/Images/Story Mapping Workshop Example.png",
+    "Product and Engineering/Product/Images/ICS IoT Agent Scalability and Robustness Story Map Original.png",
+    "Resources.md",
+    "Product and Engineering/Product/Images",
+    "Product and Engineering/Product/Images/Story Mapping Workshop Example Cut Releases.png",
+    "Product and Engineering/Risks/RAID.md",
+    "Agility/Story Splitting/Splitting Backend Work.md",
+    "Discovery.md",
+    "Product and Engineering/Discovery/Types of Discovery/Solution Discovery.md",
+    "Product and Engineering/Discovery/Types of Discovery/Opportunity Discovery.md",
+    "Product and Engineering/Discovery/Build-Measure-Learn & Learning & Test Cycles.md",
+    "Product and Engineering/Discovery/Types of Discovery",
+    "Product and Engineering/Discovery/Types of Discovery.md",
+    "Product and Engineering/Dual Track/John Schrag - Dual Track Agile.md",
+    "Product and Engineering/Dual Track/Dual Track Agility.md",
+    "Product and Engineering/Dual Track/Double Diamond.md",
     "Product and Engineering/Leading an Organisation/Handbook/Handbook.md",
-    "Product and Engineering/Delivery Frameworks/Models/Platform as a Service.md"
+    "Product and Engineering/Leading an Organisation/Organising an organisation/Conway's Law.md",
+    "Product and Engineering/Leading an Organisation/Redundancy/Redundancy Process.md",
+    "Product and Engineering/Leading an Organisation/Redundancy/Scoring Mechanism.md",
+    "Product and Engineering/Leading an Organisation/Things to Measure.md",
+    "Product and Engineering/Leading an Organisation/Questions when leading an organisation.md",
+    "Product and Engineering/Leading an Organisation/Employer Net Promoter Score - eNPS.md",
+    "Product and Engineering/Mechanical/Design Failure Mode Effect Analysis.md",
+    "Product and Engineering/Mechanical/Design for Manufacture Assembly and Services.md",
+    "Product and Engineering/Mechanical/Process Failure Mode Effect Analysis.md",
+    "Product and Engineering/Mechanical/Mechanical Engineering.md",
+    "Product and Engineering/Acronyms.md",
+    "Product and Engineering/Untitled",
+    "Product and Engineering/Product",
+    "Product and Engineering/Delivery Frameworks/Jira Setup/Images/Product Teams to Projects.png",
+    "QUotes"
   ]
 }
