@@ -4,105 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "68264b4b91a17cd8",
+        "id": "fc452719f31d2369",
         "type": "tabs",
         "children": [
           {
-            "id": "0cbbf5bb92939a52",
+            "id": "a8cd30648da498a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product and Engineering/Delivery Frameworks/Scrum/End of Sprint Opportunites.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6fb39ec7bfbb22f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04cf26d21f145a9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Product and Engineering/Delivery Frameworks/Models/Managed Services Delivery.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a87927c765bffe88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Product and Engineering/Delivery Frameworks/Models/Software as a Service.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f1a37594c042766",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Product and Engineering/Delivery Frameworks/Models/Infrastructure as a Service.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f43e1ac6d5456a5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Product and Engineering/Delivery Frameworks/Jira Setup/Images/Product Teams to Projects.png"
-              }
-            }
-          },
-          {
-            "id": "dee1cbbe8a375da3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3872c73c7cb29f67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quotes.md",
+                "file": "Product and Engineering/Automation Testing/Testing Shapes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,6 +76,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "7a947f07604c23d6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -181,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quotes.md",
+                "file": "Product and Engineering/Automation Testing/Testing Shapes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quotes.md",
+                "file": "Product and Engineering/Automation Testing/Testing Shapes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quotes.md"
+                "file": "Product and Engineering/Automation Testing/Testing Shapes.md"
               }
             }
           },
@@ -246,18 +171,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "publish:Publish changes": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "3872c73c7cb29f67",
+  "active": "a8cd30648da498a9",
   "lastOpenFiles": [
+    "Product and Engineering/Automation Testing/Types of Testing/Unit Testing.md",
+    "Product and Engineering/Automation Testing/Types of Testing/End-to-End Testing.md",
+    "Product and Engineering/Delivery Frameworks/Scrum/End of Sprint Opportunites.md",
     "Interview Questions.md",
+    "Product and Engineering/Delivery Frameworks/Models/Managed Services Delivery.md",
+    "Product and Engineering/Delivery Frameworks/Models/Software as a Service.md",
+    "Product and Engineering/Delivery Frameworks/Models/Infrastructure as a Service.md",
+    "Product and Engineering/Delivery Frameworks/Jira Setup/Images/Product Teams to Projects.png",
     "Quotes.md",
     "QUotes",
     "Product and Engineering/Leading an Organisation/Things to Measure.md",
@@ -265,11 +197,9 @@
     "Operations/Kotter's Model - 8 Steps to Change.md",
     "Operations/Tuckman's Model - Forming, Storming, Norming, Performing.md",
     "Operations/Lencioni - 5 Dysfunctions of a Team.md",
-    "Product and Engineering/Delivery Frameworks/Jira Setup/Images/Product Teams to Projects.png",
     "Product and Engineering/Delivery Frameworks/Jira Setup/Jira - Multiple Teams to one Product Owner.md",
     "Product and Engineering/Delivery Frameworks/Jira Setup/Jira - Issue Types.md",
     "Product and Engineering/Leading an Organisation/Handbook/Handbook.md",
-    "Product and Engineering/Delivery Frameworks/Models/Platform as a Service.md",
-    "Product and Engineering/Delivery Frameworks/Models/Managed Services Delivery.md"
+    "Product and Engineering/Delivery Frameworks/Models/Platform as a Service.md"
   ]
 }
