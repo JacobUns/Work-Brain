@@ -2,4 +2,4 @@
 	- Are there any customers on very favourable rates?
 	- What's the plan for transitioning them off that rate?
 - How much does it cost to run the platform?
-- 
+- What risks are we carrying?
