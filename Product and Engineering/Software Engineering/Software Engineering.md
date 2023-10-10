@@ -1,0 +1,1 @@
+Software Engineering is the discipline or domain that covers all aspects of product development towards Software components, such as [[DevOps|DevOps Practices]]

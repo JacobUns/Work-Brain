@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a7f08797fc869ec9",
+        "id": "bbc438d4ff82f946",
         "type": "tabs",
         "children": [
           {
-            "id": "a95e030f7cbf74d7",
+            "id": "ea2d31aad77dff66",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Product and Engineering/SIPOC.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -34,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product and Engineering/Architectural Design/Diagram Models/Sequence Diagram.md",
+                "file": "Product and Engineering/Software Engineering/Architectural Design/Diagram Models/Sequence Diagram.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 335.5
   },
   "right": {
     "id": "9348ad63bb8f78f0",
@@ -102,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Product and Engineering/SIPOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Product and Engineering/SIPOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Product and Engineering/SIPOC.md"
+              }
             }
           },
           {
@@ -148,7 +156,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product and Engineering/Architectural Design/Diagram Models/Sequence Diagram.md",
+                "file": "Product and Engineering/Software Engineering/Architectural Design/Diagram Models/Sequence Diagram.md",
                 "mode": "preview",
                 "source": true
               }
@@ -172,40 +180,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a95e030f7cbf74d7",
+  "active": "ea2d31aad77dff66",
   "lastOpenFiles": [
-    "Product and Engineering/Mechanical/Mechanical Engineering.md",
-    "Product and Engineering/Mechanical/Design for Manufacture Assembly and Services.md",
-    "Agility/Agile.md",
+    "Product and Engineering/SIPOC.md",
+    "Product and Engineering/Software Engineering/Architectural Design/Diagram Models/C4  Diagram.md",
+    "Product and Engineering/Software Engineering/Architectural Design/Architecture.md",
+    "Product and Engineering/Risks/Risk.md",
+    "Product and Engineering/Risks/RAID.md",
+    "Product and Engineering/Risks/Types of Risk.md",
     "Operations/Diffusion of innovations.md",
+    "Product and Engineering/Delivery Frameworks/Scrum/Scrum.md",
+    "Product and Engineering/Delivery Frameworks/Scrum/End of Sprint Activity Opportunities.md",
+    "Product and Engineering/Software Engineering/Software Engineering.md",
+    "Product and Engineering/Software Engineering/Repositories.md",
+    "Product and Engineering/Software Engineering/Repository Types/Monorepo.md",
+    "SAFe.md",
+    "Product and Engineering/Software Engineering/DevOps/DevOps Maturity.md",
+    "Product and Engineering/Leading an Organisation/Conway's Law.md",
+    "Product and Engineering/Leading an Organisation/Handbook/Handbook.md",
+    "Product and Engineering/Software Engineering/Automation Testing/Types of Testing/Integration Testing/Big Bang Testing.md",
+    "Product and Engineering/Mechanical Engineering/Mechanical Engineering.md",
+    "Product and Engineering/Mechanical Engineering/Design for Manufacture Assembly and Services.md",
+    "Agility/Agile.md",
     "Operations/Images/Rogers' Adoption Bell Curve.png",
-    "Product and Engineering/DevOps/Release on Demand.md",
+    "Product and Engineering/Software Engineering/DevOps/Release on Demand.md",
     "Product and Engineering/Research/AB Testing.md",
     "Product and Engineering/UX/Testing Methods/Usability Testing.md",
     "Product and Engineering/UX/User Experience.md",
     "Product and Engineering/UX/Testing Methods/Fake Door Test.md",
     "Product and Engineering/UX/Laws/Fitt's Law.md",
-    "Product and Engineering/UX/Laws/Law of Proximity.md",
     "Product and Engineering/UX/Laws",
     "Product and Engineering/Research",
-    "Product and Engineering/Research/Customer Interview.md",
-    "Product and Engineering/Automation Testing/Types of Testing/Integration Testing/Top-down Testing.md",
-    "Product and Engineering/Automation Testing/Types of Testing/Integration Testing/Contract Testing.md",
-    "Product and Engineering/Automation Testing/Types of Testing/Integration Testing.md",
-    "Agility/Story Splitting/Splitting Backend Work.md",
-    "Product and Engineering/Product/Story Mapping.md",
-    "Agility/Estimation.md",
-    "Agility/Weber-Fechner Law.md",
-    "Product and Engineering/Leading an Organisation/Questions when leading an organisation.md",
-    "Product and Engineering/Leading an Organisation/Handbook/Handbook.md",
-    "Operations/Culture.md",
-    "Product and Engineering/Dual Track/John Schrag - Dual Track Agile.md",
-    "Operations/Lencioni - 5 Dysfunctions of a Team.md",
     "Operations/Images/High-performing Teams.png",
     "Operations/Images",
     "Operations/Images/Lencioni's 5 dysfunctions of a team pyramid.png",
-    "Operations/Tuckman's Model.md",
-    "Operations/Kotter's Model - 8 Steps to Change.md",
     "Product and Engineering/Product/Images/ICS IoT Agent Scalability and Robustness Story Map Original.png",
     "Product and Engineering/Product/Images/ICS IoT Agent Scalability and Robustness Story Map.png",
     "Product and Engineering/Product/Images/Story Mapping Workshop Example.png",
