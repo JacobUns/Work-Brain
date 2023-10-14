@@ -1,1 +1,3 @@
-Software Engineering is the discipline or domain that covers all aspects of product development towards Software components, such as [[DevOps|DevOps Practices]]
+Software Engineering is the discipline or domain that covers all aspects of development towards software products, mostly consisting of the development of code but also encompasses all supporting competencies, such as [[DevOps|DevOps Practices]], testing practices such as [[Test Driven Development]], testing approaches such as [[Automation Testing |Automation]] and [[Manual Testing]], version control with [[Repositories]], and different approaches to [[Architecture]].
+
+The main competency of the Software Engineering is the development of 

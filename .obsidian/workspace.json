@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bbc438d4ff82f946",
+        "id": "cff7cac5e8028a95",
         "type": "tabs",
         "children": [
           {
-            "id": "ea2d31aad77dff66",
+            "id": "ebf9aa0ab1c4f0fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product and Engineering/SIPOC.md",
+                "file": "Product and Engineering/Software Engineering/Test Driven Development.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product and Engineering/SIPOC.md",
+                "file": "Product and Engineering/Software Engineering/Test Driven Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product and Engineering/SIPOC.md",
+                "file": "Product and Engineering/Software Engineering/Test Driven Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product and Engineering/SIPOC.md"
+                "file": "Product and Engineering/Software Engineering/Test Driven Development.md"
               }
             }
           },
@@ -180,10 +180,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea2d31aad77dff66",
+  "active": "3c30b58b732ca64e",
   "lastOpenFiles": [
-    "SIPOC Visualisation.png",
+    "Product and Engineering/Software Engineering/Testing",
+    "Product and Engineering/Software Engineering/Software Engineering.md",
+    "Product and Engineering/Leading an Organisation/Conway's Law.md",
+    "Product and Engineering/Software Engineering/Repositories.md",
+    "Product and Engineering/Software Engineering/Testing/Automation Testing/Automation Testing.md",
+    "Product and Engineering/Delivery Frameworks/Kanban.md",
     "Product and Engineering/SIPOC.md",
+    "SIPOC Visualisation.png",
     "Product and Engineering/Software Engineering/Architectural Design/Diagram Models/C4  Diagram.md",
     "Product and Engineering/Software Engineering/Architectural Design/Architecture.md",
     "Product and Engineering/Risks/Risk.md",
@@ -192,14 +198,11 @@
     "Operations/Diffusion of innovations.md",
     "Product and Engineering/Delivery Frameworks/Scrum/Scrum.md",
     "Product and Engineering/Delivery Frameworks/Scrum/End of Sprint Activity Opportunities.md",
-    "Product and Engineering/Software Engineering/Software Engineering.md",
-    "Product and Engineering/Software Engineering/Repositories.md",
     "Product and Engineering/Software Engineering/Repository Types/Monorepo.md",
-    "SAFe.md",
+    "Product and Engineering/Delivery Frameworks/SAFe.md",
     "Product and Engineering/Software Engineering/DevOps/DevOps Maturity.md",
-    "Product and Engineering/Leading an Organisation/Conway's Law.md",
     "Product and Engineering/Leading an Organisation/Handbook/Handbook.md",
-    "Product and Engineering/Software Engineering/Automation Testing/Types of Testing/Integration Testing/Big Bang Testing.md",
+    "Product and Engineering/Software Engineering/Testing/Types of Testing/Integration Testing/Big Bang Testing.md",
     "Product and Engineering/Mechanical Engineering/Mechanical Engineering.md",
     "Product and Engineering/Mechanical Engineering/Design for Manufacture Assembly and Services.md",
     "Agility/Agile.md",
@@ -207,8 +210,6 @@
     "Product and Engineering/Software Engineering/DevOps/Release on Demand.md",
     "Product and Engineering/Research/AB Testing.md",
     "Product and Engineering/UX/Testing Methods/Usability Testing.md",
-    "Product and Engineering/UX/User Experience.md",
-    "Product and Engineering/UX/Testing Methods/Fake Door Test.md",
     "Product and Engineering/UX/Laws",
     "Product and Engineering/Research",
     "Operations/Images/High-performing Teams.png",
