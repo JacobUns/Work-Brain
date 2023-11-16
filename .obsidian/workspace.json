@@ -4,16 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bbc438d4ff82f946",
+        "id": "cff7cac5e8028a95",
         "type": "tabs",
         "children": [
           {
-            "id": "ea2d31aad77dff66",
+            "id": "ebf9aa0ab1c4f0fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Product and Engineering/Delivery/Roles & Responsibilities/RACI.md",
+=======
+                "file": "Product and Engineering/Software Engineering/Test Driven Development.md",
+>>>>>>> 24533240cec8c054336616b908d481fc93b725a5
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +110,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Product and Engineering/Delivery/Roles & Responsibilities/RACI.md",
+=======
+                "file": "Product and Engineering/Software Engineering/Test Driven Development.md",
+>>>>>>> 24533240cec8c054336616b908d481fc93b725a5
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +131,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Product and Engineering/Delivery/Roles & Responsibilities/RACI.md",
+=======
+                "file": "Product and Engineering/Software Engineering/Test Driven Development.md",
+>>>>>>> 24533240cec8c054336616b908d481fc93b725a5
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Product and Engineering/Delivery/Roles & Responsibilities/RACI.md"
+=======
+                "file": "Product and Engineering/Software Engineering/Test Driven Development.md"
+>>>>>>> 24533240cec8c054336616b908d481fc93b725a5
               }
             }
           },
@@ -180,8 +196,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea2d31aad77dff66",
+  "active": "3c30b58b732ca64e",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Product and Engineering/Delivery/Roles & Responsibilities/Roles & Responsibilities.md",
     "Product and Engineering/Delivery/Roles & Responsibilities/RACI.md",
     "Product and Engineering/Leading an Organisation/Handbook/Handbook.md",
@@ -199,20 +216,46 @@
     "Product and Engineering/Images",
     "Product and Engineering/SIPOC.md",
     "Product and Engineering/Images/SIPOC Visualisation.png",
+=======
+    "Product and Engineering/Software Engineering/Testing",
+    "Product and Engineering/Software Engineering/Software Engineering.md",
+    "Product and Engineering/Leading an Organisation/Conway's Law.md",
+    "Product and Engineering/Software Engineering/Repositories.md",
+    "Product and Engineering/Software Engineering/Testing/Automation Testing/Automation Testing.md",
+    "Product and Engineering/Delivery Frameworks/Kanban.md",
+    "Product and Engineering/SIPOC.md",
+    "SIPOC Visualisation.png",
+>>>>>>> 24533240cec8c054336616b908d481fc93b725a5
     "Product and Engineering/Software Engineering/Architectural Design/Diagram Models/C4  Diagram.md",
     "Product and Engineering/Software Engineering/Architectural Design/Architecture.md",
     "Product and Engineering/Risks/Risk.md",
     "Product and Engineering/Risks/RAID.md",
     "Product and Engineering/Risks/Types of Risk.md",
     "Operations/Diffusion of innovations.md",
+<<<<<<< HEAD
     "Product and Engineering/Delivery/Frameworks/Scrum/Scrum.md",
     "Product and Engineering/Delivery/Frameworks/Scrum/End of Sprint Activity Opportunities.md",
     "Product and Engineering/Software Engineering/Software Engineering.md",
     "Product and Engineering/Software Engineering/Repositories.md",
     "Product and Engineering/Leading an Organisation/Conway's Law.md",
     "Product and Engineering/Software Engineering/Automation Testing/Types of Testing/Integration Testing/Big Bang Testing.md",
+=======
+    "Product and Engineering/Delivery Frameworks/Scrum/Scrum.md",
+    "Product and Engineering/Delivery Frameworks/Scrum/End of Sprint Activity Opportunities.md",
+    "Product and Engineering/Software Engineering/Repository Types/Monorepo.md",
+    "Product and Engineering/Delivery Frameworks/SAFe.md",
+    "Product and Engineering/Software Engineering/DevOps/DevOps Maturity.md",
+    "Product and Engineering/Leading an Organisation/Handbook/Handbook.md",
+    "Product and Engineering/Software Engineering/Testing/Types of Testing/Integration Testing/Big Bang Testing.md",
+>>>>>>> 24533240cec8c054336616b908d481fc93b725a5
     "Product and Engineering/Mechanical Engineering/Mechanical Engineering.md",
     "Operations/Images/Rogers' Adoption Bell Curve.png",
+<<<<<<< HEAD
+=======
+    "Product and Engineering/Software Engineering/DevOps/Release on Demand.md",
+    "Product and Engineering/Research/AB Testing.md",
+    "Product and Engineering/UX/Testing Methods/Usability Testing.md",
+>>>>>>> 24533240cec8c054336616b908d481fc93b725a5
     "Product and Engineering/UX/Laws",
     "Product and Engineering/Research",
     "Operations/Images/High-performing Teams.png",
