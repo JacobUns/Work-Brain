@@ -1,1 +1,1 @@
-Terragrunt - Library
+Terragrunt - Library for structuring Terraform files in an OOP manner

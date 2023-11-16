@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product and Engineering/SIPOC.md",
+                "file": "Product and Engineering/Delivery/Roles & Responsibilities/RACI.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product and Engineering/SIPOC.md",
+                "file": "Product and Engineering/Delivery/Roles & Responsibilities/RACI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product and Engineering/SIPOC.md",
+                "file": "Product and Engineering/Delivery/Roles & Responsibilities/RACI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product and Engineering/SIPOC.md"
+                "file": "Product and Engineering/Delivery/Roles & Responsibilities/RACI.md"
               }
             }
           },
@@ -182,33 +182,37 @@
   },
   "active": "ea2d31aad77dff66",
   "lastOpenFiles": [
-    "SIPOC Visualisation.png",
+    "Product and Engineering/Delivery/Roles & Responsibilities/Roles & Responsibilities.md",
+    "Product and Engineering/Delivery/Roles & Responsibilities/RACI.md",
+    "Product and Engineering/Leading an Organisation/Handbook/Handbook.md",
+    "Product and Engineering/Delivery/Roles & Responsibilities",
+    "Product and Engineering/Delivery",
+    "Operations/Lencioni - 5 Dysfunctions of a Team.md",
+    "Operations/Kotter's Model - 8 Steps to Change.md",
+    "Product and Engineering/Software Engineering/DevOps/Tools.md",
+    "Product and Engineering/Software Engineering/DevOps/Release on Demand.md",
+    "Product and Engineering/Software Engineering/DevOps/Glossary.md",
+    "Product and Engineering/Software Engineering/DevOps/DevOps Maturity.md",
+    "Product and Engineering/Software Engineering/Repository Types/Monorepo.md",
+    "Product and Engineering/Software Engineering/Repository Types/Polyrepo.md",
+    "Product and Engineering/Delivery/Frameworks/SAFe.md",
+    "Product and Engineering/Images",
     "Product and Engineering/SIPOC.md",
+    "Product and Engineering/Images/SIPOC Visualisation.png",
     "Product and Engineering/Software Engineering/Architectural Design/Diagram Models/C4  Diagram.md",
     "Product and Engineering/Software Engineering/Architectural Design/Architecture.md",
     "Product and Engineering/Risks/Risk.md",
     "Product and Engineering/Risks/RAID.md",
     "Product and Engineering/Risks/Types of Risk.md",
     "Operations/Diffusion of innovations.md",
-    "Product and Engineering/Delivery Frameworks/Scrum/Scrum.md",
-    "Product and Engineering/Delivery Frameworks/Scrum/End of Sprint Activity Opportunities.md",
+    "Product and Engineering/Delivery/Frameworks/Scrum/Scrum.md",
+    "Product and Engineering/Delivery/Frameworks/Scrum/End of Sprint Activity Opportunities.md",
     "Product and Engineering/Software Engineering/Software Engineering.md",
     "Product and Engineering/Software Engineering/Repositories.md",
-    "Product and Engineering/Software Engineering/Repository Types/Monorepo.md",
-    "SAFe.md",
-    "Product and Engineering/Software Engineering/DevOps/DevOps Maturity.md",
     "Product and Engineering/Leading an Organisation/Conway's Law.md",
-    "Product and Engineering/Leading an Organisation/Handbook/Handbook.md",
     "Product and Engineering/Software Engineering/Automation Testing/Types of Testing/Integration Testing/Big Bang Testing.md",
     "Product and Engineering/Mechanical Engineering/Mechanical Engineering.md",
-    "Product and Engineering/Mechanical Engineering/Design for Manufacture Assembly and Services.md",
-    "Agility/Agile.md",
     "Operations/Images/Rogers' Adoption Bell Curve.png",
-    "Product and Engineering/Software Engineering/DevOps/Release on Demand.md",
-    "Product and Engineering/Research/AB Testing.md",
-    "Product and Engineering/UX/Testing Methods/Usability Testing.md",
-    "Product and Engineering/UX/User Experience.md",
-    "Product and Engineering/UX/Testing Methods/Fake Door Test.md",
     "Product and Engineering/UX/Laws",
     "Product and Engineering/Research",
     "Operations/Images/High-performing Teams.png",
@@ -221,7 +225,7 @@
     "Product and Engineering/Product/Images/Story Mapping Workshop Example Cut Releases.png",
     "Product and Engineering/Discovery/Types of Discovery",
     "Product and Engineering/Product",
-    "Product and Engineering/Delivery Frameworks/Jira Setup/Images/Product Teams to Projects.png",
+    "Product and Engineering/Delivery/Frameworks/Jira Setup/Images/Product Teams to Projects.png",
     "QUotes"
   ]
 }
