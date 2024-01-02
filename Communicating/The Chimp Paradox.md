@@ -16,7 +16,7 @@ Located in the Limbic system
 #### Exercises
 
 ### Computer
-Located in the Parietal
+Located in the Parietal (par-eye-ah-tal)
 
 ### Gremlins
 ### Goblins
