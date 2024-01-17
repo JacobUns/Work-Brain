@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communicating/The Chimp Paradox.md",
+                "file": "Product and Engineering/Delivery/Scenario Planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communicating/The Chimp Paradox.md",
+                "file": "Product and Engineering/Delivery/Scenario Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communicating/The Chimp Paradox.md",
+                "file": "Product and Engineering/Delivery/Scenario Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communicating/The Chimp Paradox.md"
+                "file": "Product and Engineering/Delivery/Scenario Planning.md"
               }
             }
           }
@@ -166,8 +166,17 @@
   },
   "active": "1363c9f4478cc56e",
   "lastOpenFiles": [
-    "Communicating/Understanding Others.md",
+    "Key factors matrix.png",
+    "Scenarios for developing Asset Management Operating.png",
+    "Agility/Story Splitting/Splitting Backend Work.md",
+    "Product and Engineering/Delivery/Scenario Planning.md",
+    "Agility/Agile Values.md",
+    "Agility/Agile Principles.md",
+    "Agility/Agile.md",
+    "Agility/Estimation.md",
+    "Operations/Diffusion of innovations.md",
     "Communicating/The Chimp Paradox.md",
+    "Communicating/Understanding Others.md",
     "Communicating/Images",
     "Communicating/Images/Chimp Paradox Visual Summary.jpg",
     "Communicating",
