@@ -8,7 +8,6 @@ Informed
 - Each task on a RACI must have at least one responsible member
 - This person does work towards completing the task
 - There can be multiple responsible parties assigned on a RACI
--
 ## Accountable
 - This person is in charge of delegating work and approving the deliverable is complete
 - May also be Responsible for a task
