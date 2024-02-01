@@ -11,23 +11,9 @@
             "id": "6b6712319af5870a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Product and Engineering/Delivery/Measurement/Delivery Metrics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00003dca577b33b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Production/Physical Product Production.md",
-                "mode": "source",
-                "source": false
+                "file": "Product and Engineering/Delivery/Measurement/Images/Delivery Metrics Dashboard.png"
               }
             }
           }
@@ -105,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product and Engineering/Delivery/Measurement/Delivery Metrics.md",
+                "file": "Product and Engineering/Delivery/Measurement/Images/Delivery Metrics Dashboard.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product and Engineering/Delivery/Measurement/Delivery Metrics.md",
+                "file": "Product and Engineering/Delivery/Measurement/Images/Delivery Metrics Dashboard.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,11 +131,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product and Engineering/Delivery/Measurement/Delivery Metrics.md"
+                "file": "Product and Engineering/Delivery/Measurement/Images/Delivery Metrics Dashboard.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -166,13 +153,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "cf8e65acc1e094f3",
+  "active": "3c30b58b732ca64e",
   "lastOpenFiles": [
-    "Agile/Weber-Fechner Law.md",
+    "Product and Engineering/Product/Images/AMOM roadmap example.png",
+    "Product and Engineering/Delivery/Measurement/Images/Delivery Metrics Dashboard.png",
+    "Product and Engineering/Product/Roadmapping.md",
+    "Product and Engineering/Product/Product Metrics.md",
     "Production/Physical Product Production.md",
     "Product and Engineering/Delivery/Measurement/Delivery Metrics.md",
+    "Agile/Weber-Fechner Law.md",
     "Product and Engineering/Delivery/Measurement/Delivery Metrics Dashboards.md",
-    "Pasted image 20240117153337.png",
     "Velocity.md",
     "Untitled",
     "Product and Engineering/Delivery/Images/Scenarios for developing Asset Management Operating.png",
@@ -203,10 +193,7 @@
     "Delivery Frameworks/Jira Setup/Jira - Issue Types.md",
     "Delivery Frameworks/Jira Setup/Jira - Multiple Teams to one Product Owner.md",
     "Discovery/Untitled.md",
-    "Building Training/When Building.md",
     "Delivery Frameworks/Jira Setup/Images/Product Teams to Projects.png",
-    "Tools for Teams/Team Building/Images/Explanation of Fingers for High Five Tool.png",
-    "Tools for Teams/Team Building/Two Truths and a Lie.md",
-    "Tools for Teams/Team Building/Onboarding High Five Me Tool.md"
+    "Tools for Teams/Team Building/Images/Explanation of Fingers for High Five Tool.png"
   ]
 }
