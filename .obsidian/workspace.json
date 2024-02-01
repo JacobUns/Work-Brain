@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b459c4af45e21755",
+        "id": "02f88b3aba8f3ed5",
         "type": "tabs",
         "children": [
           {
-            "id": "8f12955896e34165",
+            "id": "7cb47b5d74f5da2c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Product and Engineering/Product/Story Mapping.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#JohnSchragDualTrackAgile",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product and Engineering/Product/Story Mapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product and Engineering/Product/Story Mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Product and Engineering/Product/Story Mapping.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -155,48 +147,50 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "8f12955896e34165",
+  "active": "7cb47b5d74f5da2c",
   "lastOpenFiles": [
-    "Product and Engineering/Product/Roadmapping.md",
-    "Product and Engineering/Product/Story Mapping.md",
-    "Product and Engineering/Product/Product Vision Statement.md",
+    "Product and Engineering/Delivery/Operational Planning.md",
+    "Product and Engineering/Software Engineering/Testing/Images/TDD TRbGbR Framework.png",
+    "Product and Engineering/Software Engineering/Repository Types/Monorepo.md",
+    "Product and Engineering/Software Engineering/Architectural Design/Diagram Models/C4  Diagram.md",
+    "Product and Engineering/Software Engineering/Architectural Design/Diagram Models/Class Diagram.md",
+    "Product and Engineering/Software Engineering/Testing/Automation Testing/Solitary Test.md",
+    "Product and Engineering/Software Engineering/Testing/Automation Testing/Stubbing.md",
+    "Product and Engineering/Software Engineering/Testing/Types of Testing/Integration Testing/Big Bang Testing.md",
+    "Product and Engineering/Dual Track/John Schrag - Dual Track Agile.md",
+    "Resources.md",
+    "Product and Engineering/Software Engineering/Testing/Automation Testing/Sociable Test.md",
+    "Product and Engineering/Software Engineering/Testing/Automation Testing/Mocking.md",
+    "Product and Engineering/Software Engineering/Testing/Automation Testing/Automation Testing.md",
+    "Product and Engineering/Software Engineering/OOP Principles/Object Orientated Programming.md",
+    "Product and Engineering/Software Engineering/OOP Principles/Inheritance.md",
+    "Product and Engineering/Software Engineering/OOP Principles/Encapsulation.md",
+    "Product and Engineering/Software Engineering/OOP Principles/Abstraction.md",
+    "Product and Engineering/Software Engineering/DevOps/Tools.md",
+    "Product and Engineering/Software Engineering/DevOps/Release on Demand.md",
+    "Product and Engineering/Software Engineering/DevOps/Glossary.md",
+    "Product and Engineering/Software Engineering/DevOps/DevOps Maturity.md",
+    "Product and Engineering/Software Engineering/Architectural Design/Architecture.md",
+    "Product and Engineering/Software Engineering/Architectural Design/Diagram Models/Sequence Diagram.md",
+    "Product and Engineering/Software Engineering/Architectural Design/Diagram Models/Process Flow Diagram.md",
+    "Product and Engineering/Software Engineering/Architectural Design/Diagram Models/Entity Relationship Diagram (ERD).md",
+    "Product and Engineering/Risks/RAID.md",
+    "Product and Engineering/Research/Customer Interview.md",
+    "Product and Engineering/Leading an Organisation/Images/Things to measure.png",
     "Product and Engineering/Delivery/Measurement/Images/Delivery Metrics Dashboard.png",
+    "Operations/Images/Lencioni's 5 dysfunctions of a team pyramid.png",
+    "Operations/Images/High-performing Teams.png",
     "Product and Engineering/Product/Images/AMOM roadmap example.png",
-    "Product and Engineering/Product/Product Metrics.md",
-    "Production/Physical Product Production.md",
-    "Product and Engineering/Delivery/Measurement/Delivery Metrics.md",
-    "Agile/Weber-Fechner Law.md",
-    "Product and Engineering/Delivery/Measurement/Delivery Metrics Dashboards.md",
-    "Velocity.md",
     "Untitled",
     "Product and Engineering/Delivery/Images/Scenarios for developing Asset Management Operating.png",
     "Product and Engineering/Delivery/Measurement/Untitled",
     "Product and Engineering/Delivery/Measurement/Images/ICS Dashboard Example.png",
-    "Product and Engineering/Delivery/Measurement/Engineering Benchmarks.md",
-    "Agile/Frameworks/SAFe.md",
     "Agile/Frameworks",
-    "Agile/Work Item Types.md",
-    "Product and Engineering/Delivery/Roles & Responsibilities/RACI.md",
-    "Product and Engineering/Delivery/Roles & Responsibilities/Roles & Responsibilities.md",
-    "Product and Engineering/Delivery/Operational Planning.md",
     "Product and Engineering/Delivery/Images/Key factors matrix.png",
     "Product and Engineering/Delivery/Images",
     "Production",
-    "Product and Engineering/Delivery/Scenario Planning.md",
-    "Agile/Story Splitting/Splitting Backend Work.md",
-    "Agile/Agile Values.md",
-    "Agile/Agile Principles.md",
-    "Agile/Agile.md",
-    "Agile/Estimation.md",
-    "Operations/Diffusion of innovations.md",
-    "Communicating/The Chimp Paradox.md",
-    "Communicating/Understanding Others.md",
     "Communicating/Images",
     "Communicating/Images/Chimp Paradox Visual Summary.jpg",
-    "Communicating",
-    "Delivery Frameworks/Jira Setup/Jira - Issue Types.md",
-    "Delivery Frameworks/Jira Setup/Jira - Multiple Teams to one Product Owner.md",
-    "Delivery Frameworks/Jira Setup/Images/Product Teams to Projects.png",
-    "Tools for Teams/Team Building/Images/Explanation of Fingers for High Five Tool.png"
+    "Communicating"
   ]
 }
