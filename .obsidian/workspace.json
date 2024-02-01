@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "24d01036c72f4f84",
+        "id": "b459c4af45e21755",
         "type": "tabs",
         "children": [
           {
-            "id": "6b6712319af5870a",
+            "id": "8f12955896e34165",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Product and Engineering/Delivery/Measurement/Images/Delivery Metrics Dashboard.png"
+                "file": "Product and Engineering/Product/Story Mapping.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product and Engineering/Delivery/Measurement/Images/Delivery Metrics Dashboard.png",
+                "file": "Product and Engineering/Product/Story Mapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product and Engineering/Delivery/Measurement/Images/Delivery Metrics Dashboard.png",
+                "file": "Product and Engineering/Product/Story Mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product and Engineering/Delivery/Measurement/Images/Delivery Metrics Dashboard.png"
+                "file": "Product and Engineering/Product/Story Mapping.md"
               }
             }
           }
@@ -153,11 +155,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "3c30b58b732ca64e",
+  "active": "8f12955896e34165",
   "lastOpenFiles": [
-    "Product and Engineering/Product/Images/AMOM roadmap example.png",
-    "Product and Engineering/Delivery/Measurement/Images/Delivery Metrics Dashboard.png",
     "Product and Engineering/Product/Roadmapping.md",
+    "Product and Engineering/Product/Story Mapping.md",
+    "Product and Engineering/Product/Product Vision Statement.md",
+    "Product and Engineering/Delivery/Measurement/Images/Delivery Metrics Dashboard.png",
+    "Product and Engineering/Product/Images/AMOM roadmap example.png",
     "Product and Engineering/Product/Product Metrics.md",
     "Production/Physical Product Production.md",
     "Product and Engineering/Delivery/Measurement/Delivery Metrics.md",
@@ -192,7 +196,6 @@
     "Communicating",
     "Delivery Frameworks/Jira Setup/Jira - Issue Types.md",
     "Delivery Frameworks/Jira Setup/Jira - Multiple Teams to one Product Owner.md",
-    "Discovery/Untitled.md",
     "Delivery Frameworks/Jira Setup/Images/Product Teams to Projects.png",
     "Tools for Teams/Team Building/Images/Explanation of Fingers for High Five Tool.png"
   ]
