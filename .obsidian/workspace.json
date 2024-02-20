@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a907572feba277c1",
+        "id": "04cb4e0e69ddd93e",
         "type": "tabs",
         "children": [
           {
-            "id": "a3d52a67bf4ece32",
+            "id": "9721b821499eb9b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commercial/Sales Models/Value Added Reseller.md",
+                "file": "Product and Engineering/Discovery/Discovery.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#JohnSchragDualTrackAgile",
+                "query": "build measure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 351.5
   },
   "right": {
     "id": "9348ad63bb8f78f0",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Commercial/Sales Models/Value Added Reseller.md",
+                "file": "Product and Engineering/Discovery/Discovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Commercial/Sales Models/Value Added Reseller.md",
+                "file": "Product and Engineering/Discovery/Discovery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Commercial/Sales Models/Value Added Reseller.md"
+                "file": "Product and Engineering/Discovery/Discovery.md"
               }
             }
           }
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,53 +155,53 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a3d52a67bf4ece32",
+  "active": "9721b821499eb9b6",
   "lastOpenFiles": [
-    "Commercial/Sales Models/Managed Service Provider.md",
-    "Commercial/Sales Models/Distributor.md",
-    "Commercial/Sales Models/Agency.md",
-    "Commercial/Legal/Private Companies.md",
-    "Commercial/Legal/PLC - Public Limited Company.md",
-    "Commercial/Legal/Public Companies.md",
+    "Product and Engineering/Discovery/Build-Measure-Learn & Learning Test Cycles.md",
+    "Product and Engineering/Discovery/Types of Discovery/Solution Discovery.md",
+    "Product and Engineering/Discovery/Types of Discovery/Opportunity Discovery.md",
+    "Product and Engineering/Discovery/Discovery.md",
+    "Product and Engineering/Discovery/Design Sprint.md",
+    "Product and Engineering/Discovery/Hackathons.md",
+    "Product and Engineering/Dual Track/John Schrag - Dual Track Agile.md",
+    "Commercial/Commercial.md",
+    "Product and Engineering/Delivery/Measurement/Engineering Benchmarks.md",
+    "Product and Engineering/Software Engineering/Testing/Testing Shapes.md",
+    "Product and Engineering/Software Engineering/Testing/Automation Testing/Solitary Test.md",
+    "Product and Engineering/Software Engineering/Testing/Types of Testing/Integration Testing.md",
+    "Product and Engineering/Software Engineering/Testing/Types of Testing/Integration Testing/Bottom-up Testing.md",
+    "Product and Engineering/Software Engineering/Testing/Types of Testing/Integration Testing/Big Bang Testing.md",
+    "Product and Engineering/Software Engineering/Testing/Types of Testing/Integration Testing/Contract Testing.md",
+    "Commercial/Customer Acquisition Cost.md",
     "Acronyms.md",
-    "Glossary.md",
-    "Private Company.md",
+    "Agile/User Stories.md",
+    "Agile/Frameworks/Scrum/Scrum.md",
+    "Agile/Frameworks/Extreme Programming.md",
+    "Agile/Frameworks/Common Practices",
+    "Agile/Frameworks/Common Practices/Daily Stand up.md",
+    "Agile/Frameworks/Images/XP Life Cycle.png",
+    "Agile/Frameworks/Images/Extreme Programming Feedback Loop.png",
+    "Agile/Frameworks/Images",
+    "Pasted image 20240220125822.png",
+    "Agile/Agile.md",
+    "Agile/Agile Values.md",
+    "Agile/Agile Principles.md",
+    "Agile/Estimation.md",
+    "Product and Engineering/Dual Track/Dual Track Agility.md",
+    "Product and Engineering/Discovery/Images/Dual track process.png",
+    "Product and Engineering/Dual Track/Images/Build Measure Learn Model.png",
+    "Product and Engineering/Dual Track/Images/Dual Track Delivery and Discovery.png",
+    "Product and Engineering/Dual Track/Images/Dual Track Modified.png",
+    "Product and Engineering/Delivery/Measurement/Images/Engineering Benchmarks.png",
     "Commercial/Legal",
-    "Product and Engineering/Software Engineering/Architectural Design/Diagram Models/C4  Diagram.md",
-    "Product and Engineering/Software Engineering/DevOps/Glossary.md",
-    "Product and Engineering/Software Engineering/Software Engineering.md",
-    "Product and Engineering/Software Engineering/Test Driven Development.md",
-    "Product and Engineering/Software Engineering/Normalization.md",
-    "Product and Engineering/Software Engineering/Repositories.md",
-    "Product and Engineering/Delivery/Models/Operational Planning.md",
-    "Product and Engineering/Delivery/Models/Scenario Planning.md",
-    "Product and Engineering/Delivery/Models/Roles & Responsibilities/Roles & Responsibilities.md",
-    "Product and Engineering/Delivery/Models/Roles & Responsibilities/RACI.md",
-    "Product and Engineering/Product/Models/Cloud Computing.md",
-    "Product and Engineering/Product/Models/Infrastructure as a Service.md",
-    "Product and Engineering/Product/Models/Managed Network Infrastructure.md",
-    "Product and Engineering/Product/Models/Platform as a Service.md",
     "Product and Engineering/Product/Models",
-    "Product and Engineering/Product/Models/Software as a Service.md",
-    "Product and Engineering/Delivery/Models/SIPOC.md",
-    "Product and Engineering/Discovery/Models/Example Mapping.md",
     "Product and Engineering/Discovery/Models",
     "Product and Engineering/Software Engineering/Testing/Images/TDD TRbGbR Framework.png",
     "Product and Engineering/Leading an Organisation/Images/Things to measure.png",
-    "Product and Engineering/Delivery/Measurement/Images/Delivery Metrics Dashboard.png",
-    "Operations/Images/Lencioni's 5 dysfunctions of a team pyramid.png",
-    "Operations/Images/High-performing Teams.png",
-    "Product and Engineering/Product/Images/AMOM roadmap example.png",
     "Untitled",
-    "Product and Engineering/Delivery/Images/Scenarios for developing Asset Management Operating.png",
     "Product and Engineering/Delivery/Measurement/Untitled",
-    "Product and Engineering/Delivery/Measurement/Images/ICS Dashboard Example.png",
     "Agile/Frameworks",
-    "Product and Engineering/Delivery/Images/Key factors matrix.png",
     "Product and Engineering/Delivery/Images",
-    "Production",
-    "Communicating/Images",
-    "Communicating/Images/Chimp Paradox Visual Summary.jpg",
-    "Communicating"
+    "Production"
   ]
 }

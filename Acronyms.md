@@ -8,7 +8,7 @@ DFMEA - [[Design Failure Mode Effect Analysis]]
 PFMEA - [[Process Failure Mode Effect Analysis]]
 ## Commercial & Finance
 ARR - Annual Recurring Revenue
-CAC - Customer Acquisition Cost
+CAC - [[Customer Acquisition Cost]]
 [[PLC - Public Limited Company]]
 VAR - [[Value Added Reseller]]
 ## Models

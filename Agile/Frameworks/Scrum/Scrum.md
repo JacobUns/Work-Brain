@@ -30,6 +30,8 @@ Scrum is an [[Agile]] framework that embodies the [[Agile Principles]] and [[Agi
 ### Sprint Burndown
 ### Release Burnup
 ### Product Backlog
+#### Product Backlog Items
+Scrum refers to items to be developed against a product as "Product Backlog Items", often shortened to PBI. Scrum does not have a definition of what needs to be in the backlog to a detailed level, and so many look to other frameworks for examples. The most commonly used formats are [[Bugs]] and [[User Stories]], with higher levels being known by many names, including [[Features]], [[Epics]], [[Initiatives]], [[Themes]] and [[Capabilities]]. 
 ### Sprint Backlog
 # Training Exercises
 
