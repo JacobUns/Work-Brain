@@ -2,6 +2,7 @@
 ## RAID
 Risks make up part of the [[RAID]] log, which is a mechanism of tracking the Risks, Assumptions, Issues and Dependencies experienced by a team. 
 ## ROAMing
+[[ROAMing Risks]] is a practice used to quickly identify what is going to be done with a Risk.
 # Types of Risk
 ## Operational
 ## Technical

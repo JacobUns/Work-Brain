@@ -4,22 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "04cb4e0e69ddd93e",
+        "id": "eaedb69e028b2196",
         "type": "tabs",
         "children": [
           {
-            "id": "9721b821499eb9b6",
+            "id": "f5b35ffb7ac3a672",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product and Engineering/Discovery/Discovery.md",
+                "file": "Product and Engineering/Product/Product Metrics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9d27fb8ae4168b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product and Engineering/Product/Product Manager.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cb44455aaaedd12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product and Engineering/UX/Product Designer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fd1a4b86b71e132",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product and Engineering/Product/Product Manager.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "106ee4d84f5d6ac6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product and Engineering/Leading an Organisation/Redundancy/Redundancy Process.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -48,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "build measure",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,13 +142,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product and Engineering/Discovery/Discovery.md",
+                "file": "Product and Engineering/Leading an Organisation/Redundancy/Redundancy Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -110,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product and Engineering/Discovery/Discovery.md",
+                "file": "Product and Engineering/Leading an Organisation/Redundancy/Redundancy Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,12 +182,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product and Engineering/Discovery/Discovery.md"
+                "file": "Product and Engineering/Leading an Organisation/Redundancy/Redundancy Process.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,53 +203,54 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "9721b821499eb9b6",
+  "active": "106ee4d84f5d6ac6",
   "lastOpenFiles": [
-    "Product and Engineering/Discovery/Build-Measure-Learn & Learning Test Cycles.md",
-    "Product and Engineering/Discovery/Types of Discovery/Solution Discovery.md",
-    "Product and Engineering/Discovery/Types of Discovery/Opportunity Discovery.md",
+    "Product and Engineering/Leading an Organisation/Redundancy/Scoring Mechanism.md",
+    "Product and Engineering/Software Engineering/Testing/Testing Shapes/Testing Shapes.md",
+    "Product and Engineering/Software Engineering/Testing/Testing Shapes/Images/Testing Honeycomb.png",
+    "Product and Engineering/Software Engineering/Testing/Testing Shapes/Images",
+    "Product and Engineering/Software Engineering/Testing/Testing Shapes",
+    "Product and Engineering/Software Engineering/Testing/Testing Shapes/Images/Testing Trophy.jpg",
+    "Product and Engineering/Software Engineering/Testing/Types of Testing/End-to-End Testing.md",
+    "Product and Engineering/Software Engineering/Testing/Types of Testing/Integration Testing.md",
+    "Product and Engineering/Software Engineering/Testing/Automation Testing/Automation Testing.md",
+    "Product and Engineering/Software Engineering/Testing/Types of Testing/Unit Testing.md",
+    "Product and Engineering/Software Engineering/Testing/Types of Testing/Performance Testing.md",
+    "Product and Engineering/Product/Product Manager.md",
+    "Product and Engineering/Delivery/Models/Scenario Planning.md",
+    "Product and Engineering/Delivery/Models/Operational Planning.md",
+    "Product and Engineering/UX/Product Designer.md",
+    "Product and Engineering/Risks/ROAMing Risks.md",
+    "Product and Engineering/Risks/Risk.md",
+    "Product and Engineering/Risks/Images",
+    "Product and Engineering/Risks/Images/ROAM Board.png",
+    "Product and Engineering/Risks/RAID.md",
     "Product and Engineering/Discovery/Discovery.md",
     "Product and Engineering/Discovery/Design Sprint.md",
-    "Product and Engineering/Discovery/Hackathons.md",
-    "Product and Engineering/Dual Track/John Schrag - Dual Track Agile.md",
-    "Commercial/Commercial.md",
-    "Product and Engineering/Delivery/Measurement/Engineering Benchmarks.md",
-    "Product and Engineering/Software Engineering/Testing/Testing Shapes.md",
-    "Product and Engineering/Software Engineering/Testing/Automation Testing/Solitary Test.md",
-    "Product and Engineering/Software Engineering/Testing/Types of Testing/Integration Testing.md",
-    "Product and Engineering/Software Engineering/Testing/Types of Testing/Integration Testing/Bottom-up Testing.md",
-    "Product and Engineering/Software Engineering/Testing/Types of Testing/Integration Testing/Big Bang Testing.md",
-    "Product and Engineering/Software Engineering/Testing/Types of Testing/Integration Testing/Contract Testing.md",
-    "Commercial/Customer Acquisition Cost.md",
-    "Acronyms.md",
-    "Agile/User Stories.md",
-    "Agile/Frameworks/Scrum/Scrum.md",
-    "Agile/Frameworks/Extreme Programming.md",
+    "Product and Engineering/Discovery/Learning Test Cycles.md",
+    "Product and Engineering/Leading an Organisation/Leadership.md",
+    "Product and Engineering/Leading an Organisation/Line Management.md",
+    "Product and Engineering/Leading an Organisation/Team Topologies.md",
+    "Product and Engineering/Leading an Organisation/Metrics",
+    "Product and Engineering/Software Engineering/Software Engineering.md",
+    "Product and Engineering/Software Engineering/DevOps/DevOps.md",
+    "Product and Engineering/Software Engineering/OOP Principles/Object Orientated Programming.md",
+    "Product and Engineering/Software Engineering/DevOps/Release on Demand.md",
+    "Product and Engineering/Software Engineering/DevOps/DORA Metrics.md",
+    "Product and Engineering/Product/Requirements.md",
+    "Diary of Notes",
+    "Untitled.canvas",
+    "Commercial/Metrics",
     "Agile/Frameworks/Common Practices",
-    "Agile/Frameworks/Common Practices/Daily Stand up.md",
     "Agile/Frameworks/Images/XP Life Cycle.png",
     "Agile/Frameworks/Images/Extreme Programming Feedback Loop.png",
     "Agile/Frameworks/Images",
     "Pasted image 20240220125822.png",
-    "Agile/Agile.md",
-    "Agile/Agile Values.md",
-    "Agile/Agile Principles.md",
-    "Agile/Estimation.md",
-    "Product and Engineering/Dual Track/Dual Track Agility.md",
     "Product and Engineering/Discovery/Images/Dual track process.png",
     "Product and Engineering/Dual Track/Images/Build Measure Learn Model.png",
     "Product and Engineering/Dual Track/Images/Dual Track Delivery and Discovery.png",
     "Product and Engineering/Dual Track/Images/Dual Track Modified.png",
-    "Product and Engineering/Delivery/Measurement/Images/Engineering Benchmarks.png",
     "Commercial/Legal",
-    "Product and Engineering/Product/Models",
-    "Product and Engineering/Discovery/Models",
-    "Product and Engineering/Software Engineering/Testing/Images/TDD TRbGbR Framework.png",
-    "Product and Engineering/Leading an Organisation/Images/Things to measure.png",
-    "Untitled",
-    "Product and Engineering/Delivery/Measurement/Untitled",
-    "Agile/Frameworks",
-    "Product and Engineering/Delivery/Images",
-    "Production"
+    "Product and Engineering/Product/Models"
   ]
 }

@@ -4,7 +4,7 @@ Delivery metrics are indicators that provide insight into the health of a produc
 ## Velocity
 The total sum of story points or completed items on average that a team can achieve within their sprint. Velocity is often used to gauge commitment for a sprint within Scrum.
 
-It should never be used by management/leadership to compare two teams against each other, as [[Story Points]] between teams are likely to represent different sizes based on that teams context, experience and maturity.
+It should never be used by [[Line Management|Management]]/[[Leadership]] to compare two teams against each other, as [[Story Points]] between teams are likely to represent different sizes based on that teams context, experience and maturity.
 
 Trend analysis can be done to understand whether velocity is increasing healthily as the team matures, or if there are any major problems to be aware of, but too much of a focus on this is unhealthy as its a metric that can easily be gamed by artificially inflating estimates.
 ## Lead Time

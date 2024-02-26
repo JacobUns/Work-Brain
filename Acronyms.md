@@ -41,6 +41,7 @@ NDTC - Namibia Diamond Trading Company
 SSSA - Service Support South Africa
 TSRB - Technical Standards Review Board
 TSS - Technical Service Support
+D&H - Distribution & Handling
 ## Products
 ACAS - Automated Cutting and Shaping
 AF - Autoflow

@@ -6,7 +6,7 @@ Most financial commercial details are split into two categories, Net and Gross.
 This is the amount remaining after any deductions are made.
 ## Gross
 This is the total amount before any changes are made to a figure.
-# Metrics
+# Types of Metric
 There are many indicators for commercial performance, both [[Leading Indicator|Leading]] and [[Lagging Indicator|Lagging]]. The majority of these are financial in nature.
 
 Some examples of [[Lagging Indicator|Lagging Indicators]] are:
@@ -22,6 +22,8 @@ Some examples of [[Leading Indicator|Leading Indicators]]:
 	- The happier the employees, the more productive they'll be, and therefore the more sales you're likely to secure from feature development and product improvements.
 - [[Sales Growth Year-to-Date]]
 - [[Monthly Recurring Revenue]]
+- [[Opportunity Cost]]
+- [[Cost of Delay]]
 
 Some are also customer orientated metrics include:
 - [[Net Promoter Score]]

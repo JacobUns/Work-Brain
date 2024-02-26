@@ -6,6 +6,9 @@ Traditionally known as the testing triangle, this testing shape puts [[Unit Test
 When using [[Test Driven Development]] this is the most common type of testing shape, as all code will be covered by a high level of unit tests that cover all system behaviour. [[Integration Testing]] can be done in many ways, including [[Contract Testing]], [[Big Bang Testing]]
 
 ### Testing Trophy
-
+![[Testing Trophy.jpg]]
 
 ### Testing Honeycomb
+The testing honeycomb is an approach taken by some companies [like Spotify](https://engineering.atspotify.com/2018/01/testing-of-microservices/) when testing their Microservices. Similarly to the Testing Trophy, its major focus is on the integration tests over any other test. The implementation detail covers such areas as [[Unit Testing]] but does not limit to this form of testing.
+
+![[Testing Honeycomb.png]]

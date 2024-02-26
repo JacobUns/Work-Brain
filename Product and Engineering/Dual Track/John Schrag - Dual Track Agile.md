@@ -1,7 +1,7 @@
 ## Useful Models
 ### Build, Measure, Learn
 ![[Build Measure Learn Model.png]]
-See [[Build-Measure-Learn & Learning Test Cycles|Build-Measure-Learn]] for more.
+See [[Learning Test Cycles|Build-Measure-Learn]] for more.
 ### Dual Track Agile
 ![[Dual Track Delivery and Discovery.png]]
 
@@ -11,7 +11,7 @@ See [[Build-Measure-Learn & Learning Test Cycles|Build-Measure-Learn]] for more.
 
 
 ## Resource Notes
-Comes from the intent to enable User Experience Design to align with Development Teams running Agile Methodologies
+Comes from the intent to enable [[User Experience]] Design to align with Development Teams running Agile Methodologies
 
 2001 - Agile Introduced
 
