@@ -2,7 +2,7 @@
 A private company may not offer its shares to the general public. It can be limited by shares, where the members' liability is limited to the amount unpaid on shares they hold, or limited by guarantee, where the members' liability is limited to the amount they have agreed to contribute to the company's assets become insolvent.
 
 ## Limited
-Similar to [[PLC - Public Limited Company|Public Limited Companies]], Private companies can also be limited but have different restrictions from [[PLC - Public Limited Company|PLCs]].
+Similar to [[Public Limited Company|Public Limited Companies]], Private companies can also be limited but have different restrictions from [[Public Limited Company|PLCs]].
 ## Unlimited
 Private companies may also be unlimited, which means there is no limit to the members' liability. If the business becomes insolvent there is no cap on the amount that shareholders must pay.
 

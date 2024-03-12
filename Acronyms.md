@@ -1,5 +1,5 @@
 # General
-## Agile
+## [[Agile]]
 AC - Acceptance Criteria
 ## Engineering
 BoM - Bill of Materials
@@ -9,17 +9,19 @@ PFMEA - [[Process Failure Mode Effect Analysis]]
 ## Commercial & Finance
 ARR - Annual Recurring Revenue
 CAC - [[Customer Acquisition Cost]]
-[[PLC - Public Limited Company]]
+PLC - [[Public Limited Company]]
 VAR - [[Value Added Reseller]]
 ## Models
 [[C4  Diagram|C4]] - Context, Containers, Components and Code Diagram Model
 DSDM - Dynamic Systems Development Method
 [[RACI]] - Responsible Accountable Consulted Informed Matrix
-[[RAID]] - Risks, Assumptions (or Actions), Issues, and Dependencies (or Decisions) Log
+[[Risks, Actions, Issues and Dependencies|RAID]] - Risks, Assumptions (or Actions), Issues, and Dependencies (or Decisions) Log
 [[SIPOC]] - Suppliers, Inputs, Process, Outputs, Customers, Requirements
 ## Technology
 AAD - Azure Active Directory
-AWS - Amazon Web Services
+
+AWS - Amazon Web Services ^4a310a
+
 CD - Continuous Deployment
 CI - Continuous Integration
 DRY - Don't Repeat Yourself

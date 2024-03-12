@@ -1,3 +1,10 @@
+---
+tags:
+  - "#Leadership"
+  - ServantLeadership
+  - "#Management"
+---
+
 # About
 
 # Leadership vs Management
@@ -12,5 +19,3 @@ Leadership is often confused with [[Line Management|Management]]. Though it is t
 [[Line Management]] is an example of Leadership through Power, in that responsibility is granted to an individual by another individual. This may be a board of directors appointing a CEO, or a middle-manager appointing a supervisor, but the principal is the same; one person or group of people is delegating responsibility of certain actions to another. The associated expectation is that when a [[Line Management|Manager]] ask for something from their reports, that command is executed and the output produced.
 # Resources
 [Leadership vs Management: What's the Difference?](https://online.hbs.edu/blog/post/leadership-vs-management)
-# Tags
-#Leadership #ServantLeadership

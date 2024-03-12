@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "eaedb69e028b2196",
+        "id": "6e3dab8848af1412",
         "type": "tabs",
         "children": [
           {
-            "id": "f5b35ffb7ac3a672",
+            "id": "574cadd2cc7ada5c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Product and Engineering/Product/Product Metrics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9d27fb8ae4168b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Product and Engineering/Product/Product Manager.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cb44455aaaedd12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Product and Engineering/UX/Product Designer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fd1a4b86b71e132",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Product and Engineering/Product/Product Manager.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "106ee4d84f5d6ac6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Product and Engineering/Leading an Organisation/Redundancy/Redundancy Process.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#MichaelBungayStanier",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,8 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product and Engineering/Leading an Organisation/Redundancy/Redundancy Process.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -159,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product and Engineering/Leading an Organisation/Redundancy/Redundancy Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Product and Engineering/Leading an Organisation/Redundancy/Redundancy Process.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -203,54 +146,54 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "106ee4d84f5d6ac6",
+  "active": "574cadd2cc7ada5c",
   "lastOpenFiles": [
-    "Product and Engineering/Leading an Organisation/Redundancy/Scoring Mechanism.md",
-    "Product and Engineering/Software Engineering/Testing/Testing Shapes/Testing Shapes.md",
-    "Product and Engineering/Software Engineering/Testing/Testing Shapes/Images/Testing Honeycomb.png",
-    "Product and Engineering/Software Engineering/Testing/Testing Shapes/Images",
-    "Product and Engineering/Software Engineering/Testing/Testing Shapes",
-    "Product and Engineering/Software Engineering/Testing/Testing Shapes/Images/Testing Trophy.jpg",
-    "Product and Engineering/Software Engineering/Testing/Types of Testing/End-to-End Testing.md",
-    "Product and Engineering/Software Engineering/Testing/Types of Testing/Integration Testing.md",
-    "Product and Engineering/Software Engineering/Testing/Automation Testing/Automation Testing.md",
-    "Product and Engineering/Software Engineering/Testing/Types of Testing/Unit Testing.md",
-    "Product and Engineering/Software Engineering/Testing/Types of Testing/Performance Testing.md",
-    "Product and Engineering/Product/Product Manager.md",
-    "Product and Engineering/Delivery/Models/Scenario Planning.md",
-    "Product and Engineering/Delivery/Models/Operational Planning.md",
-    "Product and Engineering/UX/Product Designer.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Software Engineering.md",
+    "Operations/Types of Team/Product Team.md",
+    "Agile/Frameworks/Scrum/Scrum.md",
+    "Product and Engineering/Product Development/Dual Track/John Schrag - Dual Track Agile.md",
+    "Product and Engineering/Product Development/Delivery/Measurement/Delivery Metrics.md",
+    "Agile/Frameworks/Scrum/Possible End of Sprint Activities.md",
+    "Agile/Agile.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/OOP Principles/Object Orientated Programming.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Procedural Programming.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Functional Programming.md",
+    "Agile/Cross-functionality.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Architecture.md",
+    "Agile/Story Splitting/Splitting Backend Work.md",
+    "Diary of Notes/ICS Team Dynamics - Feb 2024.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Diagram Models/Sequence Diagram.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Diagram Models/Process Flow Diagram.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Diagram Models/Class Diagram.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Diagram Models/C4  Diagram.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Diagram Models/Entity Relationship Diagram (ERD).md",
+    "Agile/Frameworks/Scaled Agile Framework for enterprise.md",
     "Product and Engineering/Risks/ROAMing Risks.md",
-    "Product and Engineering/Risks/Risk.md",
+    "Resources.md",
+    "Product and Engineering/Leading an Organisation/Coaching.md",
+    "Product and Engineering/Product Development/UX/User Experience.md",
+    "Product and Engineering/Product Development/Dual Track/Double Diamond.md",
+    "Product and Engineering/Product Development/Dual Track/Dual Track Agility.md",
+    "Product and Engineering/Product Development/Engineering",
+    "Product and Engineering/Product Development",
+    "Operations/Culture/Models",
+    "Operations/Culture",
+    "Agile/Images/Pasted image 20240312102645.jpg",
+    "Product and Engineering/Product Development/Discovery/Images/Dual track process.png",
+    "Agile/Images/Pasted image 20240312104539.jpg",
+    "Agile/Images/Pasted image 20240312102626.png",
+    "Agile/Images",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Testing Shapes/Images/Testing Honeycomb.png",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Testing Shapes/Images",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Testing Shapes",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Testing Shapes/Images/Testing Trophy.jpg",
     "Product and Engineering/Risks/Images",
     "Product and Engineering/Risks/Images/ROAM Board.png",
-    "Product and Engineering/Risks/RAID.md",
-    "Product and Engineering/Discovery/Discovery.md",
-    "Product and Engineering/Discovery/Design Sprint.md",
-    "Product and Engineering/Discovery/Learning Test Cycles.md",
-    "Product and Engineering/Leading an Organisation/Leadership.md",
-    "Product and Engineering/Leading an Organisation/Line Management.md",
-    "Product and Engineering/Leading an Organisation/Team Topologies.md",
     "Product and Engineering/Leading an Organisation/Metrics",
-    "Product and Engineering/Software Engineering/Software Engineering.md",
-    "Product and Engineering/Software Engineering/DevOps/DevOps.md",
-    "Product and Engineering/Software Engineering/OOP Principles/Object Orientated Programming.md",
-    "Product and Engineering/Software Engineering/DevOps/Release on Demand.md",
-    "Product and Engineering/Software Engineering/DevOps/DORA Metrics.md",
-    "Product and Engineering/Product/Requirements.md",
     "Diary of Notes",
     "Untitled.canvas",
-    "Commercial/Metrics",
-    "Agile/Frameworks/Common Practices",
     "Agile/Frameworks/Images/XP Life Cycle.png",
     "Agile/Frameworks/Images/Extreme Programming Feedback Loop.png",
-    "Agile/Frameworks/Images",
-    "Pasted image 20240220125822.png",
-    "Product and Engineering/Discovery/Images/Dual track process.png",
-    "Product and Engineering/Dual Track/Images/Build Measure Learn Model.png",
-    "Product and Engineering/Dual Track/Images/Dual Track Delivery and Discovery.png",
-    "Product and Engineering/Dual Track/Images/Dual Track Modified.png",
-    "Commercial/Legal",
-    "Product and Engineering/Product/Models"
+    "Pasted image 20240220125822.png"
   ]
 }

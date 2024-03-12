@@ -1,0 +1,6 @@
+---
+aliases:
+  - LeSS
+tags:
+  - AgileFramework
+---
