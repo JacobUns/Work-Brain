@@ -1,3 +1,7 @@
+---
+tags:
+  - Model
+---
 # About
 SFIA (Skills Framework for the Information Age)
 

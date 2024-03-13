@@ -2,6 +2,7 @@
 tags:
   - Agile
   - AgileFramework
+  - Concept
 ---
 # About
 Agility is a mindset made up of [[Agile Values|Values]] and [[Agile Principles|Principles]] that guide the way we work together as a team. It, in itself, is not a methodology so much as a way of thinking that has been exemplified in a number of Agile Methodologies including [[Scrum]], [[Kanban]], [[Scaled Agile Framework for enterprise|SAFe]], [[Large Scale Scrum (LeSS)|LeSS]], [[Crystal Methodology|Crystal]], [[Extreme Programming|XP]] and other such frameworks. For any of these frameworks or methodologies to be successful an organisation needs to develop or change its [[Culture]] to enable [[Self-Organisation]], [[Cross-functionality]] and [[Empowerment]] of its employees.

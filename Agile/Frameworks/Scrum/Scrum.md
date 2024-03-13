@@ -4,6 +4,7 @@ tags:
   - "#Empiricism"
   - JeffSutherland
   - KenSchwaber
+  - "#Concept"
 ---
 # About
 Scrum is an [[Agile]] framework that embodies the [[Agile Principles]] and [[Agile Values|Values]] created by Ken Schwaber and Jeff Sutherland in the early 1990s. With foundations in [[Lean]] and [[Agile]], the framework provides guidance on ways of operating that improves our ability to communicate with and deliver value to customers.

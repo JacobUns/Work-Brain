@@ -4,6 +4,7 @@ aliases:
 tags:
   - "#ServantLeadership"
   - Leadership
+  - Concept
 ---
 # About
 

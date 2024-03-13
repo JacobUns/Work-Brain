@@ -3,6 +3,7 @@ tags:
   - "#Leadership"
   - ServantLeadership
   - "#Management"
+  - Concept
 ---
 # About
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - "#Practice"
+---
 # About
 # Practices
 ## Infrastructure as Code

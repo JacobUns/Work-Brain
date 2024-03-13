@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "337372a9165ea586",
+        "id": "798f370ab747bde1",
         "type": "tabs",
         "children": [
           {
-            "id": "cf21f68ca2b05448",
+            "id": "8af403d066a08ba5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Commercial/Sales Models/Go-to-Market.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Software Languages/Javascript.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Software Languages/Javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Software Languages/Javascript.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -155,34 +147,35 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "479ed58ee8ea1fc2",
+  "active": "8af403d066a08ba5",
   "lastOpenFiles": [
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Software Languages/Hypertext Markup Language.md",
-    "Commercial/Sales Models/Go-to-Market.md",
-    "Commercial/Sales Models/Distributor.md",
-    "Commercial/Sales Models/Agency.md",
-    "Product and Engineering/Product Development/Delivery/Measurement/Delivery Metrics Dashboards.md",
-    "Product and Engineering/Product Development/Delivery/Measurement/Delivery Metrics.md",
-    "Agile/Estimation.md",
-    "Product and Engineering/Leading an Organisation/Metrics/Employer Net Promoter Score - eNPS.md",
-    "Product and Engineering/Leading an Organisation/Metrics/Things to Measure.md",
-    "Commercial/Commercial.md",
-    "Communicating/Understanding Others.md",
-    "Acronyms.md",
-    "Product and Engineering/Product Development/Dual Track/John Schrag - Dual Track Agile.md",
-    "Product and Engineering/Leading an Organisation/Incentives.md",
-    "Product and Engineering/Leading an Organisation/Team Topologies.md",
-    "Commercial/Sales Models/Managed Service Provider.md",
-    "Product and Engineering/Product Development/Product/Models/Platform as a Service.md",
-    "Product and Engineering/Product Development/Product/Models/Infrastructure as a Service.md",
-    "Product and Engineering/Product Development/Product/Models/Software as a Service.md",
-    "Product and Engineering/Leading an Organisation/Servant-Leadership.md",
-    "Product and Engineering/Leading an Organisation/Questions when leading an organisation.md",
-    "Product and Engineering/Leading an Organisation/Line Management.md",
-    "Product and Engineering/Leading an Organisation/Leadership.md",
+    "Operations/Types of Team/Product Team.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Regression Testing.md",
     "Product and Engineering/Leading an Organisation/Conway's Law.md",
-    "Product and Engineering/Leading an Organisation/Coaching.md",
-    "Resources.md",
+    "Agile/Frameworks/Kanban.md",
+    "Product and Engineering/Risks/Risks, Actions, Issues and Dependencies.md",
+    "Product and Engineering/Leading an Organisation/Servant-Leadership.md",
+    "Operations/Lencioni - 5 Dysfunctions of a Team.md",
+    "Product and Engineering/Product Development/Delivery/Models/Roles & Responsibilities/RACI.md",
+    "Operations/Management Frameworks/SFIA.md",
+    "Product and Engineering/Product Development/Delivery/Delivery Management.md",
+    "Product and Engineering/Product Development/Product/Product Manager.md",
+    "Product and Engineering/Leading an Organisation/Line Management.md",
+    "Product and Engineering/Product Development/Engineering/Quality Assurance.md",
+    "Product and Engineering/Leading an Organisation/Leadership.md",
+    "Agile/Frameworks/Extreme Programming.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Procedural Programming.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Functional Programming.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Testing Shapes/Testing Shapes.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/SOLID Principles/SOLID Principles.md",
+    "Operations/Tools for Teams/Team Building/Team Building.md",
+    "Product and Engineering/Risks/Risk.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Repository Types/Monorepo.md",
+    "Product and Engineering/Product Development/Discovery/Hackathons.md",
+    "Agile/Cross-functionality.md",
+    "Product and Engineering/Product Development/Delivery/Models/Operational Planning.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Normalization.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Manual Testing",
     "Strategy",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Software Languages",
     "Product and Engineering/Leading an Organisation/Strategy",
@@ -197,7 +190,6 @@
     "Product and Engineering/Product Development/Discovery/Images/Dual track process.png",
     "Agile/Images",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Testing Shapes/Images/Testing Honeycomb.png",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Testing Shapes/Images",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Testing Shapes/Images/Testing Trophy.jpg",
     "Product and Engineering/Risks/Images/ROAM Board.png",
     "Untitled.canvas",

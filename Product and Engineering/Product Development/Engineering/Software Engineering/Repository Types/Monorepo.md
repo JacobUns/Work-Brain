@@ -1,9 +1,13 @@
-## Definition
-A monorepo is a single repository containing multiple distinct projects, with well-defined relationships. In contrast, a [[Polyrepo]] achieves the same thing but with complete encapsulation of its code.
+---
+tags:
+  - Concept
+---
+# Definition
+A monorepo is a single repository containing multiple distinct projects, with well-defined relationships. In contrast, a [[Polyrepo]] achieves the same thing but with complete [[encapsulation]] of its code.
 
-## Description
+# Description
 ![[monorepo-polyrepo.svg]]
-A repository with multiple projects but with no relationship between them would be considered #CodeColocation but not a monorepo. A repository that contains a massive application without division and encapsulation of discrete parts is also not a monorepo.
+A repository with multiple projects but with no relationship between them would be considered #CodeColocation but not a monorepo. A repository that contains a massive application without division and [[encapsulation]] of discrete parts is also not a monorepo.
 ![[monolith-modular.svg]]
 ## Advantages
 - Reduces the need to publish packages if all consumers are in the same repository

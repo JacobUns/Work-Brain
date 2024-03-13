@@ -1,3 +1,8 @@
+---
+tags:
+  - Model
+---
+# Model Definition
 1. Create Urgency
 	* Inspire people to act with passion and purpose with a clear vision of the future, together.
 2. Form a Coalition

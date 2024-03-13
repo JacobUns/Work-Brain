@@ -1,3 +1,8 @@
+---
+tags:
+  - Testing
+  - AutomationTesting
+---
 # About
 # Types
 - [[Performance Testing]]

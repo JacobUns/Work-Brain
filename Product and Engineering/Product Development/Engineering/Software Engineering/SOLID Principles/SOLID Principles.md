@@ -1,6 +1,10 @@
 ---
 aliases:
   - SOLID
+tags:
+  - Principle
+  - Software
+  - Concept
 ---
 # Acronym Definition
 [[Single Responsibility Principle]]

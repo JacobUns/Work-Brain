@@ -2,6 +2,8 @@
 aliases:
   - OKR
   - OKRs
+tags:
+  - Model
 ---
 # About
 Objective Key Results, also known as OKRs, are a method of conveying a business or departments strategic direction to a wide group of people. It's often used as a mechanism to link up various goals across separate departments to a wider business objective. 

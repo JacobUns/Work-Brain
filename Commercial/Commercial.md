@@ -1,7 +1,7 @@
 ---
 tags:
   - Commercial
-  - Metrics
+  - Domain
 ---
 # About
 The commercial aspects of a business are everything related to buying and selling anything, especially at scale.
@@ -22,7 +22,7 @@ Some examples of [[Lagging Indicator|Lagging Indicators]] are:
 
 Some examples of [[Leading Indicator|Leading Indicators]]:
 - Monthly Website Traffic
-	- The more people navigating to your site, the higher likelihood of an increase in revenue
+	- The more people navigating to your site, the higher likelihood of an increase in [[revenue]]
 - Employee Happiness
 	- The happier the employees, the more productive they'll be, and therefore the more sales you're likely to secure from feature development and product improvements.
 - [[Sales Growth Year-to-Date]]

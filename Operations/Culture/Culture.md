@@ -1,6 +1,6 @@
 ---
 tags:
-  - Model
+  - Concept
 ---
 # About
 # Pre-requisites

@@ -1,6 +1,7 @@
 ---
 tags:
   - "#UX"
+  - Domain
 aliases:
   - UX
 ---

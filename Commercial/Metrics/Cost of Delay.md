@@ -1,5 +1,11 @@
+---
+tags:
+  - MathFormula
+  - Commercial
+  - Prioritisation
+---
 # About
-This is the value associated with lost [[revenue]], lost opportunities, increase risk, and customer respect among other critical factors of a business. Put simplistically, cost of delay is the expected profit divided by the duration to realise that profit.
+This is the value associated with lost [[revenue]], lost opportunities, increase [[risk]], and customer respect among other critical factors of a business. Put simplistically, cost of delay is the expected profit divided by the duration to realise that profit.
 $$ Expected Profit / Development Duration $$
 This can then be used to identify the prioritisation of delivery based on the value associated with each item. 
 
@@ -127,6 +133,3 @@ The higher the Cost of Delay value, the higher economical impact it will have as
 
 # Resource
 https://businessmap.io/lean-management/value-waste/cost-of-delay
-# Tags
-
-#MathFormula #Commercial #Prioritisation

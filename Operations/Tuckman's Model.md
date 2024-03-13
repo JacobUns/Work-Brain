@@ -1,3 +1,9 @@
+---
+tags:
+  - Model
+aliases:
+  - Tuckman's
+---
 # Forming
 # Storming
 # Norming

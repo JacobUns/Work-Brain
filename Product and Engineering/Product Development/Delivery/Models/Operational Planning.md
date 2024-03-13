@@ -1,3 +1,7 @@
+---
+tags:
+  - Practice
+---
 # About
 A Project Management practice used to generate a daily, weekly or monthly business operation plan on a department level to achieve goals in the strategic plan. It can also be referred to as an Ops Plan for short.
 

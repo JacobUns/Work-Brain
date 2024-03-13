@@ -2,7 +2,6 @@
 aliases:
   - PLC
 ---
-
 # About
 A PLC is a company which can offer its shares to the public and which has an allotted share capital with a nominal value of at least £50,000. The shares of a PLC may be traded on an exchange, but it is not a requirement.
 

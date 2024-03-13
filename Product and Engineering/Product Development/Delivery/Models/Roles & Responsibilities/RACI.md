@@ -1,3 +1,7 @@
+---
+tags:
+  - Model
+---
 # Acronym Definition
 Responsible
 Accountable

@@ -6,7 +6,50 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#Concept",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "tag:#Practice",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#Domain",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#Model",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "tag:#Testing",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#Commercial",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -1.5,
@@ -17,6 +60,6 @@
   "repelStrength": 9.01041666666667,
   "linkStrength": 0.731770833333333,
   "linkDistance": 200,
-  "scale": 0.39669988479134705,
+  "scale": 0.3966998847913515,
   "close": false
 }

@@ -1,8 +1,9 @@
 ---
 aliases:
   - RAID
+tags:
+  - Model
 ---
-
 ## Risk
 A factors that could potentially impact a product, engineering or delivery item adversely. These are possible problems that have not come to fruition. 
 

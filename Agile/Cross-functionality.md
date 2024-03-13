@@ -4,6 +4,8 @@ aliases:
   - I-Shaped
   - Pi-Shaped
   - Comb-Shaped
+tags:
+  - Concept
 ---
 # About
 T-Shaped individuals can be found in any disciple or job area. Typically, these people have a broad set of skills that they've picked up through study and experience over several years with one deep specialism where they hold a lot of knowledge.

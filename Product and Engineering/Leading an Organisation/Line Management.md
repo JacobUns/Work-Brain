@@ -2,6 +2,7 @@
 tags:
   - Management
   - Leadership
+  - Domain
 ---
 # About
 # Responsibilities

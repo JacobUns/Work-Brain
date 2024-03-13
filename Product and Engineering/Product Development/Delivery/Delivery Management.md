@@ -6,8 +6,8 @@ tags:
   - MartyCagan
   - Leadership
   - ServantLeadership
+  - Domain
 ---
-
 # About
 The delivery management role to me, at the time of writing this entry in 24Q1, is a hybrid role that covers multiple disciplines in a [[Cross-functionality|T-Shaped]] manner. 
 # Key Responsibilities
@@ -27,7 +27,7 @@ The delivery management role to me, at the time of writing this entry in 24Q1, i
 - Foster an Environment of [[Psychological Safety]]
 - Team Health
 - Effective breakdown of work for delivery
-- Support the product team as a [[Servant-Leadership|Servant-Leader]]
+- Support the [[product team]] as a [[Servant-Leadership|Servant-Leader]]
 # References
 https://www.svpg.com/the-delivery-manager-role/
 https://www.svpg.com/ebays-secret-weapon/
