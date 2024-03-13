@@ -1,3 +1,7 @@
+---
+tags:
+  - Metrics
+---
 ![[Things to measure.png]]
 
 Time to first value

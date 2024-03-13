@@ -18,10 +18,10 @@
 	- Discovery Process
 	- Metrics and how we measure them
 - Models and Frameworks
-	- Tuckman's
-	- Test Driven Development
+	- [[Tuckman's Model]]
+	- [[Test Driven Development]]
 - Paradigms & Principles
 	- [[Agile]]
 	- [[Object Orientated Programming|OOP]]
-	- SOLID
+	- [[SOLID Principles|SOLID]]
 - Resources

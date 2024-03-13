@@ -1,6 +1,11 @@
 ---
 aliases:
   - Delivery Managers
+tags:
+  - Delivery
+  - MartyCagan
+  - Leadership
+  - ServantLeadership
 ---
 
 # About
@@ -14,19 +19,16 @@ The delivery management role to me, at the time of writing this entry in 24Q1, i
 - [[Coaching]] the [[Product Team]]
 - Manage [[Risk]]
 - Manage Cross-team Dependencies
-- Report Progress
+- [[Delivery Reporting|Report Progress]]
 - Plan delivery of value - [[Operational Planning|Operationally]] & Detailed
 - Heatshield for [[Product Team]]
-- Understanding Go-To-Market Paths
+- Understanding [[Go-To-Market]] Paths
 - Foster Collaboration and Team Trust
 - Foster an Environment of [[Psychological Safety]]
 - Team Health
 - Effective breakdown of work for delivery
 - Support the product team as a [[Servant-Leadership|Servant-Leader]]
-
 # References
 https://www.svpg.com/the-delivery-manager-role/
 https://www.svpg.com/ebays-secret-weapon/
 https://www.svpg.com/delivery-manager-job-description/
-# Tags
-#Delivery #MartyCagan #Leadership #ServantLeadership

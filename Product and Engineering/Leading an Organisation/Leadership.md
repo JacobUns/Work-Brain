@@ -4,7 +4,6 @@ tags:
   - ServantLeadership
   - "#Management"
 ---
-
 # About
 
 # Leadership vs Management

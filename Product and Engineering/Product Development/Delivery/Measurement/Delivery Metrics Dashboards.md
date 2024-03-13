@@ -1,6 +1,5 @@
 # Description
 A delivery metric dashboard should be an information radiator to all that come to look at it and should give immediate insight to the viewer into the current health of the team.
-
 # Example
 Below is an example of a dashboard created for the Ignite Cloud Services team to track their sprint and backlog health and gauge delivery timelines.
 

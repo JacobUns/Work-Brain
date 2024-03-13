@@ -55,7 +55,7 @@ Three Revelations
 		- If there's 1 person who draws social standing from being a hero it can be poisonous, and may undermine the process
 	- Who rules your roost?
 		- Implementing new processes changes the power balance
-	- Watch your incentives
+	- Watch your [[incentives]]
 		- Promote team work, not individuality
 	- Use inclusion to maximize [[Return on Investment|ROI]] of your diversity
 		- Make better decisions for the business by including different people with different perspectives

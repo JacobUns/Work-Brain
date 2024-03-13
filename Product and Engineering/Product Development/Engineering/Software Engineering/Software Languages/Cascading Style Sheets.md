@@ -1,8 +1,8 @@
 ---
 aliases:
-  - SaaS
+  - CSS
 tags:
   - Software
-  - Commercial
-  - Product
+  - Language
+  - Front-end
 ---

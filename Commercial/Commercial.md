@@ -1,3 +1,8 @@
+---
+tags:
+  - Commercial
+  - Metrics
+---
 # About
 The commercial aspects of a business are everything related to buying and selling anything, especially at scale.
 
@@ -27,7 +32,7 @@ Some examples of [[Leading Indicator|Leading Indicators]]:
 
 Some are also customer orientated metrics include:
 - [[Net Promoter Score]]
-	- This is the commercial parallel to [[Employer Net Promoter Score - eNPS|eNPS]].
+	- This is the [[Commercial]] parallel to [[Employer Net Promoter Score - eNPS|eNPS]].
 - [[Customer Loyalty and Retention]]
 - [[Lead-to-Client Conversion Rate]]
 

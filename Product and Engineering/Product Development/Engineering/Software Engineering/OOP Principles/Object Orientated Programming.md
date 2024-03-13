@@ -6,16 +6,16 @@ tags:
   - Engineering
   - Programming
   - Software
+  - Principle
 ---
-
-## Definition
+# Definition
 A programming paradigm based on the concept of objects that contain attributes/properties and methods.
-
-## Principles
+# Principles
 [[Abstraction]]
 [[Encapsulation]]
 [[Polymorphism]]
 [[Inheritance]]
-
-## Tags
-#oop
+# Languages
+There are many languages driven by the principles of OOP. Some of these include:
+- [[C#]]
+- [[Javascript#Typescript|Typescript]]

@@ -17,7 +17,7 @@ The [[Product Designer]] is the more desirable approach, in my view, as they hav
 Data may be the output of:
 - [[Paper Prototype |Paper Prototypes]]
 - [[Design Sprint |Design Sprints]]
-- [[Customer Survey |Customer Surveys]]
+- [[Customer Surveys]]
 - [[Customer Interview |Customer Interviews]]
 - [[Fake Door Test]]
 - [[Usability Testing]]
