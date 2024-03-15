@@ -16,7 +16,7 @@ Software Engineering is the discipline or domain that covers all aspects of deve
 The main competency of Software Engineering is the development of, unsurprisingly, software programming and scripting. Software often takes many guises, whether it be the very visible Front-end development or not visible, but core of a system, in Backend. Even in the world of systems maintenance, as [[DevOps]] becomes a more widely adopted approach, we see code play its part, with such concepts as [[DevOps#Infrastructure as Code|Infrastructure as Code]] becoming more prevalent for its flexibility and disaster recovery enablement.
 # Disciplines
 ## Front-end Development
-This is the discipline of developing customer facing applications, most commonly using a mixture of [[HTML]], [[CSS]] and [[Javascript]]. 
+This is the discipline of developing customer facing applications, most commonly using a mixture of [[Hypertext Markup Language|HTML]], [[Cascading Style Sheets|CSS]] and [[Javascript]].
 ## Backend Development
 # Practices
 ## Principles

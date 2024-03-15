@@ -1,7 +1,8 @@
 ---
 tags:
-  - Metrics
   - Commercial
+  - Model
 aliases:
-  - NPS
+  - Service Model
 ---
+# About

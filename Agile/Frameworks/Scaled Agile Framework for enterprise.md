@@ -3,8 +3,8 @@ aliases:
   - SAFe
 tags:
   - AgileFramework
+  - Concept
 ---
-
 # About
 [**S**caled **A**gile **F**ramework for **e**nterprise](https://scaledagileframework.com/) (SAFe) is a framework for operating lots of teams on a release train in an [[Agile]], organised and planned manner.
 

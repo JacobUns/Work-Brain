@@ -1,0 +1,6 @@
+---
+tags:
+  - Practice
+aliases:
+  - SEO
+---

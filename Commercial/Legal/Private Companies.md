@@ -1,3 +1,7 @@
+---
+tags:
+  - Commercial
+---
 # About
 A private company may not offer its shares to the general public. It can be limited by shares, where the members' liability is limited to the amount unpaid on shares they hold, or limited by guarantee, where the members' liability is limited to the amount they have agreed to contribute to the company's assets become insolvent.
 

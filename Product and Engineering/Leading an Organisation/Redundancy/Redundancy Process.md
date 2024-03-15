@@ -1,14 +1,13 @@
-### Process Definition
-Redundancy is the process of identifying roles within a business that are surplus to requirement and/or don't meet the current business objective or operating structure.
-
-## Stages
-### Notification
-The first stage of a redundancy announcement is notification. In this you are notified that your role is up for redundancy.
-### Consultation
+# Process Definition
+Redundancy is a [[Human Resources]] process of identifying roles within a business that are surplus to requirement and/or don't meet the current business objective or operating structure. This can be a [[Business Strategy|strategic business]] decision to either set up a structure for the future or explicitly as a cost-cutting exercise. In the former example, a business is looking at short-term pain for long-term gain. In the latter, it's typically because of poor business performance when compared to [[Operations|operational]] costs.
+# Stages
+## Notification
+The first stage of a redundancy announcement is notification. In this you are notified that your role is up for redundancy and that you will be provided information about the consultation process that is to come.
+## Consultation
 During consultation, the goal is for you to provide feedback that the company may consider to dissuade them from making your role redundant, or find an alternative path. This process can take some time, as the business will go away to get answers to the points that have been raised by the person. The business may also offer alternative roles for you to fill should you believe you have the skills to fulfil one of the open positions the company has. The business may also offer compensation for continuing in your role into a specific point in time depending on the reasons for redundancy, for example they may keep a department on for a few months extra to train a new team if they are closing down a department in one location and opening it in a new location.
 
 During this period, depending on the size of the organisation you may either go through group consultation or individual consultation. The former needs a mechanism for identifying which people will satisfy the roles that are remaining after redundancy, if any. This typically takes the form of a [[Scoring Mechanism]] as defined by the team orchestrating the process.
-### Decision
+## Decision
 At this stage the business makes a decision on whether your role is redundant or whether you're going to move into another role for a trial period. After this point you will either be required to continue working based on the agreement between both parties, or you will work your notice period and then exit the business.
 
 ## Rights

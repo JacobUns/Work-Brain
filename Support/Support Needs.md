@@ -1,5 +1,0 @@
-- Standard Support Templates
-- Case Queues
-- Documentation
-- Problem Tracking
-- Customer Guides

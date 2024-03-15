@@ -3,19 +3,19 @@
 - Onboarding guide for managers
 - Tooling and how it's used
 - Standards and Guidelines
-	- Process for creating a new service
+	- Process for creating a new [[Architecture#Micro-services|Micro-service]]
 	- Code Quality Standards
-	- Release on Demand and Feature Flagging Guidelines
+	- [[Release on Demand]] and Feature Flagging Guidelines
 - Soft Skills
 	- Time Management
 	- Meeting Facilitation
-	- Coaching
+	- [[Coaching]]
 - Career Competencies
-- Product Processes
+- [[Product]] Processes
 - Engineering processes
 	- Delivery Process
 	- Frameworks used
-	- Discovery Process
+	- [[Discovery]] Process
 	- Metrics and how we measure them
 - Models and Frameworks
 	- [[Tuckman's Model]]

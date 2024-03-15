@@ -15,4 +15,7 @@ Model - The visualisation or verbalisation of a [[Glossary#^GlossaryConcept|Conc
 
 Practice - The implementation of a [[Glossary#^GlossaryConcept|Concept]], often in conjunction with a [[Glossary#^GlossaryModel|Model]].
 
+# DevOps
+For DevOps - see [[DevOps Glossary|DevOps Glossary]]
 # De Beers
+

@@ -4,19 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "798f370ab747bde1",
+        "id": "b2e870747a862729",
         "type": "tabs",
         "children": [
           {
-            "id": "8af403d066a08ba5",
+            "id": "63c76ed93fa2490f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commercial/Metrics/Cost of Delay.md",
+                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Architecture.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "06c02cec32d3ee12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8eacdfe041f6858b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -93,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Commercial/Metrics/Cost of Delay.md",
+                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Architecture.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,9 +126,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Commercial/Metrics/Cost of Delay.md",
+                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Architecture.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -133,12 +149,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Commercial/Metrics/Cost of Delay.md"
+                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Architecture.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,54 +170,54 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "8af403d066a08ba5",
+  "active": "63c76ed93fa2490f",
   "lastOpenFiles": [
-    "Glossary.md",
-    "Acronyms.md",
-    "Product and Engineering/Product Development/Discovery/Discovery.md",
-    "Product and Engineering/Product Development/Discovery/Learning Test Cycles.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Software Engineering.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Architecture.md",
+    "Product and Engineering/Leading an Organisation/Handbook/Handbook.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Micro-services.md",
+    "Product and Engineering/Product Development/Product/Models/Software as a Service.md",
+    "Commercial/Sales Models/Service.md",
+    "Human Resources/Human Resources.md",
+    "Commercial/Commercial.md",
+    "Product and Engineering/Leading an Organisation/Redundancy/Redundancy Process.md",
+    "Product and Engineering/Leading an Organisation/Line Management.md",
+    "Product and Engineering/Leading an Organisation/Leadership.md",
+    "Product and Engineering/Leading an Organisation/Servant-Leadership.md",
+    "Resources.md",
+    "Resources^.md",
     "Lean/Lean.md",
+    "Operations/Operations.md",
+    "Operations/Images/High-performing Teams.png",
+    "Operations/Models/Tuckman's Model.md",
+    "Commercial/Metrics/Net Promoter Score.md",
+    "Operations/Models/Kotter's Model - 8 Steps to Change.md",
+    "Operations/Models/Lencioni - 5 Dysfunctions of a Team.md",
+    "Operations/Models",
+    "Product and Engineering/Product Development/Product/Product Vision Statement.md",
+    "Commercial/Marketing/Search Engine Optimisation.md",
+    "Commercial/Marketing/Marketing.md",
+    "Human Resources/Untitled.md",
+    "Commercial/Marketing",
+    "Product and Engineering/Leading an Organisation/Metrics/Employer Net Promoter Score.md",
+    "Human Resources",
+    "Commercial/Pricing Strategy.md",
+    "Operations/Customer Support",
+    "Commercial/Metrics/Images/customer-acquisition-model-1024x536.webp",
     "Lean/Images",
     "Lean/Images/muda-mura-muri.webp",
-    "Agile/Frameworks/Scrum/Scrum.md",
     "Lean",
-    "Operations/Tools for Teams/Root Cause Analysis/Five Whys.md",
-    "Operations/Tools for Teams/Root Cause Analysis/Fish-Bone Analysis.md",
-    "Operations/Tools for Teams/Root Cause Analysis/A3 Problem-Solving.md",
-    "Commercial/Metrics/Cost of Delay.md",
     "Operations/Tools for Teams/Root Cause Analysis",
     "Commercial/Metrics/Images/cost-of-delay-urgent.webp",
     "Commercial/Metrics/Images/cost-of-delay-standard.webp",
     "Commercial/Metrics/Images",
-    "Interview Questions.md",
     "Commercial/Metrics/Images/cost-of-delay-fixed.webp",
     "Commercial/Metrics/Images/cost-of-delay-fixed.webp",
-    "Operations/Types of Team/Product Team.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Regression Testing.md",
-    "Product and Engineering/Leading an Organisation/Conway's Law.md",
-    "Agile/Frameworks/Kanban.md",
-    "Product and Engineering/Risks/Risks, Actions, Issues and Dependencies.md",
-    "Product and Engineering/Leading an Organisation/Servant-Leadership.md",
-    "Operations/Lencioni - 5 Dysfunctions of a Team.md",
-    "Product and Engineering/Product Development/Delivery/Models/Roles & Responsibilities/RACI.md",
-    "Operations/Management Frameworks/SFIA.md",
-    "Product and Engineering/Product Development/Delivery/Delivery Management.md",
-    "Product and Engineering/Product Development/Product/Product Manager.md",
-    "Product and Engineering/Leading an Organisation/Line Management.md",
-    "Product and Engineering/Product Development/Engineering/Quality Assurance.md",
-    "Product and Engineering/Leading an Organisation/Leadership.md",
-    "Agile/Frameworks/Extreme Programming.md",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Manual Testing",
     "Strategy",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Software Languages",
-    "Product and Engineering/Leading an Organisation/Strategy",
-    "Product and Engineering/Common Research Methods",
     "Agile/Images/Pi-Shaped and Comb-Shaped.jpg",
     "Agile/Images/T-Shaped Skills 2.jpg",
     "Agile/Images/T-Shaped Skills.png",
-    "Product and Engineering/Product Development/Engineering",
-    "Product and Engineering/Product Development/Discovery/Images/Dual track process.png",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Testing Shapes/Images/Testing Honeycomb.png",
     "Untitled.canvas"
   ]
 }

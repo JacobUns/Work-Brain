@@ -1,4 +1,9 @@
-Mechanical Engineering is the discipline of designing, testing and enabling the production of physical products and systems.
+---
+tags:
+  - Domain
+---
+# About
+Mechanical Engineering is the discipline of designing, [[Quality Assurance|Testing]] and enabling the production of physical [[Product|Products]] and systems.
 
 # Processes and Approaches
 - [[Design for Manufacture Assembly and Services|DfMAS]]

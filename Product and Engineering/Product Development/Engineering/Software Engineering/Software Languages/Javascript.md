@@ -14,6 +14,8 @@ tags:
 Javascript is primarily a [[Software Engineering#Front-end Development|Front-End]] software programming language. It is an example of a Prototype-based [[Procedural Programming|Procedural language]], meaning it supports both [[Functional Programming|Functional]] and [[Object Orientated Programming]].
 
 Over the years, Javascript has developed many flavours and variations built by communities. These communities have looked to collate frameworks and libraries, thereby improving the experience of developing customer and user facing applications with minimal resistance. Due to the nature and flexibility of Javascript as a language, it can be used for both [[Software Engineering#Front-end Development|Front-end]] and [[Software Engineering#Backend Development|Backend]].
+
+Javascript, as it is a [[Software Engineering#Front-end Development|Front-End]] technology, is often associated with the other main languages of [[Hypertext Markup Language|HTML]] and [[Cascading Style Sheets|CSS]]. Some of the flavours of Javascript combine these languages to provide libraries and 
 # Flavours
 ## Angular.js
 ## React.js

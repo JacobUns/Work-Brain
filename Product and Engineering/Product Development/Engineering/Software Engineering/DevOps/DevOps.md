@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#Practice"
+  - Concept
 ---
 # About
 # Practices

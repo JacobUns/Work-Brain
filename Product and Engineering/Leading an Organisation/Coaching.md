@@ -2,6 +2,7 @@
 tags:
   - MichaelBungayStanier
   - Coaching
+  - Practice
 ---
 # About
 # Modes

@@ -24,6 +24,7 @@ The [[Product]] Manager is a role in a [[Product Team]] that identifies a custom
 - Define the [[Project Charter]]
 - Define and Refine Scope
 - Manage the [[Scrum#Product Backlog|Product Backlog]]
+- Define the [[Personas]] associated to the product
 # Resources
 [Product Management vs Project Management](https://www.svpg.com/product-management-vs-project-management/)
 [Product Manager Job Description](https://www.svpg.com/product-manager-job-description/)

@@ -25,14 +25,14 @@
       "query": "tag:#Domain",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 14851864
       }
     },
     {
       "query": "tag:#Model",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 12771461
       }
     },
     {
@@ -46,11 +46,18 @@
       "query": "tag:#Commercial",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 2479141
+      }
+    },
+    {
+      "query": "tag:#Definition",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1.5,
   "nodeSizeMultiplier": 0.98046875,
@@ -60,6 +67,6 @@
   "repelStrength": 9.01041666666667,
   "linkStrength": 0.731770833333333,
   "linkDistance": 200,
-  "scale": 0.3966998847913515,
-  "close": false
+  "scale": 0.2829562938468244,
+  "close": true
 }
