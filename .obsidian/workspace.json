@@ -11,8 +11,12 @@
             "id": "8af403d066a08ba5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Commercial/Metrics/Cost of Delay.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MichaelBungayStanier",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Commercial/Metrics/Cost of Delay.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,8 +110,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Commercial/Metrics/Cost of Delay.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Commercial/Metrics/Cost of Delay.md"
+              }
             }
           }
         ],
@@ -149,6 +157,26 @@
   },
   "active": "8af403d066a08ba5",
   "lastOpenFiles": [
+    "Glossary.md",
+    "Acronyms.md",
+    "Product and Engineering/Product Development/Discovery/Discovery.md",
+    "Product and Engineering/Product Development/Discovery/Learning Test Cycles.md",
+    "Lean/Lean.md",
+    "Lean/Images",
+    "Lean/Images/muda-mura-muri.webp",
+    "Agile/Frameworks/Scrum/Scrum.md",
+    "Lean",
+    "Operations/Tools for Teams/Root Cause Analysis/Five Whys.md",
+    "Operations/Tools for Teams/Root Cause Analysis/Fish-Bone Analysis.md",
+    "Operations/Tools for Teams/Root Cause Analysis/A3 Problem-Solving.md",
+    "Commercial/Metrics/Cost of Delay.md",
+    "Operations/Tools for Teams/Root Cause Analysis",
+    "Commercial/Metrics/Images/cost-of-delay-urgent.webp",
+    "Commercial/Metrics/Images/cost-of-delay-standard.webp",
+    "Commercial/Metrics/Images",
+    "Interview Questions.md",
+    "Commercial/Metrics/Images/cost-of-delay-fixed.webp",
+    "Commercial/Metrics/Images/cost-of-delay-fixed.webp",
     "Operations/Types of Team/Product Team.md",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Regression Testing.md",
     "Product and Engineering/Leading an Organisation/Conway's Law.md",
@@ -164,17 +192,6 @@
     "Product and Engineering/Product Development/Engineering/Quality Assurance.md",
     "Product and Engineering/Leading an Organisation/Leadership.md",
     "Agile/Frameworks/Extreme Programming.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Procedural Programming.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Functional Programming.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Testing Shapes/Testing Shapes.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/SOLID Principles/SOLID Principles.md",
-    "Operations/Tools for Teams/Team Building/Team Building.md",
-    "Product and Engineering/Risks/Risk.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Repository Types/Monorepo.md",
-    "Product and Engineering/Product Development/Discovery/Hackathons.md",
-    "Agile/Cross-functionality.md",
-    "Product and Engineering/Product Development/Delivery/Models/Operational Planning.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Normalization.md",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Manual Testing",
     "Strategy",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Software Languages",
@@ -184,17 +201,8 @@
     "Agile/Images/T-Shaped Skills 2.jpg",
     "Agile/Images/T-Shaped Skills.png",
     "Product and Engineering/Product Development/Engineering",
-    "Product and Engineering/Product Development",
-    "Operations/Culture/Models",
-    "Operations/Culture",
     "Product and Engineering/Product Development/Discovery/Images/Dual track process.png",
-    "Agile/Images",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Testing Shapes/Images/Testing Honeycomb.png",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Testing Shapes/Images/Testing Trophy.jpg",
-    "Product and Engineering/Risks/Images/ROAM Board.png",
-    "Untitled.canvas",
-    "Agile/Frameworks/Images/XP Life Cycle.png",
-    "Agile/Frameworks/Images/Extreme Programming Feedback Loop.png",
-    "Pasted image 20240220125822.png"
+    "Untitled.canvas"
   ]
 }

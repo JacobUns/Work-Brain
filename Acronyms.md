@@ -1,3 +1,7 @@
+---
+tags:
+  - Definition
+---
 # General
 ## [[Agile]]
 AC - Acceptance Criteria
