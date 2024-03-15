@@ -6,6 +6,7 @@
       {
         "id": "b2e870747a862729",
         "type": "tabs",
+        "dimension": 46.81933842239186,
         "children": [
           {
             "id": "63c76ed93fa2490f",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Architecture.md",
+                "file": "Operations/Tools for Teams/Team Building/Team Bonding Activities.md",
                 "mode": "source",
                 "source": false
               }
@@ -24,6 +25,7 @@
       {
         "id": "06c02cec32d3ee12",
         "type": "tabs",
+        "dimension": 53.18066157760815,
         "children": [
           {
             "id": "8eacdfe041f6858b",
@@ -109,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Architecture.md",
+                "file": "Operations/Tools for Teams/Team Building/Team Bonding Activities.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Architecture.md",
+                "file": "Operations/Tools for Teams/Team Building/Team Bonding Activities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,11 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Architecture.md"
+                "file": "Operations/Tools for Teams/Team Building/Team Bonding Activities.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,36 +175,39 @@
   },
   "active": "63c76ed93fa2490f",
   "lastOpenFiles": [
+    "Operations/Tools for Teams/Team Building/Team Building.md",
+    "Operations/Tools for Teams/Team Building/Team Bonding Activities.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Databases/Databases.md",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Software Engineering.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Engineering Benchmarks.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Practices/Behaviour Driven Development.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Databases",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/Platform Engineering.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Practices",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Paradigms",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/DevOps.md",
+    "Tools.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/DevOps Tools.md",
+    "Glossary.md",
+    "Glossary^Responsibility.md",
+    "Product and Engineering/Product Development/Delivery/Delivery Management.md",
+    "Product and Engineering/Product Development/Delivery/Models/Operational Planning.md",
+    "Product and Engineering/Product Development/Engineering/Quality Assurance.md",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Architecture.md",
-    "Product and Engineering/Leading an Organisation/Handbook/Handbook.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Micro-services.md",
-    "Product and Engineering/Product Development/Product/Models/Software as a Service.md",
-    "Commercial/Sales Models/Service.md",
-    "Human Resources/Human Resources.md",
-    "Commercial/Commercial.md",
-    "Product and Engineering/Leading an Organisation/Redundancy/Redundancy Process.md",
-    "Product and Engineering/Leading an Organisation/Line Management.md",
-    "Product and Engineering/Leading an Organisation/Leadership.md",
-    "Product and Engineering/Leading an Organisation/Servant-Leadership.md",
-    "Resources.md",
-    "Resources^.md",
-    "Lean/Lean.md",
+    "Agile/Frameworks/Scaled Agile Framework for enterprise.md",
     "Operations/Operations.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/OOP Principles/Object Orientated Programming.md",
+    "Product and Engineering/Product Development/Discovery/Learning Test Cycles.md",
+    "Product and Engineering/Leading an Organisation/Leadership.md",
+    "Agile/Frameworks/Extreme Programming.md",
+    "Product and Engineering/Product Development/Engineering/Mechanical Engineering/Design Failure Mode Effect Analysis.md",
+    "Product and Engineering/Leading an Organisation/Conway's Law.md",
+    "Product and Engineering/Leading an Organisation/Coaching.md",
+    "Commercial/Metrics/Customer Acquisition Cost.md",
     "Operations/Images/High-performing Teams.png",
-    "Operations/Models/Tuckman's Model.md",
-    "Commercial/Metrics/Net Promoter Score.md",
-    "Operations/Models/Kotter's Model - 8 Steps to Change.md",
-    "Operations/Models/Lencioni - 5 Dysfunctions of a Team.md",
     "Operations/Models",
-    "Product and Engineering/Product Development/Product/Product Vision Statement.md",
-    "Commercial/Marketing/Search Engine Optimisation.md",
-    "Commercial/Marketing/Marketing.md",
-    "Human Resources/Untitled.md",
     "Commercial/Marketing",
-    "Product and Engineering/Leading an Organisation/Metrics/Employer Net Promoter Score.md",
     "Human Resources",
-    "Commercial/Pricing Strategy.md",
     "Operations/Customer Support",
     "Commercial/Metrics/Images/customer-acquisition-model-1024x536.webp",
     "Lean/Images",
@@ -210,11 +216,8 @@
     "Operations/Tools for Teams/Root Cause Analysis",
     "Commercial/Metrics/Images/cost-of-delay-urgent.webp",
     "Commercial/Metrics/Images/cost-of-delay-standard.webp",
-    "Commercial/Metrics/Images",
     "Commercial/Metrics/Images/cost-of-delay-fixed.webp",
     "Commercial/Metrics/Images/cost-of-delay-fixed.webp",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Manual Testing",
-    "Strategy",
     "Agile/Images/Pi-Shaped and Comb-Shaped.jpg",
     "Agile/Images/T-Shaped Skills 2.jpg",
     "Agile/Images/T-Shaped Skills.png",

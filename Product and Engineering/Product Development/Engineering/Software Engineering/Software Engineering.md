@@ -9,6 +9,8 @@ aliases:
   - Software Development
   - Software Engineer
   - Software Developer
+  - Software Engineers
+  - Software Developers
 ---
 # About
 Software Engineering is the discipline or domain that covers all aspects of development towards software products, mostly consisting of the development of code but also encompasses all supporting competencies, such as [[DevOps#Practices|DevOps Practices]], testing practices such as [[Test Driven Development]], testing approaches such as [[Automation Testing |Automation]] and [[Manual Testing]], version control with [[Repositories]], and different approaches to [[Architecture]].
@@ -18,11 +20,14 @@ The main competency of Software Engineering is the development of, unsurprisingl
 ## Front-end Development
 This is the discipline of developing customer facing applications, most commonly using a mixture of [[Hypertext Markup Language|HTML]], [[Cascading Style Sheets|CSS]] and [[Javascript]].
 ## Backend Development
+## Database Development
+One of the core components to successful systems and architecture is the infrastructure behind the services, which will usually be a [[Databases|database]] of some variety.
 # Practices
+[[Version Control]]
 ## Principles
 [[Normalization]]
 [[SOLID Principles|SOLID]]
 [[Object Orientated Programming]]
-
 # Metrics
-Some examples of metrics can be found [[Engineering Benchmarks|here]].
+## Engineering Benchmarks
+![[Engineering Benchmarks.png]]

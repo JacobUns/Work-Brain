@@ -28,7 +28,7 @@ The delivery management role to me, at the time of writing this entry in 24Q1, i
 - Team Health
 - Effective breakdown of work for delivery
 - Support the [[product team]] as a [[Servant-Leadership|Servant-Leader]]
-# References
-https://www.svpg.com/the-delivery-manager-role/
-https://www.svpg.com/ebays-secret-weapon/
-https://www.svpg.com/delivery-manager-job-description/
+# Sources
+[Delivery Manager Role - Marty Cagan](https://www.svpg.com/the-delivery-manager-role/)
+[Ebay's Secret Weapon - Marty Cagan](https://www.svpg.com/ebays-secret-weapon/)
+[Delivery Manager Job Spec - Marty Cagan](https://www.svpg.com/delivery-manager-job-description/)

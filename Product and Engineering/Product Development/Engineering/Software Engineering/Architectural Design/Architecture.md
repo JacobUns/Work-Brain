@@ -19,8 +19,6 @@ This form of architectural design focuses on the interaction between modules of 
 ## Enterprise Architecture
 This form of architectural design focuses on Solutions architecture at scale. It is much less worried about the intricacies of each individual piece of software and instead looks to combine and solutions into an integrated environment without causing friction throughout.
 # Types
-## Behaviour Driven Design
-Also known as BDD, the practice of 
 ## Domain Driven Design
 Also known as DDD
 ## Micro-services
