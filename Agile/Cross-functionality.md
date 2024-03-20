@@ -26,7 +26,7 @@ Through my work at De Beers, it has become obvious that [[Cross-functionality|T-
 #### Type
 [[Cross-functionality|Pi-Shaped]]
 #### Specialised Expertise
-##### Software Engineering
+##### [[Software Engineering]]
 - [[Software Engineering#Backend Development|Backend Development]]
 ##### Platform Engineering
 
@@ -36,7 +36,7 @@ Through my work at De Beers, it has become obvious that [[Cross-functionality|T-
 #### Type
 [[Cross-functionality#T-Shaped|T-Shaped]]
 #### Specialised Expertise
-##### Software Engineering
+##### [[Software Engineering]]
 - [[Software Engineering#Backend Development|Backend Development]]
 #### General Proficiencies
 
@@ -45,13 +45,16 @@ Through my work at De Beers, it has become obvious that [[Cross-functionality|T-
 #### Type
 [[Cross-functionality|Pi-Shaped]]
 #### Specialised Expertise
-##### Engineering Management
+##### [[Line Management|Engineering Management]]
 - [[Software Engineering#Backend Development|Backend Development]]
 - [[Coaching]]
 - Line-management
 - People Development
-##### Software Engineering
-- 
+- Technology Strategy
+##### [[Software Engineering]]
+- [[Domain Driven Design]]
+- [[C#]]
+- [[Architecture|Architectural Design]]
 #### General Proficiencies
 - Product Management
 - Customer Support
@@ -62,7 +65,7 @@ Through my work at De Beers, it has become obvious that [[Cross-functionality|T-
 #### Type 
 [[Cross-functionality#T-Shaped|T-Shaped]]
 #### Specialised Expertise
-##### Mechanical Engineering
+##### [[Mechanical Engineering]]
 
 ##### General Proficiencies
 - Mathematical modelling
@@ -73,11 +76,11 @@ Through my work at De Beers, it has become obvious that [[Cross-functionality|T-
 #### Type
 [[Cross-functionality#T-Shaped|T-Shaped]]
 #### Specialised Expertise
-##### Software Engineering
+##### [[Software Engineering]]
 - [[Software Engineering#Backend Development|Backend Development]]
 - [[Automation Testing]]
 - [[Architecture|Architectural Design]]
-- [[Database Design]]
+- [[Databases|Database]] Design
 - SQL
 #### General Proficiency
 - Automation
@@ -88,11 +91,11 @@ Through my work at De Beers, it has become obvious that [[Cross-functionality|T-
 #### Type
 [[Cross-functionality|Pi-Shaped]]
 #### Specialised Expertise
-##### Software Engineering
+##### [[Software Engineering]]
 - [[Software Engineering#Front-end Development|Front-end Development]] with [[Javascript#Angular.js|Angular.js]]
 - [[Software Engineering#Backend Development|Backend Development]]
-##### Platform Engineering
+##### [[Platform Engineering]]
 - Azure
-- [[Acronyms#^4a310a|AWS]]
+- [[Acronyms#^AWS|AWS]]
 - Kubernetes
 #### General Expertise

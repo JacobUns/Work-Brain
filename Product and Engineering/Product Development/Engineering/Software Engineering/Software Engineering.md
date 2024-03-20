@@ -29,5 +29,6 @@ One of the core components to successful systems and architecture is the infrast
 [[SOLID Principles|SOLID]]
 [[Object Orientated Programming]]
 # Metrics
+There are many types of [[Software Engineering Metrics]] to be aware of, but fundamentally they all boil down to the same thing which is to monitor the performance, complexity and maintainability of a solution. Some metrics from other disciplines such as [[Product Metrics]] may have an impact on decisions made, but these are not specifically engineering based metrics.
 ## Engineering Benchmarks
 ![[Engineering Benchmarks.png]]

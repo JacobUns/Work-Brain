@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b2e870747a862729",
+        "id": "83aeaa6cc844dbcc",
         "type": "tabs",
-        "dimension": 46.81933842239186,
+        "dimension": 26.463104325699742,
         "children": [
           {
-            "id": "63c76ed93fa2490f",
+            "id": "229b6c9c54339af4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operations/Tools for Teams/Team Building/Team Bonding Activities.md",
+                "file": "Product and Engineering/Leading an Organisation/Metrics/Things to Measure.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,9 +23,53 @@
         ]
       },
       {
+        "id": "b2e870747a862729",
+        "type": "tabs",
+        "dimension": 31.48854961832061,
+        "children": [
+          {
+            "id": "73e374bc9fae36cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operations/Metrics/Operational Metrics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df2971021bdf63d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Software Engineering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1474c0ab26894e17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Commercial/Commercial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
         "id": "06c02cec32d3ee12",
         "type": "tabs",
-        "dimension": 53.18066157760815,
+        "dimension": 42.04834605597965,
         "children": [
           {
             "id": "8eacdfe041f6858b",
@@ -111,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operations/Tools for Teams/Team Building/Team Bonding Activities.md",
+                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Software Engineering.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operations/Tools for Teams/Team Building/Team Bonding Activities.md",
+                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Software Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,12 +195,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operations/Tools for Teams/Team Building/Team Bonding Activities.md"
+                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Software Engineering.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,47 +216,47 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "63c76ed93fa2490f",
+  "active": "df2971021bdf63d2",
   "lastOpenFiles": [
-    "Operations/Tools for Teams/Team Building/Team Building.md",
-    "Operations/Tools for Teams/Team Building/Team Bonding Activities.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Databases/Databases.md",
+    "Agile/Cross-functionality.md",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Software Engineering.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Engineering Benchmarks.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Practices/Behaviour Driven Development.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Databases",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Software Engineering Metrics.md",
+    "Product and Engineering/Product Development/Product/Product Metrics.md",
+    "Operations/Tools for Teams/Team Building/Onboarding High Five Me.md",
+    "Strategy/Key Performance Indicators.md",
+    "Product and Engineering/Product Development/Discovery/Indicators/Lagging Indicator.md",
+    "Operations/Metrics/Operational Metrics.md",
+    "Commercial/Commercial.md",
+    "Product and Engineering/Leading an Organisation/Metrics/Things to Measure.md",
+    "Operations/Operations.md",
+    "Operations/Metrics/Employer Net Promoter Score.md",
+    "Operations/Metrics",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Databases/Databases.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Databases/Normalization.md",
     "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/Platform Engineering.md",
+    "Operations/Business Ownership/Private Companies.md",
+    "Operations/Business Ownership/Public Limited Company.md",
+    "Commercial/Legal/Intellectual Property.md",
+    "Product and Engineering/Product Development/Discovery/Design Sprint.md",
+    "Operations/Business Ownership",
+    "Commercial/Pricing Strategy.md",
+    "Human Resources/Human Resources.md",
+    "Lean/Lean.md",
+    "Product and Engineering/Product Development/Engineering/Quality Assurance.md",
+    "Product and Engineering/Product Development/UX/Testing Methods/AB Testing.md",
+    "Product and Engineering/Product Development/UX/User Experience.md",
+    "Notes/De Beers/Finance Codes.md",
+    "Notes/De Beers",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Databases",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Practices",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Paradigms",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/DevOps.md",
-    "Tools.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/DevOps Tools.md",
-    "Glossary.md",
-    "Glossary^Responsibility.md",
-    "Product and Engineering/Product Development/Delivery/Delivery Management.md",
-    "Product and Engineering/Product Development/Delivery/Models/Operational Planning.md",
-    "Product and Engineering/Product Development/Engineering/Quality Assurance.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Architecture.md",
-    "Agile/Frameworks/Scaled Agile Framework for enterprise.md",
-    "Operations/Operations.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/OOP Principles/Object Orientated Programming.md",
-    "Product and Engineering/Product Development/Discovery/Learning Test Cycles.md",
-    "Product and Engineering/Leading an Organisation/Leadership.md",
-    "Agile/Frameworks/Extreme Programming.md",
-    "Product and Engineering/Product Development/Engineering/Mechanical Engineering/Design Failure Mode Effect Analysis.md",
-    "Product and Engineering/Leading an Organisation/Conway's Law.md",
-    "Product and Engineering/Leading an Organisation/Coaching.md",
-    "Commercial/Metrics/Customer Acquisition Cost.md",
     "Operations/Images/High-performing Teams.png",
     "Operations/Models",
     "Commercial/Marketing",
     "Human Resources",
     "Operations/Customer Support",
     "Commercial/Metrics/Images/customer-acquisition-model-1024x536.webp",
-    "Lean/Images",
     "Lean/Images/muda-mura-muri.webp",
-    "Lean",
-    "Operations/Tools for Teams/Root Cause Analysis",
     "Commercial/Metrics/Images/cost-of-delay-urgent.webp",
     "Commercial/Metrics/Images/cost-of-delay-standard.webp",
     "Commercial/Metrics/Images/cost-of-delay-fixed.webp",

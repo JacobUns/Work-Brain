@@ -1,6 +1,37 @@
 # Description
 # Frameworks
 ## North Star
+The North Star framework looks to provide 
+### Product North Star
+
+### Key Influencers
+### Levers
 
 # Types
-Similarly to [[Commercial]] disciplines, the [[Product]] domain also uses [[Leading Indicator|Leading]] and [[Lagging Indicator|Lagging]] indicators for determining the performance of the [[product]]. The [[Product Manager]] role is will need to also understand and potentially monitor [[Commercial#Types of Metric|Commercial Metrics]] such as [[Return on Investment]] or [[Cost of Delay]] to judge what to act upon, prioritise or otherwise disregard. As the role ultimately has [[Glossary#^Accountability|accountability]] for their [[product]], they will likely also have understanding or input into the [[Pricing Strategy]], even if this is lead by one of the [[Commercial]] team.
+Similarly to [[Commercial]] disciplines, the [[Product]] domain also uses [[Leading Indicator|Leading]] and [[Lagging Indicator|Lagging]] indicators for determining the performance of the [[product]]. The [[Product Manager]] role  will need to also understand, and potentially monitor, [[Commercial#Types of Metric|Commercial Metrics]] such as [[Return on Investment]] or [[Cost of Delay]] to judge what to act upon, prioritise or otherwise disregard. As the role ultimately has [[Glossary#^Accountability|accountability]] for their [[product]], they will likely also have understanding or input into the [[Pricing Strategy]], even if this is lead by one of the [[Commercial]] team.
+# Examples
+Time to First Value
+Time to Immediate Value
+## De Beers
+### ACAS
+#### Product North Star
+Production Cost to take a stone from reactor to polished: Dollar per Carat ($/ct)
+#### Key Influencers
+Average total polished yields of 2ct: Average Yield (ct)
+15-20% Overall Reduction in Manufacturing Pipeline time: Manuf. Pipeline Time (days)
+Reduction in shipping costs in supply chain: Supply Chain Cost ($)
+#### Levers
+Consistency hitting SKUs across STD, FIN, NOR based on demand profile: Failure Rate (%)
+Obtain Parity with \$/pol.ct to current Lightbox supplier: Cost (\$/pol.ct)
+### ICS
+#### Product North Star
+Undefined
+#### Key Influences
+Undefined
+#### Levers
+##### [[Lagging Indicator|Lagging Indicators]]
+85% uptime of the IoT Agent, excluding external conditions and factors
+100% of pilot site Autoflow Machines are operating with the IoT Agent
+98% of messages sent by the Autoflow machines are received by the IoT Agent
+0% machine downtime due to the IoT Agent
+90% of data generated during offline operation is recovered and sent for analysis
