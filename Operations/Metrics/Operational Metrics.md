@@ -8,6 +8,7 @@ tags:
 Onboarding Effectiveness
 Onboarding - Time to first delivery
 Tool Usage/Adoption Success
+Tooling Cost
 [[Psychological Safety]]
 Platform Cost
 Average Learning & Development spend per head

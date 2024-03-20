@@ -10,6 +10,7 @@ aliases:
 # Types
 ## Relational
 ## Graph
+## NoSQL
 ## Document
 # Practices
 [[Normalization]]

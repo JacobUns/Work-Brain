@@ -2,6 +2,7 @@
 tags:
   - Commercial
   - Domain
+  - Metrics
 ---
 # About
 The commercial aspects of a business are everything related to buying and selling anything, especially at scale.

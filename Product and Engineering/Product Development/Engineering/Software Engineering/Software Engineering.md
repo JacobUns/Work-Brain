@@ -21,7 +21,11 @@ The main competency of Software Engineering is the development of, unsurprisingl
 This is the discipline of developing customer facing applications, most commonly using a mixture of [[Hypertext Markup Language|HTML]], [[Cascading Style Sheets|CSS]] and [[Javascript]].
 ## Backend Development
 ## Database Development
-One of the core components to successful systems and architecture is the infrastructure behind the services, which will usually be a [[Databases|database]] of some variety.
+One of the core components to successful systems and architecture is the infrastructure behind the services, which will usually contain a [[Databases|database]] of some variety. There are a few different types of database:
+- [[Databases#Relational|Relational]]
+- [[Databases#NoSQL|NoSQL]]
+- [[Databases#Graph|Graph]]
+- [[Databases#Document|Document]]
 # Practices
 [[Version Control]]
 ## Principles

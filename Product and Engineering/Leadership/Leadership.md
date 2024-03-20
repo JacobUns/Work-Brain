@@ -23,5 +23,7 @@ Leadership is often confused with [[Line Management|Management]]. Though it is t
 David Marquet describes the concept of Intent-based leadership as part of the book [[Resources#^TurnTheShipAround|Turn the Ship Around]]. The concept revolves around enabling autonomy and empowerment in your surrounding team, and having them sanity check with you as required rather than taking a command and control approach. This was drastically different from the approach being used in the military by many commanding officers.
 
 As a result of his leadership style, the U.S.S. Santa Fe, which was the submarine with the poorest reputation in the US Navy, became the leading performer in its class. As a result, Marquet went on to write multiple leadership books and become a thought leader in the area of leadership. #DavidMarquet 
+## Command & Control
+
 # Sources
 [Leadership vs Management: What's the Difference?](https://online.hbs.edu/blog/post/leadership-vs-management)

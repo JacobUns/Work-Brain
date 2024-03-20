@@ -6,8 +6,15 @@ tags:
 ---
 # Types
 ## Performance
+### Examples
+System Performance
+Performance Trends
 ## Maintainability
 ### Examples
-#### [[Leading Indicator|Leading Indicators]]
-
-## [[Lagging Indicator|Lagging Indicators]]
+#### Cyclomatic Complexity
+#### Security warnings
+The quantity of security warnings in your code base is a leading inticator for 
+#### Testing
+##### Test Coverage
+#### Downtime
+#### New bugs in Production

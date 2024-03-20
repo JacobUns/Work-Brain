@@ -14,5 +14,10 @@ tags:
 - Documentation
 - Problem Tracking
 - Customer Guides
+# Metrics
+- Customer Satisfaction
+- Requests Deflected by Knowledge Base
+- Time to First Response
+- Time to Resolution
 # Frameworks
 - [[ITIL]]
