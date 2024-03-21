@@ -3,6 +3,7 @@ tags:
   - RonJefferies
   - Agile
   - Practice
+  - "#MikeCohn"
 ---
 # About
 User stories are a method of conveying conversations held with users or internally as a development team. The practice comes from [[Extreme Programming|XP]], 
@@ -15,7 +16,7 @@ In the core definition of the practice for [[Extreme Programming|XP]], there is 
 ### Feature User Stories
 These types of story directly contribute to the value delivered to a user. Something a user touches at any point which provides them value, whether behind the scenes or at their finger tips, can be considered a feature user story.
 ### Enabler User Stories
-To enable the breakdown of work into regularly deliverable chunks, and to break down cross-team dependencies, a team may be required to deliver stories that provide no user value but ultimately delivers value to the engineering team. An example of this would be setting up the foundations for a new set of infrastructure, including new [[Architecture#Micro-services|Micro-services]], piplines and [[Repositories]]
+To enable the breakdown of work into regularly deliverable chunks, and to break down cross-team dependencies, a team may be required to deliver stories that provide no user value but ultimately delivers value to the engineering team. An example of this would be setting up the foundations for a new set of infrastructure, including new [[Micro-service Architecture]], pipelines and [[Repositories]]
 
 # Theory
 ## INVEST
@@ -30,12 +31,13 @@ The 3Cs are described by Ron Jefferies, the creator of [[Extreme Programming|XP]
 ## Persona-centric
 The most common form of writing User Stories that is taught puts the persona at the core of the message. Users are the people who have problems that need to be solved by a [[Product]], so we use language that puts them front-and-centre in a development team's mind. 
 
-As a...
-I want...
-So that...
+As a... **[[Persona]]**
+I want... **Proposition**
+So that... **Value Statement**
 
-Both 
+Both Persona and Value centric approaches use pronouns to shift the reader's thought processes to be more empathetic. Mike Cohn explains that one of the things that made bands like The Beatles popular was their use of the pronouns I and You in their music, which took the listener into a mindset of empathy and imagination. Similar is true of this format of user story writing. By use of pronouns, we put the reader into a mindset of trying to empathise with the problem being experienced by the [[Persona]].
 ## Value-centric
 ## Engineering-centric
-# Resources
-https://www.mountaingoatsoftware.com/agile/user-stories #MikeCohn
+# Sources
+[Mountain Goat Software - User Stories - Mike Cohn](https://www.mountaingoatsoftware.com/agile/user-stories)
+User Stories Applied - Mike Cohn

@@ -3,7 +3,7 @@
 - Onboarding guide for managers
 - Tooling and how it's used
 - Standards and Guidelines
-	- Process for creating a new [[Architecture#Micro-services|Micro-service]]
+	- Process for creating a new [[Micro-service Architecture|Micro-service]]
 	- Code Quality Standards
 	- [[Release on Demand]] and Feature Flagging Guidelines
 - Soft Skills

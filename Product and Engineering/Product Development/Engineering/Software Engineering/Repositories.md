@@ -3,4 +3,4 @@ Repositories are storage locations for code and documents that enable version co
 - [[Polyrepo]]
 - [[Monorepo]]
 
-Most 
+Most legacy solutions are [[Monoliths|Monolithic]], and so their 

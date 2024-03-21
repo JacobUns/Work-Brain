@@ -15,7 +15,7 @@ The delivery management role to me, at the time of writing this entry in 24Q1, i
 - Track & Measure Progress
 - [[Agile]] Ways of Working
 - Team Resourcing
-- [[Budget]] Management
+- [[Finance#Budget|Budget]] Management
 - [[Coaching]] the [[Product Team]]
 - Manage [[Risk]]
 - Manage Cross-team Dependencies

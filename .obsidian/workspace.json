@@ -6,6 +6,7 @@
       {
         "id": "b2e870747a862729",
         "type": "tabs",
+        "dimension": 42.88461538461538,
         "children": [
           {
             "id": "73e374bc9fae36cf",
@@ -13,42 +14,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operations/Metrics/Operational Metrics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df2971021bdf63d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Product and Engineering/Product Development/Engineering/Quality Assurance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1474c0ab26894e17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Commercial/Commercial.md",
+                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Architecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b588c386d33c2d70",
         "type": "tabs",
+        "dimension": 57.11538461538461,
         "children": [
           {
             "id": "8eacdfe041f6858b",
@@ -118,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 375.5
   },
   "right": {
     "id": "9348ad63bb8f78f0",
@@ -134,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product and Engineering/Product Development/Engineering/Quality Assurance.md",
+                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Architecture.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product and Engineering/Product Development/Engineering/Quality Assurance.md",
+                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,12 +151,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product and Engineering/Product Development/Engineering/Quality Assurance.md"
+                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Architecture.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,35 +172,41 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "df2971021bdf63d2",
+  "active": "3c30b58b732ca64e",
   "lastOpenFiles": [
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Images",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Images/Stack Data Structure.png",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Images/Queue Data Structure.png",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Architecture.md",
+    "Operations/Asset Management.md",
+    "Operations/Images/Anglo American Time Model and KPIs.png",
+    "KPIs and the Anglo Time Model - Page 1.png",
+    "Acronyms.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Event Driven Architecture.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Micro-service Architecture.md",
+    "Agile/User Stories.md",
+    "Product and Engineering/Leadership/Handbook/Handbook.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Monoliths.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Repositories.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Domain Driven Design.md",
+    "Homepage.md",
+    "Tools.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Practices/Behaviour Driven Development.md",
+    "Operations/Finance/Finance.md",
+    "Product and Engineering/Product Development/Delivery/Delivery Management.md",
+    "README.md",
+    "Budget.md",
+    "Operations/Finance",
+    "Commercial/Untitled",
+    "Resources.md",
+    "Product and Engineering/Product Development/Product/Personas.md",
+    "Operations/Metrics/Operational Metrics.md",
+    "Agile/Frameworks/Common Practices/Daily Stand-up.md",
+    "Product and Engineering/Product Development/Engineering/Quality Assurance.md",
     "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/DevOps.md",
     "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/Platform Engineering.md",
     "Operations/Project Management.md",
-    "Agile/User Stories.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Practices/Behaviour Driven Development.md",
-    "Product and Engineering/Product Development/Engineering/Quality Assurance.md",
-    "Product and Engineering/Risks/Risk.md",
-    "Commercial/Legal/Intellectual Property.md",
-    "Agile/Frameworks/Scaled Agile Framework for enterprise.md",
-    "Product and Engineering/Product Development/Delivery/Models/Operational Planning.md",
-    "Resources.md",
-    "Product and Engineering/Product Development/Product/Product Metrics.md",
-    "Product and Engineering/Leadership/Leadership.md",
-    "Product and Engineering/Leadership/Incentives.md",
-    "Product and Engineering/Leadership/Line Management.md",
-    "Operations/Customer Support/Customer Support.md",
-    "Product and Engineering/Leading an Organisation/Metrics/Things to Measure.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Software Engineering Metrics.md",
-    "Operations/Metrics/Operational Metrics.md",
-    "Product and Engineering/Product Development/Delivery/Measurement/Delivery Metrics.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/DevOps Maturity.md",
     "Product and Engineering/Leadership/Images/Things to measure.png",
-    "Product and Engineering/Product Development/Discovery/Indicators/Leading Indicator.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Software Engineering.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Databases/Databases.md",
-    "Commercial/Commercial.md",
-    "Agile/Cross-functionality.md",
     "Operations/Metrics",
     "Operations/Business Ownership",
     "Notes/De Beers",
@@ -234,16 +216,10 @@
     "Operations/Images/High-performing Teams.png",
     "Operations/Models",
     "Commercial/Marketing",
-    "Human Resources",
-    "Operations/Customer Support",
     "Commercial/Metrics/Images/customer-acquisition-model-1024x536.webp",
     "Lean/Images/muda-mura-muri.webp",
     "Commercial/Metrics/Images/cost-of-delay-urgent.webp",
     "Commercial/Metrics/Images/cost-of-delay-standard.webp",
-    "Commercial/Metrics/Images/cost-of-delay-fixed.webp",
-    "Commercial/Metrics/Images/cost-of-delay-fixed.webp",
-    "Agile/Images/Pi-Shaped and Comb-Shaped.jpg",
-    "Agile/Images/T-Shaped Skills 2.jpg",
     "Untitled.canvas"
   ]
 }

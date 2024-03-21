@@ -1,4 +1,11 @@
-## Books
+---
+tags:
+  - Resources
+  - Sources
+aliases:
+  - General Resources
+---
+# Books
 Lean UX - Jeff Gothelf & Josh Seiden #Product #UX #JeffGothelf #JoshSeiden
 
 Turn the Ship Around - L. David Marquet #DavidMarquet ^TurnTheShipAround
@@ -29,7 +36,9 @@ Outcomes Over Outputs - Josh Seidan #Leadership #JoshSeiden
 
 Running Lean - Ash Maurya #Delivery
 
-## Blogs
+User Stories Applied - Mike Cohn #MikeCohn 
+
+# Blogs
 [Neilson Norman Group](https://www.nngroup.com/search/?q=UX%20SCRUM) #Delivery #UX 
 
 [Jeff Patton's Blogs](https://www.jpattonassociates.com/category/resources/quick-references/) #Product #Delivery
@@ -37,12 +46,12 @@ Running Lean - Ash Maurya #Delivery
 [Silicon Valley Product Group Blog](https://www.svpg.com/articles/) #Product #MartyCagan
 
 [Martin Fowler's Blogs](https://www.martinfowler.com) #MartinFowler #Engineering
-## Podcasts
+# Podcasts
 Coaching for Leaders #Coaching #Leadership
 
 Scrum Master Toolbox #ServantLeadership
 
-## Videos
+# Videos
 [John Schrag](https://www.youtube.com/watch?v=q2dRk3hokEw) on [[Dual Track Agility|Dual Track Agile]] (From the UXDX Conference 2019) #JohnSchrag #DualTrack 
 
 [CodeOpinion](https://www.youtube.com/@CodeOpinion) YouTube Channel #Engineering
