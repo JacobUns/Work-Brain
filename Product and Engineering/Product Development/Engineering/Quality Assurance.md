@@ -9,6 +9,10 @@ aliases:
 ---
 # About
 The discipline of Quality Assurance is that of testing what has been produced within a [[Product Team]]. It is the first line of defense against degradation of service and deterioration of customer confidence and engagement due to reduction in quality. The practice focuses on determining whether what has been produced is of the right level of quality, but not necessarily whether it achieves as much value as expected. This may be done through [[Release on Demand]] strategies, such as [[AB Testing]] or [[Usability Testing]].
+# Practices
+## Test Cases
+## Test Suites
+
 # Types
 Testing can be broken into two categories, [[Manual Testing|manual]] and [[Automation Testing|automated]]. They both achieve the same thing; [[Automation Testing]] achieves it slower in the shorter term, but faster and with less waste in the long-term. The downside with [[Automation Testing]] is that the tests must be maintained once they are created, and their creation can be expensive both in execution cost and effort to development.
 

@@ -9,6 +9,9 @@ In the last 10 years a new role has emerged in the space of [[Software Engineeri
 
 As a result, companies have been able to start selling their code as a [[product]] in its own right, taking either an [[Infrastructure as a Service]] or [[Platform as a Service]] sales model.
 ## Containerisation
+## Disaster Recovery
+## Auto-scaling
+
 # Metrics
 [[DevOps Maturity]]
 [[DORA Metrics]]

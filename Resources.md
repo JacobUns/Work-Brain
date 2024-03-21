@@ -1,5 +1,5 @@
 ## Books
-Lean UX - Jeff Gothelf & Josh Seiden #Product #UX #JeffCothelf #JoshSeiden
+Lean UX - Jeff Gothelf & Josh Seiden #Product #UX #JeffGothelf #JoshSeiden
 
 Turn the Ship Around - L. David Marquet #DavidMarquet ^TurnTheShipAround
 

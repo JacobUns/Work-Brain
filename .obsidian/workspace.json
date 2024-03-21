@@ -4,72 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "de2453dd6f527c20",
-        "type": "split",
+        "id": "b2e870747a862729",
+        "type": "tabs",
         "children": [
           {
-            "id": "b2e870747a862729",
-            "type": "tabs",
-            "dimension": 74.55583756345177,
-            "children": [
-              {
-                "id": "73e374bc9fae36cf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Operations/Metrics/Operational Metrics.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "df2971021bdf63d2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Product and Engineering/Product Development/Product/Product Metrics.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "1474c0ab26894e17",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Commercial/Commercial.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "73e374bc9fae36cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operations/Metrics/Operational Metrics.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 1
+            }
           },
           {
-            "id": "9e038fb4b64d9da1",
-            "type": "tabs",
-            "dimension": 25.444162436548222,
-            "children": [
-              {
-                "id": "8eacdfe041f6858b",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true
-                }
+            "id": "df2971021bdf63d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product and Engineering/Product Development/Engineering/Quality Assurance.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "1474c0ab26894e17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Commercial/Commercial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
+      },
+      {
+        "id": "b588c386d33c2d70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8eacdfe041f6858b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product and Engineering/Product Development/Product/Product Metrics.md",
+                "file": "Product and Engineering/Product Development/Engineering/Quality Assurance.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product and Engineering/Product Development/Product/Product Metrics.md",
+                "file": "Product and Engineering/Product Development/Engineering/Quality Assurance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,11 +174,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product and Engineering/Product Development/Product/Product Metrics.md"
+                "file": "Product and Engineering/Product Development/Engineering/Quality Assurance.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -206,16 +198,25 @@
   },
   "active": "df2971021bdf63d2",
   "lastOpenFiles": [
+    "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/DevOps.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/Platform Engineering.md",
     "Operations/Project Management.md",
+    "Agile/User Stories.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Practices/Behaviour Driven Development.md",
+    "Product and Engineering/Product Development/Engineering/Quality Assurance.md",
+    "Product and Engineering/Risks/Risk.md",
+    "Commercial/Legal/Intellectual Property.md",
+    "Agile/Frameworks/Scaled Agile Framework for enterprise.md",
+    "Product and Engineering/Product Development/Delivery/Models/Operational Planning.md",
+    "Resources.md",
+    "Product and Engineering/Product Development/Product/Product Metrics.md",
     "Product and Engineering/Leadership/Leadership.md",
     "Product and Engineering/Leadership/Incentives.md",
     "Product and Engineering/Leadership/Line Management.md",
     "Operations/Customer Support/Customer Support.md",
     "Product and Engineering/Leading an Organisation/Metrics/Things to Measure.md",
-    "Product and Engineering/Product Development/Product/Product Metrics.md",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Software Engineering Metrics.md",
     "Operations/Metrics/Operational Metrics.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/Platform Engineering.md",
     "Product and Engineering/Product Development/Delivery/Measurement/Delivery Metrics.md",
     "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/DevOps Maturity.md",
     "Product and Engineering/Leadership/Images/Things to measure.png",
@@ -224,16 +225,7 @@
     "Product and Engineering/Product Development/Engineering/Software Engineering/Databases/Databases.md",
     "Commercial/Commercial.md",
     "Agile/Cross-functionality.md",
-    "Operations/Tools for Teams/Team Building/Onboarding High Five Me.md",
-    "Strategy/Key Performance Indicators.md",
-    "Product and Engineering/Product Development/Discovery/Indicators/Lagging Indicator.md",
-    "Operations/Operations.md",
-    "Operations/Metrics/Employer Net Promoter Score.md",
     "Operations/Metrics",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Databases/Normalization.md",
-    "Operations/Business Ownership/Private Companies.md",
-    "Operations/Business Ownership/Public Limited Company.md",
-    "Commercial/Legal/Intellectual Property.md",
     "Operations/Business Ownership",
     "Notes/De Beers",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Databases",
