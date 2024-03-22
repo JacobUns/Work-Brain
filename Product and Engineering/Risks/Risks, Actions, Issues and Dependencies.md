@@ -5,7 +5,7 @@ tags:
   - Model
 ---
 ## Risk
-A factors that could potentially impact a [[product]], engineering or delivery item adversely. These are possible problems that have not come to fruition. 
+A factors that could potentially impact a [[product]], engineering or [[delivery]] item adversely. These are possible problems that have not come to fruition. 
 
 Valuable items to track include:
 - Title
@@ -29,7 +29,7 @@ Valuable items to track include:
 
 
 ## Issue
-A factor that is impacting [[product]], engineering or delivery items adversely right now.
+A factor that is impacting [[product]], engineering or [[delivery]] items adversely right now.
 
 Valuable items to track include:
 - Description

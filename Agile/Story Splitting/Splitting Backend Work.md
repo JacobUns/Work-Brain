@@ -1,7 +1,7 @@
 # About
 Spend time understanding what the problem space is first. Do some discovery and understand what we're trying to achieve if the split of work isn't obvious.
 
-Although a lot of people look at Agility and splitting out [[Architecture|Architectural Design]] as an antipattern, when a team has very little expertise using these types of pattern it doesn't happen organically as part of delivery.
+Although a lot of people look at Agility and splitting out [[Architecture|Architectural Design]] as an antipattern, when a team has very little expertise using these types of pattern it doesn't happen organically as part of [[delivery]].
 
 Perfect vertical story splitting works when a mature team is picking up the work, or has individuals with enough experience using atypical design practices naturally. It starts to fall down when expecting teams that don't have experience using design practices like architectural diagramming, and those teams tend to start with code first, and eventually leads to tech debt.
 

@@ -16,7 +16,7 @@ Informed
 - This person is in charge of delegating work and approving the deliverable is complete
 - May also be Responsible for a task
 - Every task must have one accountable person attached to it
-- Doesn't always need to be the Delivery/Project Manager
+- Doesn't always need to be the [[Delivery Management|Delivery]]/[[Project Management|Project Manager]]
 
 ## Consulted
 - Will review a deliverable and provide feedback in context to their expectations or context

@@ -9,7 +9,7 @@ tags:
 # About
 This is the value associated with lost [[revenue]], lost opportunities, increase [[risk]], and customer respect among other critical factors of a business. Put simplistically, cost of delay is the expected profit divided by the duration to realise that profit.
 $$ Expected Profit / Development Duration $$
-This can then be used to identify the prioritisation of delivery based on the value associated with each item. 
+This can then be used to identify the prioritisation of [[delivery]] based on the value associated with each item. 
 
 |           | **Project Duration<br>(Weeks)** | **Expected Weekly Profit** | **CD3 Value**    |
 | --------- | ------------------------------- | -------------------------- | ---------------- |

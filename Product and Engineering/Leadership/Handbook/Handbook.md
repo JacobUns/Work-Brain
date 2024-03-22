@@ -13,7 +13,7 @@
 - Career Competencies
 - [[Product]] Processes
 - Engineering processes
-	- Delivery Process
+	- [[Delivery]] Process
 	- Frameworks used
 	- [[Discovery]] Process
 	- Metrics and how we measure them

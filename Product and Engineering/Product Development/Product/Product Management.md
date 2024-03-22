@@ -6,7 +6,7 @@ tags:
   - Leadership
   - MartyCagan
   - Product
-  - Domain
+  - Discipline
 ---
 # About
 The [[Product]] Manager is a role in a [[Product Team]] that identifies a customer problem and looks to solve it through [[Discovery]] methods.

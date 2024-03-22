@@ -17,7 +17,7 @@ The [[Agile]] values provide an insight into what the priority should be when de
 
 As an example, the fourth value is adapting to change over following a plan, but in [[Agile]] methodologies we typically plan more than any other way of working. Planning takes a different form, and instead of long meetings regularly to cover project plans and next priorities, we do smaller bursts with specific goals and intentions ranging from daily to bi-weekly or monthly.
 # Principles
-- The highest priority is to satisfy the customer through early and continuous delivery of valuable software
+- The highest priority is to satisfy the customer through early and continuous [[delivery]] of valuable software
 - Welcome changing requirements, even late in development. [[Agile]] processes harness change for the customer's competitive advantage
 - Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
 - Business people and developers must work together daily throughout the project

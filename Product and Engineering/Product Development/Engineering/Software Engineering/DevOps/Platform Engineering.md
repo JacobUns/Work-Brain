@@ -1,7 +1,7 @@
 ---
 tags:
   - "#Engineering"
-  - Domain
+  - Discipline
 aliases:
   - Platform Engineer
   - Platform Engineers

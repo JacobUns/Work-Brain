@@ -2,7 +2,7 @@
 tags:
   - Management
   - Leadership
-  - Domain
+  - Discipline
 ---
 # About
 One of the composite parts of the [[Operations]] domain, Line-management focuses on getting the best out of the people that individual is responsible for. 

@@ -1,7 +1,7 @@
 ---
 tags:
   - "#UX"
-  - Domain
+  - Discipline
 aliases:
   - UX
 ---

@@ -11,7 +11,14 @@
       "query": "tag:#Concept",
       "color": {
         "a": 1,
-        "rgb": 6084269
+        "rgb": 15890968
+      }
+    },
+    {
+      "query": "tag:#Domain",
+      "color": {
+        "a": 1,
+        "rgb": 14851864
       }
     },
     {
@@ -22,10 +29,10 @@
       }
     },
     {
-      "query": "tag:#Domain",
+      "query": "tag:#Discipline",
       "color": {
         "a": 1,
-        "rgb": 14851864
+        "rgb": 65505
       }
     },
     {
@@ -74,6 +81,6 @@
   "repelStrength": 9.01041666666667,
   "linkStrength": 0.731770833333333,
   "linkDistance": 200,
-  "scale": 0.28295629384683463,
+  "scale": 0.3966998847913725,
   "close": false
 }

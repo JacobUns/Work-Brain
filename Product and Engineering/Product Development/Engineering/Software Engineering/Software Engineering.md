@@ -4,7 +4,7 @@ tags:
   - Engineering
   - "#Front-end"
   - Backend
-  - Domain
+  - Discipline
 aliases:
   - Software Development
   - Software Engineer

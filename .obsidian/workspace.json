@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product and Engineering/Product Development/Product/Product.md",
+                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/Platform Engineering.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product and Engineering/Product Development/Product/Product.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product and Engineering/Product Development/Product/Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Product and Engineering/Product Development/Product/Product.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,11 +168,22 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "73e374bc9fae36cf",
+  "active": "8eacdfe041f6858b",
   "lastOpenFiles": [
+    "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/Platform Engineering.md",
+    "Product and Engineering/Product Development/Product/Story Mapping.md",
+    "Product and Engineering/Product Development/Engineering/Quality Assurance.md",
+    "Product and Engineering/Product Development/Delivery/Delivery Management.md",
+    "Product and Engineering/Leadership/Line Management.md",
+    "Product and Engineering/Product Development/UX/Product Designer.md",
+    "Product and Engineering/Product Development/UX/User Experience.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Software Engineering.md",
+    "Product and Engineering/Product Development/Product/Product Management.md",
+    "Product and Engineering/Product Development/Delivery/Delivery.md",
+    "Product and Engineering/Product Development/Delivery/Models/Roles & Responsibilities/RACI.md",
+    "Product and Engineering/Product Development/Product/Product.md",
     "Product and Engineering/Product Development/Product/Product Roadmap.md",
     "Product and Engineering/Product Development/Delivery/Models/Operational Planning.md",
-    "Product and Engineering/Product Development/Product/Product.md",
     "Product and Engineering/Product Development/Delivery/Measurement/Delivery Metrics.md",
     "Product and Engineering/Product Development/Dual Track/John Schrag - Dual Track Agile.md",
     "Commercial/Marketing/Marketing.md",
@@ -185,21 +192,10 @@
     "Commercial/Metrics/Customer Acquisition Cost.md",
     "Commercial/Metrics/Customer Loyalty and Retention.md",
     "Operations/Models/Diffusion of innovations.md",
-    "Product and Engineering/Product Development/UX/Product Designer.md",
     "Commercial/Legal/Intellectual Property.md",
     "Building Training/Building Quality Training.md",
     "Agile/Work Item Types.md",
     "Agile/Weber-Fechner Law.md",
-    "Agile/User Stories.md",
-    "Agile/Estimation.md",
-    "Agile/Cross-functionality.md",
-    "Agile/Agile.md",
-    "Product and Engineering/Product Development/Discovery/Hackathons.md",
-    "Product and Engineering/Product Development/Discovery/Design Sprint.md",
-    "Product and Engineering/Product Development/Discovery/Discovery.md",
-    "Strategy/Business Strategy.md",
-    "Strategy/Business Model.md",
-    "Acronyms.md",
     "Lean/Images/Build Measure Learn Loop.jpg",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Repositories/Source Control Flows",
     "Product and Engineering/Product Development/Delivery/Frameworks",

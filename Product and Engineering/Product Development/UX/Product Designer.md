@@ -3,6 +3,7 @@ tags:
   - Product
   - MartyCagan
   - UX
+  - Discipline
 ---
 # About
 A Product Designer is the role within a [[Product Team]] that helps outline potential solutions to the [[User Experience]] of a Product through [[Discovery]] & [[User Experience#User Research|User Research]].

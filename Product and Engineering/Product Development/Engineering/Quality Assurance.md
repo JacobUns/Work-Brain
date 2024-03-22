@@ -2,7 +2,7 @@
 tags:
   - Testing
   - AutomationTesting
-  - Domain
+  - Discipline
 aliases:
   - QA
   - QAs
