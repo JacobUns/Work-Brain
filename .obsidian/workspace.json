@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Architecture.md",
+                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Practices/Behaviour Driven Development.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Architecture.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Architecture.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,12 +168,30 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "3c30b58b732ca64e",
+  "active": "8eacdfe041f6858b",
   "lastOpenFiles": [
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Practices/Behaviour Driven Development.md",
+    "Product and Engineering/Product Development/Delivery/Waterfall.md",
+    "Product and Engineering/Product Development/Delivery/Systems Development Life Cycle.md",
+    "Product and Engineering/Product Development/Delivery/Frameworks",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Automation Testing/Automation Testing.md",
+    "Product and Engineering/Product Development/Engineering/Quality Assurance.md",
+    "Lean/Lean.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Performance Testing.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Software Languages/Javascript.md",
+    "Product and Engineering/Product Development/Engineering/Version Control.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Software Engineering.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Unit Testing.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Integration Testing.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Integration Testing/Bottom-up Testing.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Integration Testing/Top-down Testing.md",
+    "Product and Engineering/Product Development/Product/Roadmapping.md",
+    "Product and Engineering/Product Development/Product/Images/ICS AMOM Roadmap 2024Q1-2.png",
+    "Product and Engineering/Product Development/Product/Product Management.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Architecture.md",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Images",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Images/Stack Data Structure.png",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Images/Queue Data Structure.png",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Architecture.md",
     "Operations/Asset Management.md",
     "Operations/Images/Anglo American Time Model and KPIs.png",
     "KPIs and the Anglo Time Model - Page 1.png",
@@ -189,23 +203,8 @@
     "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Monoliths.md",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Repositories.md",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Domain Driven Design.md",
-    "Homepage.md",
-    "Tools.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Practices/Behaviour Driven Development.md",
-    "Operations/Finance/Finance.md",
-    "Product and Engineering/Product Development/Delivery/Delivery Management.md",
-    "README.md",
-    "Budget.md",
     "Operations/Finance",
     "Commercial/Untitled",
-    "Resources.md",
-    "Product and Engineering/Product Development/Product/Personas.md",
-    "Operations/Metrics/Operational Metrics.md",
-    "Agile/Frameworks/Common Practices/Daily Stand-up.md",
-    "Product and Engineering/Product Development/Engineering/Quality Assurance.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/DevOps.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/Platform Engineering.md",
-    "Operations/Project Management.md",
     "Product and Engineering/Leadership/Images/Things to measure.png",
     "Operations/Metrics",
     "Operations/Business Ownership",
@@ -214,12 +213,9 @@
     "Product and Engineering/Product Development/Engineering/Software Engineering/Practices",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Paradigms",
     "Operations/Images/High-performing Teams.png",
-    "Operations/Models",
-    "Commercial/Marketing",
     "Commercial/Metrics/Images/customer-acquisition-model-1024x536.webp",
     "Lean/Images/muda-mura-muri.webp",
     "Commercial/Metrics/Images/cost-of-delay-urgent.webp",
-    "Commercial/Metrics/Images/cost-of-delay-standard.webp",
     "Untitled.canvas"
   ]
 }

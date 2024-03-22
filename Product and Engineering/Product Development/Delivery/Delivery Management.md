@@ -9,7 +9,7 @@ tags:
   - Domain
 ---
 # About
-The delivery management role to me, at the time of writing this entry in 24Q1, is a hybrid role that covers multiple disciplines in a [[Cross-functionality|T-Shaped]] manner. The delivery roll facilitates a large amount of the traditional [[Project Management]] responsibilities, and has a level of involvement with [[Product Manager|Product Management]] and [[Software Engineering|Engineering]].
+The delivery management role to me, at the time of writing this entry in 24Q1, is a hybrid role that covers multiple disciplines in a [[Cross-functionality|T-Shaped]] manner. The delivery roll facilitates a large amount of the traditional [[Project Management]] responsibilities, and has a level of involvement with [[Product Management|Product Management]] and [[Software Engineering|Engineering]].
 # Key Responsibilities
 - Removal of impediments
 - Track & Measure Progress

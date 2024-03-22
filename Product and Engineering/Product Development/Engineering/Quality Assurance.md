@@ -6,6 +6,7 @@ tags:
 aliases:
   - QA
   - QAs
+  - Testing
 ---
 # About
 The discipline of Quality Assurance is that of testing what has been produced within a [[Product Team]]. It is the first line of defense against degradation of service and deterioration of customer confidence and engagement due to reduction in quality. The practice focuses on determining whether what has been produced is of the right level of quality, but not necessarily whether it achieves as much value as expected. This may be done through [[Release on Demand]] strategies, such as [[AB Testing]] or [[Usability Testing]].

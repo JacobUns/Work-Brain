@@ -1,6 +1,7 @@
 ---
 aliases:
   - PM
+  - Product Manager
 tags:
   - Leadership
   - MartyCagan

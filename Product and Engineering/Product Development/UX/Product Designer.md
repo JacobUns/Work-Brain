@@ -7,7 +7,7 @@ tags:
 # About
 A Product Designer is the role within a [[Product Team]] that helps outline potential solutions to the [[User Experience]] of a Product through [[Discovery]] & [[User Experience#User Research|User Research]].
 # Key Responsibilities
-- Work with the [[Product Manager]] on defining the problem space
+- Work with the [[Product Management]] on defining the problem space
 - Conduct [[Solution Discovery]] exercises with the [[Product Team]] to identify usable and desirable solutions to the problem space
 - Conduct standard [[User Experience]] testing methods with customers and users
 - Create [[Wireframes]] to provide visualisation when communicating with customers and users

@@ -26,8 +26,10 @@ One of the core components to successful systems and architecture is the infrast
 - [[Databases#NoSQL|NoSQL]]
 - [[Databases#Graph|Graph]]
 - [[Databases#Document|Document]]
-# Practices
+# Concepts
+## Practices 
 [[Version Control]]
+[[Clean Code]]
 ## Principles
 [[Normalization]]
 [[SOLID Principles|SOLID]]
