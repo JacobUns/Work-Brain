@@ -56,8 +56,8 @@ Through my work at De Beers, it has become obvious that [[Cross-functionality|T-
 - [[C#]]
 - [[Architecture|Architectural Design]]
 #### General Proficiencies
-- Product Management
-- Customer Support
+- [[Product Management]]
+- [[Customer Support]]
 - [[Architecture|Architectural Design]]
 ## De Beers
 ### Julian Salazar

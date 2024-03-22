@@ -1,6 +1,10 @@
 ---
 tags:
+  - Software
+  - Engineering
   - Practice
+aliases:
+  - Source Control
 ---
 # About
 # Software Version Control
@@ -10,7 +14,6 @@ tags:
 - BitBucket
 - GitHub
 - GitLab
-- 
-
 # Document Version Control
 ## Tools
+

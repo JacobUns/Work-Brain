@@ -39,14 +39,14 @@ Three Revelations
 	- Not Two Teams
 		- Two tracks, one team
 		- Can't just put design work in the backlog and treat it like development work
-			- [[Agile Principles#^282bb7|Working Software is the only measure of success]]
+			- [[Agile#^WorkingSoftwarePrinciple|Working Software is the only measure of success]]
 		- Tried doing complete designs and redesign at the end of each sprint for coming change
 		- Insights must be shared together
 		- Devs have to be involved in the design
 		- While Developers work on the designs, [[Product Designer|designers]] need to be involved to help adjust designs due to feasibility
 - There's always friction between parts of the company that are [[Agile]], and parts that aren't [[Agile]]
 - Culture eats process for Breakfast
-	- Trying to put a process where the [[culture]] doesn't match, the [[culture]] will always win
+	- Trying to put a process where the [[Culture]] doesn't match, the [[Culture]] will always win
 	- Practice grows in fertile soil
 	- Find a place where people want to change
 	- Find Champions, then clone
@@ -99,4 +99,4 @@ Comes from many names
 -   [[Dual Track Agility|Dual Track]]
 
 # Resources
-#TheLeanStartup Described as [[Agile]] for Product Managers
+#TheLeanStartup Described as [[Agile]] for [[Product Management|Product Managers]]

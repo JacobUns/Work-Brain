@@ -4,6 +4,7 @@ tags:
   - Commercial
   - Prioritisation
   - Metrics
+  - Resources
 ---
 # About
 This is the value associated with lost [[revenue]], lost opportunities, increase [[risk]], and customer respect among other critical factors of a business. Put simplistically, cost of delay is the expected profit divided by the duration to realise that profit.

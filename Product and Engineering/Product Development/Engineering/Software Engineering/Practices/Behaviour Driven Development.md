@@ -13,13 +13,13 @@ This is a language commonly associated with BDD. It uses terms and structure to 
 ### Keywords
 Somewhat similar to the [[Unit Testing#3As|3As of Unit Testing]], Gherkin looks to arrange the context of the language into some distinct sections to make clear what is required, what is being tested, and what the output should be for each test.
 #### Given
-Similar to the [[Unit Testing#Arrange|Arrange]] step of the [[Unit Testing#3As|3As]], the Given keyword in Gherkin illustrates to the reader the [[Assumptions]] that are being made by the test. For a [[Quality Assurance|QA]], this gives them some prerequisites that must be completed by using the system. For a user, this helps frame the steps that have already been taken
+Similar to the [[Unit Testing#Arrange|Arrange]] step of the [[Unit Testing#3As|3As]], the Given keyword in Gherkin illustrates to the reader the [[Learning Test Cycles#Assumptions|Assumption]] that are being made by the test. For a [[Quality Assurance|QA]], this gives them some prerequisites that must be completed by using the system. For a user, this helps frame the steps that have already been taken
 
 ```Gherkin
 Given a customer with an account has logged into the web store
 ```
 
-In the above example, there are some [[Assumptions]] that have been made as well as the identification of a [[Personas|Persona]] that is being applied to the problem. This example assumes that the user is a customer [[Personas|Persona]], that they know their username and password, that they have entered the information correctly, and then they have clicked login. All of this is summerised in a single statement.
+In the above example, there are some [[Learning Test Cycles#Assumptions|Assumptions]] that have been made as well as the identification of a [[Personas|Persona]] that is being applied to the problem. This example assumes that the user is a customer [[Personas|Persona]], that they know their username and password, that they have entered the information correctly, and then they have clicked login. All of this is summerised in a single statement.
 #### When
 Similar to the [[Unit Testing#Act|Act]] step of the [[Unit Testing#3As|3As]], the When keyword indicates to the reader the action that is being performed and tested. It clearly identifies the actions that need to be taken by the user to create the desired outcome.
 
@@ -28,7 +28,7 @@ Given a customer with an account has logged into the web store
 When the user adds an item they wish to buy to their basket
 ```
 
-Again, there are some [[Assumptions]] we can make about the steps in the When. To find the the item that the user wishes to buy, they must have either searched for a product or accessed a saved item.
+Again, there are some [[Learning Test Cycles#Assumptions|Assumptions]] we can make about the steps in the When. To find the the item that the user wishes to buy, they must have either searched for a [[product]] or accessed a saved item.
 #### Then
 Finally, similarly to the [[Unit Testing#Assert|Assert]] step of the [[Unit Testing#3As|3As]], comes the validation of the output. This step clearly details any specifics that need to be validated based on the flow.
 

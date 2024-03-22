@@ -12,7 +12,7 @@ Resource spend
 Travel spend
 # Expenditure
 ## Capital Expenditure
-- Any development or materials towards a product
+- Any development or materials towards a [[product]]
 ## Operational Expenditure
-- Any R&D not contributing to a final product
+- Any R&D not contributing to a final [[product]]
 - Overheads of business operation

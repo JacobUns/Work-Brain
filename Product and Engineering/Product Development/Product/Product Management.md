@@ -13,7 +13,7 @@ The [[Product]] Manager is a role in a [[Product Team]] that identifies a custom
 # Key Responsibilities
 - Develop the [[Product Vision Statement]]
 - Identify and track [[Product Metrics]]
-- Generate the [[Roadmapping|Product Roadmap]]
+- Generate the [[Product Roadmap|Product Roadmap]]
 - Lead the [[Product Team]] in [[Story Mapping]]
 - Report [[Product Metrics|Product Performance]]
 - Identifying and generating [[Requirements#Functional|Functional Requirements]]

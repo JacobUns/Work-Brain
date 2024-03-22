@@ -3,7 +3,7 @@ tags:
   - Metrics
 ---
 # Description
-Delivery metrics are indicators that provide insight into the health of a [[Product Team]] in both their ability to meet commitments on time and without putting the team into a state of stress. They should help understand whether the team is maturing or whether they are encountering problems that impact the product adversely.
+Delivery metrics are indicators that provide insight into the health of a [[Product Team]] in both their ability to meet commitments on time and without putting the team into a state of stress. They should help understand whether the team is maturing or whether they are encountering problems that impact the [[product]] adversely.
 # Types
 ## Velocity
 The total sum of story points or completed items on average that a team can achieve within their sprint. Velocity is often used to gauge commitment for a sprint within [[Scrum]].

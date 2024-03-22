@@ -15,8 +15,8 @@ Generate the high level steps of what needs to be undertaken. The aim is to almo
 Each step will have a level of detail that is needed to fully execute it. These are the story-level items. These can be aspirational things that you'd like to do if possible down to the critical aspects that are non-negotiable.
 #### Step 4 - Rollup the themes
 There are likely to be themes in the story that denote sections of activity. These can be rolled up to illustrate the epics that we looking to be achieved, and therefore detailed as such.
-#### Step 5 - Cut the releases
-Once we have the story identified with all its different parts, we can start slicing down the backlog of work into releases. These can be themed, and should ultimately start with the most critical areas to deliver value to a customer as soon as possible.
+#### Step 5 - Cut the [[Release Planning|releases]]
+Once we have the story identified with all its different parts, we can start slicing down the backlog of work into [[Release Planning|Releases]]. These can be themed, and should ultimately start with the most critical areas to deliver value to a customer as soon as possible.
 ## Resources
 [Jeff Patton Story Mapping Workshop guide](https://jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf)
 ## Examples

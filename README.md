@@ -1,3 +1,7 @@
+---
+tags:
+  - BrainInfrastructure
+---
 # Work-Brain
 This repository of knowledge covers a wide variety of topics, from Operations & HR to Engineering & Product development. It has been design for and written with Obsidian.md, and any contribution to this repository should continue to use this technology.
 

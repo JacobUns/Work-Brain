@@ -1,6 +1,7 @@
 ---
 aliases:
   - Delivery Managers
+  - Delivery Manager
 tags:
   - Delivery
   - MartyCagan

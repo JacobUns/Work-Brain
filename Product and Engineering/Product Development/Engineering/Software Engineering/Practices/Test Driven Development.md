@@ -11,7 +11,7 @@ Test Driven Development (TDD) is a method of writing code where the focus is on 
 
 The method requires writing the tests associated to code before writing the code itself to prove that the code behaves as expected. Each change should be small, and you should remain in control of your test the entire time. If you are not able to predict preciously what change is going to happen, this indicates you are making too large a change. The key to successful TDD is small increments and fast feedback.
 
-You should not be writing all test first, and then trying to make them all pass. The point of TDD is to take small steps, create a test for a hypothesis, then write just enough code to prove that hypothesis. Finally, it's just as much about creating documentation for how your system should work as it is about testing your code works as expected. Your tests will show someone new to the code how it should work, and provide them the confidence they need to make changes to that code.
+You should not be writing all test first, and then trying to make them all pass. The point of TDD is to take small steps, create a test for a [[Learning Test Cycles#Hypotheses|Hypotheses]], then write just enough code to prove that [[Learning Test Cycles#Hypotheses|Hypothesis]]. Finally, it's just as much about creating documentation for how your system should work as it is about testing your code works as expected. Your tests will show someone new to the code how it should work, and provide them the confidence they need to make changes to that code.
 
 ## Framework for TDD
 ![[TDD TRbGbR Framework.png]]
@@ -64,7 +64,7 @@ Next step is to write the test. The goal of this step is to remain in control of
 	- Respect [[Encapsulation]]
 	- The test should use names that don't exist yet to intentionally force designing from the perspective of someone consuming the interface
 - Write the assertions on the test by predicting how the test will fail, not just that it does fail
-	- This represents the hypothesis being tested
+	- This represents the [[Learning Test Cycles#Hypotheses|Hypothesis]] being tested
 - Run the test
 	- You should always be able to predict what's going to happen
 		- If the test doesn't fail, or fails in a different way you are no longer in control
@@ -119,7 +119,7 @@ Code often involves loops and alternative ways of being used.
 After happy-path cases, write a test for each potential edge case that may come from your code.
 - Imagine everything that can go wrong
 - Does your code call any code that may throw an exception?
-- Do you make any assumptions that need validating?
+- Do you make any [[Learning Test Cycles#Assumptions|Assumptions]] that need validating?
 ### Runtime assertions
 You might identify situations that come from programming errors, such as array index out of bounds, or variables that should never be null. Add assertions for these so they fail fast.
 

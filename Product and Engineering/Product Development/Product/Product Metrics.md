@@ -17,7 +17,7 @@ Similarly to [[Commercial]] disciplines, the [[Product]] domain also uses [[Lead
 # Examples
 Time to First Value
 Time to Immediate Value
-Number of Experiments completed
+Number of [[Learning Test Cycles#Experiments|Experiments]] completed
 Customer Drop-off
 
 # De Beers

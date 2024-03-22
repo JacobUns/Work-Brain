@@ -4,6 +4,8 @@ tags:
   - JohnSchragDualTrackAgile
   - Agile
   - AgileFramework
+aliases:
+  - Dual Track Agile
 ---
 ![[Dual track process.png]]
 

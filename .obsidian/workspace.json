@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/Practices/Behaviour Driven Development.md",
+                "file": "Product and Engineering/Product Development/Product/Product.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Metrics  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Product and Engineering/Product Development/Product/Product.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Product and Engineering/Product Development/Product/Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Product and Engineering/Product Development/Product/Product.md"
+              }
             }
           }
         ]
@@ -168,54 +172,54 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "8eacdfe041f6858b",
+  "active": "73e374bc9fae36cf",
   "lastOpenFiles": [
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Practices/Behaviour Driven Development.md",
-    "Product and Engineering/Product Development/Delivery/Waterfall.md",
-    "Product and Engineering/Product Development/Delivery/Systems Development Life Cycle.md",
+    "Product and Engineering/Product Development/Product/Product Roadmap.md",
+    "Product and Engineering/Product Development/Delivery/Models/Operational Planning.md",
+    "Product and Engineering/Product Development/Product/Product.md",
+    "Product and Engineering/Product Development/Delivery/Measurement/Delivery Metrics.md",
+    "Product and Engineering/Product Development/Dual Track/John Schrag - Dual Track Agile.md",
+    "Commercial/Marketing/Marketing.md",
+    "Commercial/Marketing/Search Engine Optimisation.md",
+    "Commercial/Metrics/Cost of Delay.md",
+    "Commercial/Metrics/Customer Acquisition Cost.md",
+    "Commercial/Metrics/Customer Loyalty and Retention.md",
+    "Operations/Models/Diffusion of innovations.md",
+    "Product and Engineering/Product Development/UX/Product Designer.md",
+    "Commercial/Legal/Intellectual Property.md",
+    "Building Training/Building Quality Training.md",
+    "Agile/Work Item Types.md",
+    "Agile/Weber-Fechner Law.md",
+    "Agile/User Stories.md",
+    "Agile/Estimation.md",
+    "Agile/Cross-functionality.md",
+    "Agile/Agile.md",
+    "Product and Engineering/Product Development/Discovery/Hackathons.md",
+    "Product and Engineering/Product Development/Discovery/Design Sprint.md",
+    "Product and Engineering/Product Development/Discovery/Discovery.md",
+    "Strategy/Business Strategy.md",
+    "Strategy/Business Model.md",
+    "Acronyms.md",
+    "Lean/Images/Build Measure Learn Loop.jpg",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Repositories/Source Control Flows",
     "Product and Engineering/Product Development/Delivery/Frameworks",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Automation Testing/Automation Testing.md",
-    "Product and Engineering/Product Development/Engineering/Quality Assurance.md",
-    "Lean/Lean.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Performance Testing.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Software Languages/Javascript.md",
-    "Product and Engineering/Product Development/Engineering/Version Control.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Software Engineering.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Unit Testing.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Integration Testing.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Integration Testing/Bottom-up Testing.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Integration Testing/Top-down Testing.md",
-    "Product and Engineering/Product Development/Product/Roadmapping.md",
     "Product and Engineering/Product Development/Product/Images/ICS AMOM Roadmap 2024Q1-2.png",
-    "Product and Engineering/Product Development/Product/Product Management.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Architecture.md",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Images",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Images/Stack Data Structure.png",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Images/Queue Data Structure.png",
-    "Operations/Asset Management.md",
     "Operations/Images/Anglo American Time Model and KPIs.png",
     "KPIs and the Anglo Time Model - Page 1.png",
-    "Acronyms.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Event Driven Architecture.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Micro-service Architecture.md",
-    "Agile/User Stories.md",
-    "Product and Engineering/Leadership/Handbook/Handbook.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Monoliths.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Repositories.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Domain Driven Design.md",
     "Operations/Finance",
     "Commercial/Untitled",
     "Product and Engineering/Leadership/Images/Things to measure.png",
     "Operations/Metrics",
     "Operations/Business Ownership",
     "Notes/De Beers",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Databases",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Repositories/Databases",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Practices",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Paradigms",
     "Operations/Images/High-performing Teams.png",
     "Commercial/Metrics/Images/customer-acquisition-model-1024x536.webp",
     "Lean/Images/muda-mura-muri.webp",
-    "Commercial/Metrics/Images/cost-of-delay-urgent.webp",
     "Untitled.canvas"
   ]
 }

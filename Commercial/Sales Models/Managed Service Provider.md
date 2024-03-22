@@ -9,7 +9,7 @@ There are many types of Managed Service Providers; these include but are not lim
 
 Over recent years these models have become more popular, as the burden of responsibility for managing your own infrastructure and vendor products is diminished. Historically, larger companies would buy their technologies from a [[distributor]] or [[agency]] at a discounted rate, and would then host those products on their own infrastructure, commonly in a data-centre where they own the racks that host the software.
 
-Companies are more regularly seeing that the overhead of support and maintenance on these third-party technologies results in less time to deliver against their own product or service. By letting a third-party own the responsibility of keeping their system up-to-date, avoid security problems, introduce new features, all of which allow a company can then reap the benefits without the technical debt overhead.
+Companies are more regularly seeing that the overhead of support and maintenance on these third-party technologies results in less time to deliver against their own [[product]] or service. By letting a third-party own the responsibility of keeping their system up-to-date, avoid security problems, introduce new features, all of which allow a company can then reap the benefits without the technical debt overhead.
 
 On top of the technical debt benefit, few customers of a service are likely to be as proficient with a technology as the people that created it. Support and assistance when required therefore become significantly increased, as less learning is required to understand an issue.
 

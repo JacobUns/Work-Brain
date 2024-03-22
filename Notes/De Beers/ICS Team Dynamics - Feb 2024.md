@@ -10,7 +10,7 @@
 - Disengaged team members during meetings
 - Non-functional constraints aren't clear to the team
 - No written version of the functional requirements in Theme/Epic/Feature form
-- Not release planning in detail based on written functional & non-functional requirements
+- Not [[Release Planning]] in detail based on written functional & non-functional requirements
 - Time constraints being placed on team due to Laura's requesting dates ASAP
 	- Example - Laura wanting clear deliveries and timeline for 2024, which Michele then used in communication to the team saying [[architecture]] needed to be decided by the end of the week potentially influencing (unintentionally) bias within the design.
 - Communication barriers between Three Amigos causing friction
@@ -27,7 +27,7 @@
 	- Sequence Diagrams, Process Flows, Architectural diagrams etc.
 - Test within the same sprint as development
 - Break work into smaller testable packages
-- Release Plan the work based on the value delivered
+- [[Release Planning|Release Plan]] the work based on the value delivered
 - Use velocity and relative estimation to identify delivery timeline rather than time based estimation
 - Identify user journeys for front-end work before scoping size
 - Identify potential solutions to the problem before settling on one solution
