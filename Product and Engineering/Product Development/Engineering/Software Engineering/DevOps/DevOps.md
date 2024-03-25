@@ -11,6 +11,8 @@ As a result, companies have been able to start selling their code as a [[product
 ## Containerisation
 ## Disaster Recovery
 ## Auto-scaling
+## Continuous Integration
+## Continuous Deployment
 
 # Metrics
 [[DevOps Maturity]]

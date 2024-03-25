@@ -19,5 +19,5 @@ Model - The visualisation or verbalisation of a [[Glossary#^Concept|Concept]]. ^
 Practice - The implementation of a [[Glossary#^Concept|Concept]], often in conjunction with a [[Glossary#^Model|Model]].
 
 Responsibility - Taking ownership of a task or assignment within the scope of their role and criteria for success. ^Responsibility
-# DevOps
+# [[DevOps]]
 See [[DevOps Glossary|DevOps Glossary]]

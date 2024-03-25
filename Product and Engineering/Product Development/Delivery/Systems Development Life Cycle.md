@@ -20,7 +20,7 @@ Systems Development Life Cycles, or SDLCs, are frameworks for operation within T
 
 These activities are all present in each of the SDLCs described below, but they happen at different times, in different ways and with different focuses dependent on the methodology, framework or ideology associated to the concept. For instance, [[Waterfall]] does all of these in a sequential order completing each one before moving onto the next, whereas [[Agile]] methodologies focus on Iterative methods with an emphasis on the [[Agile#Values|Agile Values]] and [[Agile#Principles|Principles]] associated. 
 ## Plan
-This section covers all the activities associated to planning the [[Delivery Management|Delivery]] of something. The plans can be at a range of fidelities, from days to years, and represented in a variety of ways, such as in a [[PRINCE2#GANTT Chart|GANTT Chart]] or a [[Delivery Management#Release Plan|Release Plan]].  
+This section covers all the activities associated to planning the [[Delivery Management|Delivery]] of something. The plans can be at a range of fidelities, from days to years, and represented in a variety of ways, such as in a [[Gantt Chart]] or a [[Delivery Management#Release Plan|Release Plan]].  
 ## Analyse
 ## Design
 ## Develop

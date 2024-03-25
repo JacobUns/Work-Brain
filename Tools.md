@@ -11,7 +11,7 @@ tags:
 	- Expensive
 - [DataDog](https://www.datadoghq.com/) - [[DevOps#Monitoring|Monitoring]] and Visibility
 - [BrowserStack](https://www.browserstack.com/) - Mobile and Browser [[Quality Assurance|Testing]]
-- [CircleCI](https://circleci.com/) - CI Pipeline Technology
+- [CircleCI](https://circleci.com/) - CI Pipeline Technology ^CircleCI
 - [Lokalise](https://lokalise.com/) - Translations
 - [Oso](https://www.osohq.com/) - Authorisation
 	- Great Documentation

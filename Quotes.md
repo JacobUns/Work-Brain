@@ -1,11 +1,15 @@
-## Diversity and Inclusion
+---
+tags:
+  - Backbone
+---
+# Diversity and Inclusion
 - "Diversity is about having the right people in the room, inclusion is about having the skills to involve them in solving a problem" - John Schrag 
 	- Presentation on the origins of [[Dual Track Agility]]
 
-## Engineering
+# Engineering
 - "Solve your problems at a whiteboard, not a keyboard" - JR 2022
 
-## Operations
+# Operations
 - "Shared documents aren't shared understanding" - Jeff Patton 
 	- Flowcon 2015 panel "Why documents fail and what you can do about it"
 - "Criticise in Private, Praise in Public" - Old Adage ^2bb652

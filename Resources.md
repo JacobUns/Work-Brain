@@ -27,7 +27,7 @@ Start with Why - Simon Sinek #Leadership #SimonSinek
 
 7 Habits of Highly Effective People - Stephen Covey
 
-DevOps Handbook - Gene Kim, Patrick Debois, Jez Humble, John Willis #Engineering
+[[DevOps]] Handbook - Gene Kim, Patrick Debois, Jez Humble, John Willis #Engineering
 
 The Lean Startup - Eric Ries #TheLeanStartup #EricRies
 

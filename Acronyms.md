@@ -16,13 +16,15 @@ DFMEA - [[Design Failure Mode Effect Analysis]]
 
 PFMEA - [[Process Failure Mode Effect Analysis]]
 
-PLC - Programmable Logic Controller
+PLC - Programmable Logic Controller ^ProgLogicCont
+
+C&I - Control and Instrumentation ^CAndI
 ## Software
 AAD - Azure Active Directory
 
 AWS - Amazon Web Services ^AWS
 
-CD - Continuous Deployment
+[[Continuous Deployment|CD]] - [[Continuous Deployment]]
 
 CI - Continuous Integration
 

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/Platform Engineering.md",
+                "file": "Product and Engineering/Product Development/Delivery/Reporting/Delivery Reporting.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Metrics  ",
+                "query": "Prince2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 263.5
   },
   "right": {
     "id": "9348ad63bb8f78f0",
@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,32 +170,34 @@
   },
   "active": "8eacdfe041f6858b",
   "lastOpenFiles": [
-    "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/Platform Engineering.md",
-    "Product and Engineering/Product Development/Product/Story Mapping.md",
-    "Product and Engineering/Product Development/Engineering/Quality Assurance.md",
-    "Product and Engineering/Product Development/Delivery/Delivery Management.md",
-    "Product and Engineering/Leadership/Line Management.md",
-    "Product and Engineering/Product Development/UX/Product Designer.md",
+    "Product and Engineering/Product Development/Delivery/Reporting/Delivery Reporting.md",
+    "Agile/Frameworks/Scrum/Scrum.md",
+    "Product and Engineering/Product Development/Delivery/Delivery.md",
+    "Agile/User Stories.md",
+    "Quotes.md",
+    "Product and Engineering/Product Development/Discovery/Design Sprint.md",
+    "Product and Engineering/Product Development/UX/Testing Methods/AB Testing.md",
     "Product and Engineering/Product Development/UX/User Experience.md",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Software Engineering.md",
-    "Product and Engineering/Product Development/Product/Product Management.md",
-    "Product and Engineering/Product Development/Delivery/Delivery.md",
-    "Product and Engineering/Product Development/Delivery/Models/Roles & Responsibilities/RACI.md",
-    "Product and Engineering/Product Development/Product/Product.md",
-    "Product and Engineering/Product Development/Product/Product Roadmap.md",
-    "Product and Engineering/Product Development/Delivery/Models/Operational Planning.md",
-    "Product and Engineering/Product Development/Delivery/Measurement/Delivery Metrics.md",
-    "Product and Engineering/Product Development/Dual Track/John Schrag - Dual Track Agile.md",
-    "Commercial/Marketing/Marketing.md",
-    "Commercial/Marketing/Search Engine Optimisation.md",
-    "Commercial/Metrics/Cost of Delay.md",
-    "Commercial/Metrics/Customer Acquisition Cost.md",
-    "Commercial/Metrics/Customer Loyalty and Retention.md",
-    "Operations/Models/Diffusion of innovations.md",
-    "Commercial/Legal/Intellectual Property.md",
-    "Building Training/Building Quality Training.md",
-    "Agile/Work Item Types.md",
-    "Agile/Weber-Fechner Law.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/SOLID Principles/SOLID Principles.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Practices/Test Driven Development.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Automation Testing/Automation Testing.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Automation Testing/Sociable Test.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Integration Testing/Big Bang Testing.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Integration Testing/Contract Testing.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Integration Testing/Bottom-up Testing.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Integration Testing/Top-down Testing.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Integration Testing.md",
+    "Product and Engineering/Product Development/Engineering/Electrical Engineering/Electrical Engineering.md",
+    "Acronyms.md",
+    "Operations/Types of Team/Product Team.md",
+    "Product and Engineering/Product Development/Engineering/Electrical Engineering",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/DevOps Maturity.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/DevOps.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/Continuous Deployment.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/Continuous Integration.md",
+    "Tools.md",
+    "Product and Engineering/Product Development/Delivery/Reporting",
     "Lean/Images/Build Measure Learn Loop.jpg",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Repositories/Source Control Flows",
     "Product and Engineering/Product Development/Delivery/Frameworks",
@@ -211,8 +213,6 @@
     "Operations/Metrics",
     "Operations/Business Ownership",
     "Notes/De Beers",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Repositories/Databases",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Practices",
     "Operations/Images/High-performing Teams.png",
     "Commercial/Metrics/Images/customer-acquisition-model-1024x536.webp",
     "Lean/Images/muda-mura-muri.webp",
