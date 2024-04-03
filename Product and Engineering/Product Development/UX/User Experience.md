@@ -5,7 +5,6 @@ tags:
 aliases:
   - UX
 ---
-
 # About
 User Experience, or UX, is the discipline of researching and developing customer interactions with a product that enable intuitive and desired usage of a system. This is done through a number of mechanisms, including laws of human psychology, tried and tested methods used by market leaders, and user research among other methods.
 

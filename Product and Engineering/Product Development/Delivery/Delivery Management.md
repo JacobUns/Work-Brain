@@ -23,7 +23,7 @@ The delivery management role to me, at the time of writing this entry in 24Q1, i
 - [[Delivery Reporting|Report Progress]]
 - Plan delivery of value - [[Operational Planning|Operationally]] & Detailed
 - Heatshield for [[Product Team]]
-- Understanding [[Go-To-Market]] Paths
+- Understanding [[Go-to-Market]] Paths
 - Foster Collaboration and Team Trust
 - Foster an Environment of [[Psychological Safety]]
 - Team Health

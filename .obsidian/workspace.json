@@ -6,7 +6,7 @@
       {
         "id": "b2e870747a862729",
         "type": "tabs",
-        "dimension": 42.88461538461538,
+        "dimension": 51.55945419103314,
         "children": [
           {
             "id": "73e374bc9fae36cf",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Product and Engineering/Product Development/UX/Product Designer.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "b588c386d33c2d70",
         "type": "tabs",
-        "dimension": 57.11538461538461,
+        "dimension": 48.44054580896686,
         "children": [
           {
             "id": "8eacdfe041f6858b",
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Product and Engineering/Product Development/UX/Product Designer.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
+                "file": "Product and Engineering/Product Development/UX/Product Designer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md"
+                "file": "Product and Engineering/Product Development/UX/Product Designer.md"
               }
             }
           }
@@ -175,33 +175,37 @@
   },
   "active": "73e374bc9fae36cf",
   "lastOpenFiles": [
-    "Acronyms.md",
-    "Product and Engineering/Product Development/Delivery/Delivery.md",
-    "Product and Engineering/Product Development/Product/Product Management.md",
-    "Operations/Project Management.md",
-    "Product and Engineering/Product Development/Delivery/Reporting/Delivery Reporting.md",
-    "Agile/Frameworks/Scrum/Scrum.md",
-    "Agile/User Stories.md",
-    "Quotes.md",
-    "Product and Engineering/Product Development/Discovery/Design Sprint.md",
-    "Product and Engineering/Product Development/UX/Testing Methods/AB Testing.md",
     "Product and Engineering/Product Development/UX/User Experience.md",
+    "Product and Engineering/Product Development/UX/Testing Methods/Usability Testing.md",
+    "Product and Engineering/Product Development/UX/Testing Methods/Fake Door Test.md",
+    "Product and Engineering/Product Development/UX/Testing Methods/AB Testing.md",
+    "Product and Engineering/Product Development/UX/Laws/Law of Proximity.md",
+    "Product and Engineering/Product Development/UX/Laws/Gestalt's Laws of Grouping.md",
+    "Product and Engineering/Product Development/UX/Laws/Fitt's Law.md",
+    "Product and Engineering/Product Development/Product/Story Mapping.md",
+    "Product and Engineering/Product Development/Product/Requirements.md",
+    "Product and Engineering/Product Development/Product/Product Vision Statement.md",
+    "Product and Engineering/Product Development/Product/Product Roadmap.md",
+    "Product and Engineering/Product Development/Product/Product Metrics.md",
+    "Product and Engineering/Product Development/Product/Product Management.md",
+    "Product and Engineering/Product Development/Product/Product.md",
+    "Product and Engineering/Product Development/Product/Personas.md",
+    "Product and Engineering/Product Development/Product/Models/Software as a Service.md",
+    "Product and Engineering/Product Development/Product/Models/Platform as a Service.md",
+    "Product and Engineering/Product Development/Product/Models/Managed Network Infrastructure.md",
+    "Product and Engineering/Product Development/Product/Models/Infrastructure as a Service.md",
+    "Product and Engineering/Product Development/Product/Models/Cloud Computing.md",
+    "Product and Engineering/Product Development/Engineering/Quality Assurance.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Software Engineering Metrics.md",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Software Engineering.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/SOLID Principles/SOLID Principles.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Practices/Test Driven Development.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Automation Testing/Automation Testing.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Automation Testing/Sociable Test.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Integration Testing/Big Bang Testing.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Integration Testing/Contract Testing.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Integration Testing/Bottom-up Testing.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Integration Testing/Top-down Testing.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Integration Testing.md",
-    "Product and Engineering/Product Development/Engineering/Electrical Engineering/Electrical Engineering.md",
-    "Operations/Types of Team/Product Team.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Regression Testing.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Unit Testing.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Testing/Types of Testing/Performance Testing.md",
+    "Scenario Decision Matrix.png",
+    "Product and Engineering/Product Development/Delivery/Images/Scenarios for developing Asset Management Operating.png",
+    "Asset Management Operating Model Scenarios.png",
+    "Product and Engineering/Product Development/Delivery/Measurement/Images/ICS Dashboard Example.png",
     "Product and Engineering/Product Development/Engineering/Electrical Engineering",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/DevOps Maturity.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/DevOps.md",
-    "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/Continuous Deployment.md",
     "Product and Engineering/Product Development/Delivery/Reporting",
     "Lean/Images/Build Measure Learn Loop.jpg",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Repositories/Source Control Flows",
@@ -214,13 +218,9 @@
     "KPIs and the Anglo Time Model - Page 1.png",
     "Operations/Finance",
     "Commercial/Untitled",
-    "Product and Engineering/Leadership/Images/Things to measure.png",
     "Operations/Metrics",
     "Operations/Business Ownership",
     "Notes/De Beers",
-    "Operations/Images/High-performing Teams.png",
-    "Commercial/Metrics/Images/customer-acquisition-model-1024x536.webp",
-    "Lean/Images/muda-mura-muri.webp",
     "Untitled.canvas"
   ]
 }

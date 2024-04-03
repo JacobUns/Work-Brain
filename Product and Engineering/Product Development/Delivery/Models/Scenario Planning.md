@@ -1,3 +1,3 @@
-![[Scenarios for developing Asset Management Operating.png]]
+![[Asset Management Operating Model Scenarios.png]]
 
-![[Key factors matrix.png]]
+![[Scenario Decision Matrix.png]]

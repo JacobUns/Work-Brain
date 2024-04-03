@@ -21,17 +21,17 @@ Number of [[Learning Test Cycles#Experiments|Experiments]] completed
 Customer Drop-off
 
 # De Beers
-## ACAS
+## Product Group 1
 ### Product North Star
-Production Cost to take a stone from reactor to polished: Dollar per Carat ($/ct)
+Polished Product Production Cost E2E: Dollar per Carat ($/ct)
 ### Key Influencers
-Average total polished yields of 2ct: Average Yield (ct)
+Average total polished yields of Xct: Average Yield (ct)
 15-20% Overall Reduction in Manufacturing Pipeline time: Manuf. Pipeline Time (days)
 Reduction in shipping costs in supply chain: Supply Chain Cost ($)
 ### Levers
 Consistency hitting SKUs across STD, FIN, NOR based on demand profile: Failure Rate (%)
-Obtain Parity with \$/pol.ct to current Lightbox supplier: Cost (\$/pol.ct)
-## ICS
+Obtain Parity with \$/pol.ct to current supplier: Cost (\$/pol.ct)
+## Product Group 2
 ### Product North Star
 Undefined
 ### Key Influences
@@ -39,8 +39,8 @@ Undefined
 ### Levers
 #### [[Lagging Indicator|Lagging Indicators]]
 85% uptime of the IoT Agent, excluding external conditions and factors
-100% of pilot site Autoflow Machines are operating with the IoT Agent
-98% of messages sent by the Autoflow machines are received by the IoT Agent
+100% of pilot site Machines are operating with the IoT Agent
+98% of messages sent by the machines are received by the IoT Agent
 0% machine downtime due to the IoT Agent
 90% of data generated during offline operation is recovered and sent for analysis
 # Sources

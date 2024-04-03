@@ -31,6 +31,3 @@ Once we have the story identified with all its different parts, we can start sli
 ![[Story Mapping Workshop Example.png]]
 
 ![[Story Mapping Workshop Example Cut Releases.png]]
-### ICS IoT Agent Scalability and Robustness
-![[ICS IoT Agent Scalability and Robustness Story Map.png]]
-![[ICS IoT Agent Scalability and Robustness Story Map Original.png]]

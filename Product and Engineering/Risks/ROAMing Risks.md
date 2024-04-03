@@ -21,4 +21,3 @@ When a risk has a plan in place to resolve it, it is considered mitigated. The p
 # Resources
 [ROAM Board Source](https://www.agileambition.com/roam-risk-management/)
 [Managing Risk with ROAM](https://blog.planview.com/managing-risks-with-roam-in-agile/)
-# Tags
