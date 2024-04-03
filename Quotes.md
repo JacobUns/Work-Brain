@@ -16,3 +16,5 @@ tags:
 	- Publilius Syrus 35 BC ("Admonish your friends privately, but praise them openly")
 	- [Potentially bad advise](https://hbr.org/2013/03/how-criticizing-in-private-und), but should be used in the right places.
 	- Source [HR Magazine](https://www.sharonebardavid.com/wp-content/uploads/2011/12/HR-Reporter-Published-Correct-Publicly-Apr-091.pdf) as an example of the saying
+# Philosophy
+- "Of two competing theories, the simpler explanation of an entity is to be preferred" - [[Occam's Razor]]

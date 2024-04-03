@@ -9,5 +9,5 @@ aliases:
 ---
 # About
 # Example
-![[ICS AMOM Roadmap 2024Q1-2.png]]
+![[AMOM Roadmap 2024Q1-2.png]]
 # Resources
