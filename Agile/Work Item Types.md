@@ -3,12 +3,12 @@
 - Aim for a lifecycle of between 1Q and 4Qs
 - Capital Expenditure or Operational Expenditure depending on the type of work
 ## Epic
-Epics Deliver a high level piece of value to a customer. This may take more than one quarter to deliver, but should regularly close as progress is made. Long running Epics reduce transparency for delivery and should generally be avoided.
+Epics Deliver a high level piece of value to a customer. This may take more than one quarter to deliver, but should regularly close as progress is made. Long running Epics reduce transparency for [[delivery]] and should generally be avoided.
 
 Epics are either made up of multiple features, stories or both. They are the high level goal
 - A group of work items that primarily break down into Stories and Enablers to deliver customer value
-- Aim for less than 1Q delivery.
-	- If too large for 1Q delivery, requires splitting
+- Aim for less than 1Q [[delivery]].
+	- If too large for 1Q [[delivery]], requires splitting
 - Capital Expenditure of Operational Expenditure depending on the type of work
 
 ## Feature

@@ -14,6 +14,7 @@ tags:
 [[Scenario Planning]]
 [[Delivery Planning]]
 [[Finance#Budget|Budget Management]]
+[[Risk|Risk Management]]
 # Tools
 [[Jira]]
 Confluence

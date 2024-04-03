@@ -20,7 +20,7 @@ The [[Product]] Manager is a role in a [[Product Team]] that identifies a custom
 - Define [[Product]] [[Risk|Risks]]
 - Identify and Define the Problem
 - Build the [[Business Case]]
-- Manage Customer/User Relationships
+- Manage Customer/User/[[Stakeholders]] Relationships
 - Lead [[Discovery]]
 - Define the [[Project Charter]]
 - Define and Refine Scope
