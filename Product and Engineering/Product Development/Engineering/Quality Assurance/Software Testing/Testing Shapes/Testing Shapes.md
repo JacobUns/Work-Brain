@@ -11,6 +11,8 @@ Traditionally known as the testing triangle, this testing shape puts [[Unit Test
 When using [[Test Driven Development]] this is the most common type of testing shape, as all code will be covered by a high level of unit tests that cover all system behaviour. [[Integration Testing]] can be done in many ways, including [[Contract Testing]], [[Big Bang Testing]]
 
 # Testing Trophy
+[Kent C Dodds describes the testing trophy](https://kentcdodds.com/blog/static-vs-unit-vs-integration-vs-e2e-tests) with the context of Javascript development.
+Static tests constitute in-line testing that catches typos and type errors as you write code.
 ![[Testing Trophy.jpg]]
 
 # Testing Honeycomb

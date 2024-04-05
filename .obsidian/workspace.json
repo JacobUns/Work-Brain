@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b2e870747a862729",
+        "id": "ce50d23a16595239",
         "type": "tabs",
-        "dimension": 48.725212464589234,
+        "dimension": 58.286118980169974,
         "children": [
           {
-            "id": "73e374bc9fae36cf",
+            "id": "c2cdc118f4170391",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Occam's Razor.md",
+                "file": "Product and Engineering/Product Development/Engineering/Quality Assurance/Quality Assurance.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "b588c386d33c2d70",
         "type": "tabs",
-        "dimension": 51.27478753541076,
+        "dimension": 41.713881019830026,
         "children": [
           {
             "id": "8eacdfe041f6858b",
@@ -111,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Product and Engineering/Product Development/Engineering/Quality Assurance/Quality Assurance.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Product and Engineering/Product Development/Engineering/Quality Assurance/Quality Assurance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Product and Engineering/Product Development/Engineering/Quality Assurance/Quality Assurance.md"
+              }
             }
           }
         ],
@@ -169,8 +173,15 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "3c30b58b732ca64e",
+  "active": "c2cdc118f4170391",
   "lastOpenFiles": [
+    "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Images/Software Testing Structure.png",
+    "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Testing Shapes/Testing Shapes.md",
+    "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Testing Shapes/Images/Testing Trophy.jpg",
+    "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Testing Shapes/Images/Testing Triangle.png",
+    "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Testing Shapes/Images/Testing Honeycomb.png",
+    "Product and Engineering/Product Development/Engineering/Quality Assurance/Quality Assurance.md",
+    "Product and Engineering/Product Development/Engineering/Quality Assurance",
     "Philosophy/Occam's Razor.md",
     "Quotes.md",
     "Philosophy",
@@ -201,13 +212,7 @@
     "Product and Engineering/Product Development/UX/Testing Methods/AB Testing.md",
     "Product and Engineering/Product Development/UX/Laws/Law of Proximity.md",
     "Product and Engineering/Product Development/UX/Laws/Gestalt's Laws of Grouping.md",
-    "Product and Engineering/Product Development/UX/Laws/Fitt's Law.md",
-    "Product and Engineering/Product Development/Product/Product Metrics.md",
-    "Product and Engineering/Product Development/Product/Product Management.md",
     "Product and Engineering/Product Development/Delivery/Images/Scenario Decision Matrix.png",
-    "Product and Engineering/Product Development/Delivery/Images/Scenarios for developing Asset Management Operating.png",
-    "Product and Engineering/Product Development/Product/Images/Asset Management Operating Model Scenarios.png",
-    "Product and Engineering/Product Development/Delivery/Measurement/Images/ICS Dashboard Example.png",
     "Product and Engineering/Product Development/Engineering/Electrical Engineering",
     "Product and Engineering/Product Development/Delivery/Reporting",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Repositories/Source Control Flows",
@@ -216,7 +221,6 @@
     "Operations/Finance",
     "Commercial/Untitled",
     "Operations/Metrics",
-    "Operations/Business Ownership",
     "Untitled.canvas"
   ]
 }
