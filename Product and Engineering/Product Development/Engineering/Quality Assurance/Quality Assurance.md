@@ -26,3 +26,6 @@ At De Beers, the development of the Autoflow machines required specific parcels 
 Due to the nature of physical products, testing these through [[Automation Testing|Automation]] is much more difficult and so more often organisations prefer to manually test their creations instead.
 ## Software Products
 Software products will have a very similar set of tests to Physical in terms of concepts, but the benefit of software testing is that, should a business decide to invest in their infrastructure, that it can all be done virtually and in minutes and seconds rather than days. We can also go down to smaller granularity in much faster loops than physical products, but the concepts remain the same. For instance, one of the modern standards for [[Software Engineering|Software Development]] is the creation of [[Unit Testing|Unit Tests]]. Physical products can theoretically also be [[Unit Testing|Unit Tested]], but it has a much longer lead time and execution time. 
+
+# Example Test Structure
+![[Software Testing Structure.png]]
