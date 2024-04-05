@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Occam's Razor.md",
+                "file": "Product and Engineering/Product Development/Delivery/Delivery.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,8 +151,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,8 +168,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "3c30b58b732ca64e",
+  "active": "8eacdfe041f6858b",
   "lastOpenFiles": [
+    "Product and Engineering/Product Development/Delivery/Delivery.md",
+    "Product and Engineering/Product Development/Delivery/Delivery Management.md",
+    "Agile/Work Item Types.md",
+    "Agile/User Stories.md",
+    "Agile/Frameworks/Scrum/Scrum.md",
+    "Lean/Lean.md",
+    "Notes/De Beers/Finance Codes.md",
+    "Agile/Agile.md",
+    "Human Resources/Human Resources.md",
     "Philosophy/Occam's Razor.md",
     "Quotes.md",
     "Philosophy",
@@ -194,16 +202,7 @@
     "Product and Engineering/Product Development/Product/Story Mapping.md",
     "Product and Engineering/Product Development/Product/Product Vision Statement.md",
     "Product and Engineering/Product Development/Product/Requirements.md",
-    "Product and Engineering/Product Development/Product/Product Roadmap.md",
     "Product and Engineering/Product Development/Product/Images/ICS AMOM Roadmap 2024Q1-2.png",
-    "Product and Engineering/Product Development/UX/Testing Methods/Usability Testing.md",
-    "Product and Engineering/Product Development/UX/Testing Methods/Fake Door Test.md",
-    "Product and Engineering/Product Development/UX/Testing Methods/AB Testing.md",
-    "Product and Engineering/Product Development/UX/Laws/Law of Proximity.md",
-    "Product and Engineering/Product Development/UX/Laws/Gestalt's Laws of Grouping.md",
-    "Product and Engineering/Product Development/UX/Laws/Fitt's Law.md",
-    "Product and Engineering/Product Development/Product/Product Metrics.md",
-    "Product and Engineering/Product Development/Product/Product Management.md",
     "Product and Engineering/Product Development/Delivery/Images/Scenario Decision Matrix.png",
     "Product and Engineering/Product Development/Delivery/Images/Scenarios for developing Asset Management Operating.png",
     "Product and Engineering/Product Development/Product/Images/Asset Management Operating Model Scenarios.png",

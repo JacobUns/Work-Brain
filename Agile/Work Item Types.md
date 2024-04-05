@@ -12,7 +12,7 @@ Epics are either made up of multiple features, stories or both. They are the hig
 - Capital Expenditure of Operational Expenditure depending on the type of work
 
 ## Feature
-A rollup of multiple user stories that achieve a specific piece of value. This is a more granular Epic and in some organisations may just be called an epic. The aim for a feature is to close it rapidly, ideally within one quarter. If this is not an achievable timeframe then the Feature should be broken down to achieve this, and could potentially be considered Epic size in its own right. This terminology comes from [[Scaled Agile Framework for enterprise|SAFe]], Features consist of the customer facing value that will be used daily. Though the work associated to the development of a feature might constitute a feature of a product, it is likely that the work required to introduce an entirely new capability would not fit into a Feature-sized piece of work.
+A rollup of multiple [[user stories]] that achieve a specific piece of value. This is a more granular Epic and in some organisations may just be called an epic. The aim for a feature is to close it rapidly, ideally within one quarter. If this is not an achievable timeframe then the Feature should be broken down to achieve this, and could potentially be considered Epic size in its own right. This terminology comes from [[Scaled Agile Framework for enterprise|SAFe]], Features consist of the customer facing value that will be used daily. Though the work associated to the development of a feature might constitute a feature of a product, it is likely that the work required to introduce an entirely new capability would not fit into a Feature-sized piece of work.
 ## User Story
 
 ## Enabler
