@@ -6,7 +6,7 @@
       {
         "id": "ce50d23a16595239",
         "type": "tabs",
-        "dimension": 58.286118980169974,
+        "dimension": 53.78151260504202,
         "children": [
           {
             "id": "c2cdc118f4170391",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product and Engineering/Product Development/Engineering/Quality Assurance/Quality Assurance.md",
+                "file": "Product and Engineering/Product Development/Product/Product Metrics.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "b588c386d33c2d70",
         "type": "tabs",
-        "dimension": 41.713881019830026,
+        "dimension": 46.21848739495798,
         "children": [
           {
             "id": "8eacdfe041f6858b",
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Prince2",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product and Engineering/Product Development/Engineering/Quality Assurance/Quality Assurance.md",
+                "file": "Product and Engineering/Product Development/Product/Product Metrics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product and Engineering/Product Development/Engineering/Quality Assurance/Quality Assurance.md",
+                "file": "Product and Engineering/Product Development/Product/Product Metrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product and Engineering/Product Development/Engineering/Quality Assurance/Quality Assurance.md"
+                "file": "Product and Engineering/Product Development/Product/Product Metrics.md"
               }
             }
           }
@@ -175,12 +175,19 @@
   },
   "active": "c2cdc118f4170391",
   "lastOpenFiles": [
+    "Commercial/Metrics/Net Promoter Score.md",
+    "Product and Engineering/Product Development/Product/Product Metrics.md",
+    "Example North Stars.webp",
+    "Netflix North Star Example.webp",
+    "Operations/Metrics/Operational Metrics.md",
+    "Product and Engineering/Leadership/Line Management.md",
+    "Product and Engineering/Leadership/Images/Development Path.png",
+    "Product and Engineering/Product Development/Engineering/Quality Assurance/Quality Assurance.md",
     "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Images/Software Testing Structure.png",
     "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Testing Shapes/Testing Shapes.md",
     "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Testing Shapes/Images/Testing Trophy.jpg",
     "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Testing Shapes/Images/Testing Triangle.png",
     "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Testing Shapes/Images/Testing Honeycomb.png",
-    "Product and Engineering/Product Development/Engineering/Quality Assurance/Quality Assurance.md",
     "Product and Engineering/Product Development/Engineering/Quality Assurance",
     "Philosophy/Occam's Razor.md",
     "Quotes.md",
@@ -191,8 +198,6 @@
     "Product and Engineering/Product Development/Product/Images/AMOM Roadmap 2024Q1-2.png",
     "Product and Engineering/Product Development/Product/Images/Story Mapping Workshop Example Cut Releases.png",
     "Product and Engineering/Product Development/Product/Images/Story Mapping Workshop Example.png",
-    "Product and Engineering/Product Development/Product/Images/AMOM roadmap example.png",
-    "Product and Engineering/Product Development/Product/Images/ICS IoT Agent Scalability and Robustness Story Map Original.png",
     "Strategy/Objective Key Results.md",
     "Strategy/Key Performance Indicators.md",
     "Strategy/Business Strategy.md",
@@ -206,13 +211,8 @@
     "Product and Engineering/Product Development/Product/Product Vision Statement.md",
     "Product and Engineering/Product Development/Product/Requirements.md",
     "Product and Engineering/Product Development/Product/Product Roadmap.md",
-    "Product and Engineering/Product Development/Product/Images/ICS AMOM Roadmap 2024Q1-2.png",
     "Product and Engineering/Product Development/UX/Testing Methods/Usability Testing.md",
     "Product and Engineering/Product Development/UX/Testing Methods/Fake Door Test.md",
-    "Product and Engineering/Product Development/UX/Testing Methods/AB Testing.md",
-    "Product and Engineering/Product Development/UX/Laws/Law of Proximity.md",
-    "Product and Engineering/Product Development/UX/Laws/Gestalt's Laws of Grouping.md",
-    "Product and Engineering/Product Development/Delivery/Images/Scenario Decision Matrix.png",
     "Product and Engineering/Product Development/Engineering/Electrical Engineering",
     "Product and Engineering/Product Development/Delivery/Reporting",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Repositories/Source Control Flows",
