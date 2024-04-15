@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "fe6c3af74a45ebd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6e444ff00c57b5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product and Engineering/Product Development/Product/Project Charter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "b588c386d33c2d70",
         "type": "tabs",
         "children": [
@@ -91,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Product and Engineering/Product Development/Product/Project Charter.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Product and Engineering/Product Development/Product/Project Charter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Product and Engineering/Product Development/Product/Project Charter.md"
+              }
             }
           }
         ]
@@ -148,15 +170,22 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "8eacdfe041f6858b",
+  "active": "e6e444ff00c57b5d",
   "lastOpenFiles": [
+    "Product and Engineering/Product Development/Product/Images/Sanitised De Beers Project Charter.png",
+    "Product and Engineering/Product Development/Product/Images/Project Charter Template.png",
+    "Product and Engineering/Product Development/Product/Product Vision Statement.md",
+    "Product and Engineering/Product Development/Product/Product Management.md",
+    "Product and Engineering/Product Development/Product/Product Metrics.md",
+    "Product and Engineering/Product Development/Product/Product Roadmap.md",
+    "Product and Engineering/Product Development/Product/Project Charter.md",
+    "Agile/Frameworks/Common Practices/Daily Stand-up.md",
     "Operations/Operations.md",
     "Agile/Work Item Types.md",
     "Operations/Customer Support/Service Level Agreements.md",
     "Product and Engineering/Product Development/Product/Images/Example North Stars.webp",
     "Untitled.canvas",
     "Agile/Frameworks/Scrum/Scrum.md",
-    "Product and Engineering/Product Development/Product/Product Metrics.md",
     "Commercial/Metrics/Net Promoter Score.md",
     "Product and Engineering/Product Development/Product/Images/Netflix North Star Example.webp",
     "Operations/Metrics/Operational Metrics.md",
@@ -177,18 +206,11 @@
     "Acronyms.md",
     "Product and Engineering/Product Development/Product/Images/AMOM Roadmap 2024Q1-2.png",
     "Product and Engineering/Product Development/Product/Images/Story Mapping Workshop Example Cut Releases.png",
-    "Product and Engineering/Product Development/Product/Images/Story Mapping Workshop Example.png",
     "Strategy/Objective Key Results.md",
     "Strategy/Key Performance Indicators.md",
     "Strategy/Business Strategy.md",
     "Strategy/Business Model.md",
     "Product and Engineering/Risks/ROAMing Risks.md",
-    "Product and Engineering/Risks/Risks, Actions, Issues and Dependencies.md",
-    "Product and Engineering/Risks/Risk.md",
-    "Product and Engineering/Product Development/UX/User Experience.md",
-    "Product and Engineering/Product Development/UX/Product Designer.md",
-    "Product and Engineering/Product Development/Product/Story Mapping.md",
-    "Product and Engineering/Product Development/Product/Product Vision Statement.md",
     "Product and Engineering/Product Development/Engineering/Electrical Engineering",
     "Product and Engineering/Product Development/Delivery/Reporting",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Repositories/Source Control Flows",
