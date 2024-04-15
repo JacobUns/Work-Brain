@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product and Engineering/Product Development/Product/Project Charter.md",
+                "file": "Product and Engineering/Product Development/Product/Product Metrics.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product and Engineering/Product Development/Product/Project Charter.md",
+                "file": "Product and Engineering/Product Development/Product/Product Metrics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product and Engineering/Product Development/Product/Project Charter.md",
+                "file": "Product and Engineering/Product Development/Product/Product Metrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product and Engineering/Product Development/Product/Project Charter.md"
+                "file": "Product and Engineering/Product Development/Product/Product Metrics.md"
               }
             }
           }
@@ -172,20 +172,28 @@
   },
   "active": "e6e444ff00c57b5d",
   "lastOpenFiles": [
+    "Strategy/Key Performance Indicators.md",
+    "Agile/User Stories.md",
+    "Agile/Weber-Fechner Law.md",
+    "Agile/Frameworks/Kanban.md",
+    "Agile/Frameworks/Extreme Programming.md",
+    "Agile/Frameworks/Scrum/Scrum.md",
+    "Agile/Frameworks/Scrum/End of Sprint Activities.md",
+    "Agile/Frameworks/Scaled Agile Framework for enterprise.md",
+    "Agile/Frameworks/Large Scale Scrum (LeSS).md",
+    "Agile/Frameworks/Common Practices/Daily Stand-up.md",
+    "Product and Engineering/Product Development/Product/Project Charter.md",
     "Product and Engineering/Product Development/Product/Images/Sanitised De Beers Project Charter.png",
     "Product and Engineering/Product Development/Product/Images/Project Charter Template.png",
     "Product and Engineering/Product Development/Product/Product Vision Statement.md",
     "Product and Engineering/Product Development/Product/Product Management.md",
     "Product and Engineering/Product Development/Product/Product Metrics.md",
     "Product and Engineering/Product Development/Product/Product Roadmap.md",
-    "Product and Engineering/Product Development/Product/Project Charter.md",
-    "Agile/Frameworks/Common Practices/Daily Stand-up.md",
     "Operations/Operations.md",
     "Agile/Work Item Types.md",
     "Operations/Customer Support/Service Level Agreements.md",
     "Product and Engineering/Product Development/Product/Images/Example North Stars.webp",
     "Untitled.canvas",
-    "Agile/Frameworks/Scrum/Scrum.md",
     "Commercial/Metrics/Net Promoter Score.md",
     "Product and Engineering/Product Development/Product/Images/Netflix North Star Example.webp",
     "Operations/Metrics/Operational Metrics.md",
@@ -202,15 +210,7 @@
     "Quotes.md",
     "Philosophy",
     "Interview Questions.md",
-    "Glossary.md",
-    "Acronyms.md",
     "Product and Engineering/Product Development/Product/Images/AMOM Roadmap 2024Q1-2.png",
-    "Product and Engineering/Product Development/Product/Images/Story Mapping Workshop Example Cut Releases.png",
-    "Strategy/Objective Key Results.md",
-    "Strategy/Key Performance Indicators.md",
-    "Strategy/Business Strategy.md",
-    "Strategy/Business Model.md",
-    "Product and Engineering/Risks/ROAMing Risks.md",
     "Product and Engineering/Product Development/Engineering/Electrical Engineering",
     "Product and Engineering/Product Development/Delivery/Reporting",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Repositories/Source Control Flows",
