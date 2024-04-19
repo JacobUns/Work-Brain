@@ -36,3 +36,20 @@ Software products will have a very similar set of tests to Physical in terms of 
 
 # Example Test Structure
 ![[Software Testing Structure.png]]
+
+# QA Standards Definition Questions
+- How should we define our nomenclature?  
+- Where do we store the tests?  
+- Where do we store the results?  
+- Where do we store the automation code?  
+- What should the tech stack look like?  
+- What documentation do we need to create?  
+- How do we trigger our tests?
+	- Azure DevOps to Automation Code to DevOps Pipeline?
+	- After environment creation?
+	- During deployment?
+	- Overnight?
+- What should tests look like?
+	- Scenarios in confluence, cases in Azure DevOps? 
+- Difference in Standards for prototyping vs production-ready development?  
+- When should we look to Automate vs Manually test?

@@ -9,12 +9,14 @@ tags:
 # About
 Scrum is an [[Agile]] framework that embodies the [[Agile#Principles|Agile Principles]] and [[Agile#Values|Values]] created by Ken Schwaber and Jeff Sutherland in the early 1990s. With foundations in [[Lean]] and [[Agile]], the framework provides guidance on ways of operating that improves our ability to communicate with and deliver value to customers.
 # Empiricism
+This is the theory that all learning comes from experience and observation. It argues that Empiricism is a more reliable way of finding the truth as apposed to pure logical reasoning. It effectively speaks to the concept of [[Learning Test Cycles#Experiments|Experimentation]], as per the etymology of the word coming from the Greek empeiria and Latin experientia from which the English words Experiment and Experience are derived. Followers of Empiricism argue it is the best way to learn, as logical reasoning may miss scenarios due to unknown factors being presented during the experiment.
 
-# Principles
+# Principles & Values
+## Principles
 ### Transparency
 ### Inspection
 ### Adaptation
-# Values
+## Values
 ### Commitment
 ### Focus
 ### Openness
@@ -34,7 +36,7 @@ Scrum is an [[Agile]] framework that embodies the [[Agile#Principles|Agile Princ
 ### Law of the Customer
 ### Law of the Network
 
-## Roles
+# Roles
 ### Product Owner
 ### Scrum Master
 ### Development Team

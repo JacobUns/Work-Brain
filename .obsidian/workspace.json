@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product and Engineering/Product Development/Product/Product Metrics.md",
+                "file": "Agile/Frameworks/Scrum/Scrum.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 420.5
   },
   "right": {
     "id": "9348ad63bb8f78f0",
@@ -109,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product and Engineering/Product Development/Product/Product Metrics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product and Engineering/Product Development/Product/Product Metrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Product and Engineering/Product Development/Product/Product Metrics.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -170,24 +166,29 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e6e444ff00c57b5d",
+  "active": "8eacdfe041f6858b",
   "lastOpenFiles": [
+    "Agile/Frameworks/Scrum/Scrum.md",
+    "Agile/Frameworks/Scrum/End of Sprint Activities.md",
+    "Agile/Frameworks/Common Practices/Daily Stand-up.md",
+    "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Types of Testing/Unit Testing.md",
+    "Product and Engineering/Product Development/Engineering/Quality Assurance/Quality Assurance.md",
+    "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Testing Shapes/Testing Shapes.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/Software Engineering.md",
+    "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Automation Testing/Automation Testing.md",
+    "Product and Engineering/Product Development/Product/Project Charter.md",
+    "Product and Engineering/Product Development/Product/Images/Project Charter Template.png",
+    "Product and Engineering/Product Development/Product/Product Metrics.md",
     "Strategy/Key Performance Indicators.md",
     "Agile/User Stories.md",
     "Agile/Weber-Fechner Law.md",
     "Agile/Frameworks/Kanban.md",
     "Agile/Frameworks/Extreme Programming.md",
-    "Agile/Frameworks/Scrum/Scrum.md",
-    "Agile/Frameworks/Scrum/End of Sprint Activities.md",
     "Agile/Frameworks/Scaled Agile Framework for enterprise.md",
     "Agile/Frameworks/Large Scale Scrum (LeSS).md",
-    "Agile/Frameworks/Common Practices/Daily Stand-up.md",
-    "Product and Engineering/Product Development/Product/Project Charter.md",
     "Product and Engineering/Product Development/Product/Images/Sanitised De Beers Project Charter.png",
-    "Product and Engineering/Product Development/Product/Images/Project Charter Template.png",
     "Product and Engineering/Product Development/Product/Product Vision Statement.md",
     "Product and Engineering/Product Development/Product/Product Management.md",
-    "Product and Engineering/Product Development/Product/Product Metrics.md",
     "Product and Engineering/Product Development/Product/Product Roadmap.md",
     "Operations/Operations.md",
     "Agile/Work Item Types.md",
@@ -199,17 +200,12 @@
     "Operations/Metrics/Operational Metrics.md",
     "Product and Engineering/Leadership/Line Management.md",
     "Product and Engineering/Leadership/Images/Development Path.png",
-    "Product and Engineering/Product Development/Engineering/Quality Assurance/Quality Assurance.md",
     "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Images/Software Testing Structure.png",
-    "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Testing Shapes/Testing Shapes.md",
     "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Testing Shapes/Images/Testing Trophy.jpg",
     "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Testing Shapes/Images/Testing Triangle.png",
     "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Testing Shapes/Images/Testing Honeycomb.png",
     "Product and Engineering/Product Development/Engineering/Quality Assurance",
-    "Philosophy/Occam's Razor.md",
-    "Quotes.md",
     "Philosophy",
-    "Interview Questions.md",
     "Product and Engineering/Product Development/Product/Images/AMOM Roadmap 2024Q1-2.png",
     "Product and Engineering/Product Development/Engineering/Electrical Engineering",
     "Product and Engineering/Product Development/Delivery/Reporting",

@@ -13,7 +13,7 @@ A repository with multiple projects but with no relationship between them would 
 - Reduces the need to publish packages if all consumers are in the same repository
 - Reduces potential overhead from infrastructure configuration to deploy and integrate code
 - Highlights problems with integrating code immediately and reduces breaking changes
-- One place to store all config and testing means reduced cognitive load when setting up a solution and quicker recognition of errors
+- One place to store all config and [[Quality Assurance|testing]] means reduced cognitive load when setting up a solution and quicker recognition of errors
 - Easier dependency management for imported packages
 ## Disadvantages
 - No way to restrict access only to some parts of the solution

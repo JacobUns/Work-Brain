@@ -16,7 +16,7 @@
 - Communication barriers between Three Amigos causing friction
 - Not directly answering questions
 	- Example - Laura asking whether we were aware of the Stage Gate process being implemented by Martyn, with Michele answering about the rollout of the Agent onto machines.
-- Separation of Development and Testing Efforts
+- Separation of Development and [[Quality Assurance|Testing]] Efforts
 	- This is partly due to Bond's lack of replacement & Hari only just starting to get up to speed
 # Ideal Solution
 - Define the scope in written form, either as an Epic or Feature level piece of work with measurable goals
