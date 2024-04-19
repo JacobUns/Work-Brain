@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Agile/Frameworks/Scrum/Scrum.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Agile/Frameworks/Scrum/Scrum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,10 +148,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Agile/Frameworks/Scrum/Scrum.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -166,9 +171,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "8eacdfe041f6858b",
+  "active": "e6e444ff00c57b5d",
   "lastOpenFiles": [
+    "Product and Engineering/Product Development/Delivery/Six Sigma.md",
+    "Product and Engineering/Product Development/Delivery/Waterfall.md",
+    "Lean/Learning Test Cycles.md",
+    "Product and Engineering/Product Development/Delivery/Images/Lean Six Sigma.png",
     "Agile/Frameworks/Scrum/Scrum.md",
+    "Product and Engineering/Product Development/Delivery/Images/Six Sigma Cycle.png",
     "Agile/Frameworks/Scrum/End of Sprint Activities.md",
     "Agile/Frameworks/Common Practices/Daily Stand-up.md",
     "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Types of Testing/Unit Testing.md",
@@ -195,18 +205,13 @@
     "Operations/Customer Support/Service Level Agreements.md",
     "Product and Engineering/Product Development/Product/Images/Example North Stars.webp",
     "Untitled.canvas",
-    "Commercial/Metrics/Net Promoter Score.md",
     "Product and Engineering/Product Development/Product/Images/Netflix North Star Example.webp",
-    "Operations/Metrics/Operational Metrics.md",
-    "Product and Engineering/Leadership/Line Management.md",
     "Product and Engineering/Leadership/Images/Development Path.png",
     "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Images/Software Testing Structure.png",
     "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Testing Shapes/Images/Testing Trophy.jpg",
     "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Testing Shapes/Images/Testing Triangle.png",
-    "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Testing Shapes/Images/Testing Honeycomb.png",
     "Product and Engineering/Product Development/Engineering/Quality Assurance",
     "Philosophy",
-    "Product and Engineering/Product Development/Product/Images/AMOM Roadmap 2024Q1-2.png",
     "Product and Engineering/Product Development/Engineering/Electrical Engineering",
     "Product and Engineering/Product Development/Delivery/Reporting",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Repositories/Source Control Flows",
