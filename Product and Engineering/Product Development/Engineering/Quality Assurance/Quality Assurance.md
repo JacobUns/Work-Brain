@@ -12,6 +12,13 @@ aliases:
 The discipline of Quality Assurance is that of testing what has been produced within a [[Product Team]]. It is the first line of defense against degradation of service and deterioration of customer confidence and engagement due to reduction in quality. The practice focuses on determining whether what has been produced is of the right level of quality, but not necessarily whether it achieves as much value as expected. This may be done through [[Release on Demand]] strategies, such as [[AB Testing]] or [[Usability Testing]].
 # Practices
 ## Test Cases
+Test Cases define the execution of steps to create behaviour in a system and should be outlined with the expected behaviour. This then forms the basis of defining and documenting the system interactions during development and enables [[Regression Testing]] for any deviation.
+
+The test case may either identify what is typically referred to as the Happy or Sad path during the test, but should keep to the bounds of one flow rather than crossing context. This is to ensure clarity in purpose and execution outcome, as executing multiple flows in one test can make it difficult to understand each test's purpose. Doing so also makes it more difficult to parallelize work between either automation or individuals, depending on the type of testing being executed.
+### Happy Path
+Happy path testing should detail the expected steps required to produce the positive result for the system. It often assumes that users will input all the correct information and required parameters for the test to pass. As a result, it's typically the first type of testing that is executed by developers and testers alike.
+### Sad Path
+Of the two types of testing, Sad Path is often the most difficult and generally most neglected form of testing for which to create a high level of coverage. Sad path requires the engineer or tester to validate that the system behaves as expected when things go wrong, either by way of a user providing the wrong type of information, or from 
 ## Test Suites
 
 # Types
@@ -29,3 +36,20 @@ Software products will have a very similar set of tests to Physical in terms of 
 
 # Example Test Structure
 ![[Software Testing Structure.png]]
+
+# QA Standards Definition Questions
+- How should we define our nomenclature?  
+- Where do we store the tests?  
+- Where do we store the results?  
+- Where do we store the automation code?  
+- What should the tech stack look like?  
+- What documentation do we need to create?  
+- How do we trigger our tests?
+	- Azure DevOps to Automation Code to DevOps Pipeline?
+	- After environment creation?
+	- During deployment?
+	- Overnight?
+- What should tests look like?
+	- Scenarios in confluence, cases in Azure DevOps? 
+- Difference in Standards for prototyping vs production-ready development?  
+- When should we look to Automate vs Manually test?

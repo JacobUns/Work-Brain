@@ -170,7 +170,7 @@ Comparing each, it is clear to see that the most profitable choice is to priorit
 This is as described above.
 ![[cost-of-delay-standard.webp]]
 ### CoD Tied to Fixed Date
-An example of this is in hitting an SLA. The cost of delay is non-existent or low until a specific time, at which point its cost grows exponentially. This may be due to fines placed on the SLA at certain levels which could be either by refund or by negotiated fee.
+An example of this is in hitting an [[Service Level Agreements|SLA]]. The cost of delay is non-existent or low until a specific time, at which point its cost grows exponentially. This may be due to fines placed on the [[Service Level Agreements|SLA]] at certain levels which could be either by refund or by negotiated fee.
 ![[cost-of-delay-fixed.webp]]
 ### CoD Tied to Urgency
 An example of this is launching ahead of a competitor or disruption in the sector. The cost increases rapidly until a fixed and constant amount that reflects the impact on the organisation against the market.

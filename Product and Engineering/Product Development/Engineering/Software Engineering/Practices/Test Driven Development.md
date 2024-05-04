@@ -11,7 +11,7 @@ Test Driven Development (TDD) is a method of writing code where the focus is on 
 
 The method requires writing the tests associated to code before writing the code itself to prove that the code behaves as expected. Each change should be small, and you should remain in control of your test the entire time. If you are not able to predict preciously what change is going to happen, this indicates you are making too large a change. The key to successful TDD is small increments and fast feedback.
 
-You should not be writing all test first, and then trying to make them all pass. The point of TDD is to take small steps, create a test for a [[Learning Test Cycles#Hypotheses|Hypotheses]], then write just enough code to prove that [[Learning Test Cycles#Hypotheses|Hypothesis]]. Finally, it's just as much about creating documentation for how your system should work as it is about testing your code works as expected. Your tests will show someone new to the code how it should work, and provide them the confidence they need to make changes to that code.
+You should not be writing all test first, and then trying to make them all pass. The point of TDD is to take small steps, create a test for a [[Learning Test Cycles#Hypotheses|Hypotheses]], then write just enough code to prove that [[Learning Test Cycles#Hypotheses|Hypothesis]]. Finally, it's just as much about creating documentation for how your system should work as it is about [[Quality Assurance|testing]] your code works as expected. Your tests will show someone new to the code how it should work, and provide them the confidence they need to make changes to that code.
 
 ## Framework for TDD
 ![[TDD TRbGbR Framework.png]]

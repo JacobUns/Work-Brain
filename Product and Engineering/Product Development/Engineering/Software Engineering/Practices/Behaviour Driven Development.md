@@ -51,7 +51,7 @@ Then the web store should pop up a sidebar on the right of the window with the b
 ```
 # Tools
 ## Cucumber
-Cucumber is a testing tool to represent Gherkin in [[Automation Testing]]. There are two versions, one which is Open Source and contributed to by a community, and Pro version which offers integration with Jira as well as a suite of tools for using its interpretation for the language. Due to its open source nature, the community have also made it possible to integrate Cucumber natively into some testing frameworks such as [[Automation Testing#Playwright|Playwright]]. 
+Cucumber is a [[Quality Assurance|testing]] tool to represent Gherkin in [[Automation Testing]]. There are two versions, one which is Open Source and contributed to by a community, and Pro version which offers integration with Jira as well as a suite of tools for using its interpretation for the language. Due to its open source nature, the community have also made it possible to integrate Cucumber natively into some [[Quality Assurance|testing]] frameworks such as [[Automation Testing#Playwright|Playwright]]. 
 ## Specflow
 Similarly to Cucumber, Specflow is a tool for converting Gherkin language into executable tests for the purpose of [[Automation Testing]]. Specflow was created for the purpose of integration with [[Automation Testing#Selenium|Selenium]] and .NET languages.
 # References
