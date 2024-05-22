@@ -89,6 +89,8 @@ TSRB - Technical Standards Review Board ^TSRB
 TSS - Technical Service Support ^TSS
 
 D&H - Distribution & Handling ^DH
+
+GOaL - Global Operations and Logistics
 ## Products
 ACAS - Automated Cutting and Shaping ^ACAS
 
