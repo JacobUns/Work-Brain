@@ -18,6 +18,8 @@ PFMEA - [[Process Failure Mode Effect Analysis]] ^PFMEA
 
 PLC - Programmable Logic Controller ^ProgLogicCont
 
+RAM - Risk Assessment Matrix ^RAM
+
 C&I - Control and Instrumentation ^CAndI
 ## Software
 AAD - Azure Active Directory

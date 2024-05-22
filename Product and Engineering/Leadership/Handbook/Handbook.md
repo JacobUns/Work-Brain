@@ -2,10 +2,19 @@
 - Onboarding Guide for new starters
 - Onboarding guide for managers
 - Tooling and how it's used
+- Company specific onboarding information
+	- Seating/office procedures
+	- Hot-desk booking
+	- Important applications
+		- Travel
+		- Expenses
+		- Visitor booking
 - Standards and Guidelines
 	- Process for creating a new [[Micro-service Architecture|Micro-service]]
 	- Code Quality Standards
 	- [[Release on Demand]] and Feature Flagging Guidelines
+	- Documentation standards
+	- Testing Standards
 - Soft Skills
 	- Time Management
 	- Meeting Facilitation
@@ -25,3 +34,9 @@
 	- [[Object Orientated Programming|OOP]]
 	- [[SOLID Principles|SOLID]]
 - Resources
+
+# Applications for Handbook
+- Confluence
+- Markdown Static Site Generator
+	- Obsidian (paid)
+- Sharepoint
