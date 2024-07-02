@@ -6,7 +6,7 @@
       {
         "id": "ce50d23a16595239",
         "type": "tabs",
-        "dimension": 58.286118980169974,
+        "dimension": 39.735099337748345,
         "children": [
           {
             "id": "c2cdc118f4170391",
@@ -14,18 +14,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acronyms.md",
+                "file": "Operations/Tools for Teams/Root Cause Analysis/Root Cause Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e52b34e9a8b0a63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operations/Customer Support/Customer Support.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b588c386d33c2d70",
         "type": "tabs",
-        "dimension": 41.713881019830026,
+        "dimension": 60.264900662251655,
         "children": [
           {
             "id": "8eacdfe041f6858b",
@@ -95,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 329.5
   },
   "right": {
     "id": "9348ad63bb8f78f0",
@@ -111,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acronyms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Acronyms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,16 +161,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Acronyms.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,8 +182,19 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c2cdc118f4170391",
+  "active": "8eacdfe041f6858b",
   "lastOpenFiles": [
+    "Operations/Customer Support/Customer Support.md",
+    "Operations/Operations.md",
+    "Homepage.md",
+    "Operations/Tools for Teams/Root Cause Analysis/Root Cause Analysis.md",
+    "Operations/Tools for Teams/Root Cause Analysis/Five Whys.md",
+    "Notes/De Beers/Andja 1-2-1s/Requested Feedback 2024-06-13.md",
+    "Notes/De Beers/Andja 1-2-1s/1-2-1 - Friday 21st June 2024.md",
+    "Notes/De Beers/Requested Feedback Notes 01-07-24.md",
+    "Notes/De Beers/Andja 1-2-1s",
+    "Glossary.md",
+    "Acronyms.md",
     "Product and Engineering/Product Development/Engineering/Quality Assurance/Quality Assurance.md",
     "Product and Engineering/Product Development/Product/Project Charter.md",
     "Product and Engineering/Product Development/Product/Product Commercial Models/Software as a Service.md",
@@ -200,26 +221,15 @@
     "Quotes.md",
     "Philosophy",
     "Interview Questions.md",
-    "Glossary.md",
-    "Acronyms.md",
     "Strategy/Objective Key Results.md",
     "Strategy/Key Performance Indicators.md",
     "Strategy/Business Strategy.md",
-    "Strategy/Business Model.md",
-    "Product and Engineering/Risks/ROAMing Risks.md",
-    "Product and Engineering/Risks/Risks, Actions, Issues and Dependencies.md",
-    "Product and Engineering/Risks/Risk.md",
-    "Product and Engineering/Product Development/UX/User Experience.md",
-    "Product and Engineering/Product Development/UX/Product Designer.md",
-    "Product and Engineering/Product Development/Product/Story Mapping.md",
-    "Product and Engineering/Product Development/Product/Product Vision Statement.md",
     "Product and Engineering/Product Development/Engineering/Electrical Engineering",
     "Product and Engineering/Product Development/Delivery/Reporting",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Repositories/Source Control Flows",
     "Product and Engineering/Product Development/Delivery/Frameworks",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Architectural Design/Images",
     "Operations/Finance",
-    "Commercial/Untitled",
     "Untitled.canvas"
   ]
 }

@@ -3,7 +3,7 @@ tags:
   - Definition
   - "#BrainInfrastructure"
 ---
-# General
+# General Terms
 Accountability - Taking ownership of the results of a task, with the [[Glossary#^Responsibility|responsibility]] to provide explanation for success or failure. ^Accountability
 
 Business Vision - 

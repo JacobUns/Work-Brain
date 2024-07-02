@@ -92,11 +92,13 @@ TSS - Technical Service Support ^TSS
 
 D&H - Distribution & Handling ^DH
 
-GOaL - Global Operations and Logistics
+GOaL - Global Operations and Logistics ^GOaL
 ## Products
 ACAS - Automated Cutting and Shaping ^ACAS
 
 AF - Autoflow ^AF
+
+AMS - Automated Melee Sorting ^AMS
 
 ICS - Ignite Cloud Services ^ICS
 

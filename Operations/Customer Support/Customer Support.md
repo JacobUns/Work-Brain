@@ -21,3 +21,6 @@ tags:
 - Time to Resolution
 # Frameworks
 - [[ITIL]]
+# Diagnosis
+# Post-mortem
+[[Root Cause Analysis]]
