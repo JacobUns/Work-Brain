@@ -23,13 +23,13 @@ Model - The visualisation or verbalisation of a [[Glossary#^Concept|Concept]]. ^
 Practice - The implementation of a [[Glossary#^Concept|Concept]], often in conjunction with a [[Glossary#^Model|Model]]. ^Practice
 
 Responsibility - Taking ownership of a task or assignment within the scope of their role and criteria for success. ^Responsibility
-# Delivery
+# [[Delivery]]
 Delivery Planning - Any activity that produces an [[#^Output|output]] providing an indication of *when* a valuable deliverable that satisfies the required specification and value will be made available to users or customers. ^DeliveryPlan
 
 Mid-level Planning - A plan that obfuscates how something will be achieved by rolling up execution detail into blocks for inspection by stakeholders. This level of planning gives a high-level view into progress without getting bogged down in how the progress is made. Depending on the approach, the specificity and certainty may range from highly ambiguous and risky to educated and conservative. ^MidLevelPlan
 
 Execution Planning - A detailed plan identifying *when and how* an [[#^Output|output]] is to be achieved to a level of specificity and certainty that allows for further planning of upcoming initiatives. ^ExecutionPlan
-# Product
+# [[Product]]
 Roadmap - High-level strategic direction for a [[product]] or project. Provides a team and its stakeholders insight into what the current priorities are and what is likely to be approached next. Ideally, this is not timebound as this is defined in the [[#^DeliveryPlanning|delivery]]/[[#^MidLevelPlan|mid-level]]/[[#^ExecutionPlan|execution plan]]. ^Roadmap
 # [[DevOps]]
 See [[DevOps Glossary|DevOps Glossary]]

@@ -4,37 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ce50d23a16595239",
+        "id": "12dd109e8a367cd1",
         "type": "tabs",
-        "dimension": 56.902002107481565,
         "children": [
           {
-            "id": "c2cdc118f4170391",
+            "id": "a45c1fecc582d3dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary.md",
+                "file": "Acronyms.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b588c386d33c2d70",
-        "type": "tabs",
-        "dimension": 43.09799789251844,
-        "children": [
-          {
-            "id": "8eacdfe041f6858b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
             }
           }
         ]
@@ -111,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary.md",
+                "file": "Acronyms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossary.md",
+                "file": "Acronyms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary.md"
+                "file": "Acronyms.md"
               }
             }
           }
@@ -173,23 +155,62 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c2cdc118f4170391",
+  "floating": {
+    "id": "24ce502abd79bec5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5c0e4f7b26687c7a",
+        "type": "window",
+        "children": [
+          {
+            "id": "93cab41f63e8950d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8eacdfe041f6858b",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 373,
+        "y": 0,
+        "width": 1174,
+        "height": 1152,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "a45c1fecc582d3dd",
   "lastOpenFiles": [
+    "Notes/De Beers/1-2-1s/2024-06-13 Requested Feedback.md",
+    "Notes/De Beers/1-2-1s/2024-06-21 1-2-1 Notes.md",
+    "Notes/De Beers/2024-07-01 Requested Employee Feedback Notes.md",
+    "Product and Engineering/Product Development/Delivery/Delivery Management.md",
+    "Product and Engineering/Product Development/Delivery/Delivery.md",
+    "Glossary.md",
+    "Product and Engineering/Product Development/Engineering/Software Engineering/DevOps/DevOps.md",
+    "Product and Engineering/Product Development/Product/Product.md",
     "Operations/Culture/Outcomes & Outputs.md",
     "Resources.md",
     "Product and Engineering/Product Development/Engineering/Software Engineering/Software Engineering.md",
-    "Glossary.md",
     "Operations/Tools for Teams/Root Cause Analysis/Root Cause Analysis.md",
     "Operations/Tools for Teams/Root Cause Analysis/Models/Five Whys.md",
-    "Notes/De Beers/Andja 1-2-1s/Requested Feedback 2024-06-13.md",
     "Operations/Tools for Teams/Root Cause Analysis/Models/A3 Problem-Solving.md",
     "Operations/Tools for Teams/Root Cause Analysis/Models",
     "Operations/Customer Support/Customer Support.md",
     "Operations/Operations.md",
     "Homepage.md",
-    "Notes/De Beers/Andja 1-2-1s/1-2-1 - Friday 21st June 2024.md",
-    "Notes/De Beers/Requested Feedback Notes 01-07-24.md",
-    "Notes/De Beers/Andja 1-2-1s",
+    "Notes/De Beers/1-2-1s",
     "Acronyms.md",
     "Product and Engineering/Product Development/Engineering/Quality Assurance/Quality Assurance.md",
     "Product and Engineering/Product Development/Product/Project Charter.md",
@@ -207,14 +228,10 @@
     "Product and Engineering/Product Development/Delivery/Images/Six Sigma Cycle.png",
     "Product and Engineering/Product Development/Delivery/Images/Lean Six Sigma.png",
     "Product and Engineering/Leadership/Images/Development Path.png",
-    "Operations/Customer Support/Service Level Agreements.md",
     "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Images/Software Testing Structure.png",
-    "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Testing Shapes/Testing Shapes.md",
     "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Testing Shapes/Images/Testing Trophy.jpg",
     "Product and Engineering/Product Development/Engineering/Quality Assurance/Software Testing/Testing Shapes/Images/Testing Triangle.png",
     "Product and Engineering/Product Development/Engineering/Quality Assurance",
-    "Philosophy/Occam's Razor.md",
-    "Quotes.md",
     "Philosophy",
     "Product and Engineering/Product Development/Engineering/Electrical Engineering",
     "Product and Engineering/Product Development/Delivery/Reporting",
