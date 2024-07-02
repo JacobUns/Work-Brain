@@ -33,7 +33,7 @@ The Lean Startup - Eric Ries #TheLeanStartup #EricRies
 
 Continuous Discovery Habits - Teresa Torres #Product #TeresaTorres
 
-Outcomes Over Outputs - Josh Seidan #Leadership #JoshSeiden 
+Outcomes Over Outputs - Josh Seidan  #Leadership #JoshSeiden ^OutcomesOverOutputs
 
 Running Lean - Ash Maurya #Delivery
 
